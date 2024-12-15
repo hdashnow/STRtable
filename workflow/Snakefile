@@ -61,12 +61,14 @@ else:
 
 rule check_loci:
     input:
-        in_json = in_json
+        in_json = in_json,
+        schema = "{base_dir}STRchive-loci.schema.json"
     output:
         check = temp("{base_dir}check-loci.txt")
     shell:
         """
         python {scripts_dir}check-loci.py {input.in_json} 2> {output.check}
+        python {scripts_dir}validate-loci.py {input.in_json} {input.schema}
         """
 
 rule retrieve:
