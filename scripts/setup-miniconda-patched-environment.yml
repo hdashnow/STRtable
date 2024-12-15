@@ -9,6 +9,7 @@ dependencies:
   - defopt
   - snakemake
   - jsbeautifier
+  - jsonschema
   - r-essentials
   - r-jsonlite
   - r-dplyr
