@@ -3197,7 +3197,7 @@
   "locus_tags": ["sparse_evidence"],
   "disease_tags": [],
   "references": ["omim:616488", "pmid:26005867", "genereviews:NBK535148", "mondo:0014662"],
-  "additional_literature": ["pmid:"]
+  "additional_literature": []
 },
 {
   "chrom": "chr20",
@@ -3709,7 +3709,7 @@
   "locus_tags": ["sparse_evidence", "contraction"],
   "disease_tags": [],
   "references": ["pmid:19654509", "pmid:21289259", "pmid:17127446", "genereviews:NBK535148", "omim:300123", "pmid:12428212", "pmid:24346842"],
-  "additional_literature": ["pmid:"]
+  "additional_literature": []
 },
 {
   "chrom": "chr2",
@@ -4669,5 +4669,5 @@
   "locus_tags": ["contraction"],
   "disease_tags": [],
   "references": ["pmid:38714868", "pmid:38714869", "omim:609893"],
-  "additional_literature": ["pmid:"]
+  "additional_literature": []
 }]

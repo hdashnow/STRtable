@@ -191,7 +191,7 @@ def check_list_fields(record, list_fields = list_fields):
             record[field] = []
             continue
         if record[field] == "" or record[field] is None or record[field] == []:
-            record[field] = [] #XXX need to decide if Null or empty list is preferred
+            record[field] = []
         elif isinstance(record[field], str):
             if ";" in record[field]:
                 record[field] = [x.strip() for x in record[field].split(';')]
@@ -204,6 +204,8 @@ def check_list_fields(record, list_fields = list_fields):
             record[field] = [x.strip('@') for x in record[field]]
             # Ensure citation lists are unique
             record[field] = unique_list(record[field])
+            # Remove empty citations
+            record[field] = [x for x in record[field] if len(x.split(':', 1)[1]) > 0]
 
         if old != record[field]:
             sys.stderr.write(f'Updating {record['id']} {field} from {old} to {record[field]}\n')
