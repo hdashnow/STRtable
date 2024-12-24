@@ -4,6 +4,7 @@
     "title": "STRchive-loci",
     "description": "STRchive tandem repeat disease locus",
     "type": "object",
+    "citation_format": "In text: [@pmid:20560987; @pmid:26220009], individual citations in a list: [pmid:20560987, pmid:26220009]",
     "properties": {
       "chrom": {
         "description": "Chromosome name, assumed to be the same for all reference genomes",
