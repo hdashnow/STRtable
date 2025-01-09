@@ -72,7 +72,8 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           branch: update-data
-          title: Update data
+          title: Update Literature
+          body-path: .github/literature_PR_template.md
 
       - name: Commit updated files to current pull request
         uses: stefanzweifel/git-auto-commit-action@v5
