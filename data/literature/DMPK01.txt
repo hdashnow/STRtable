@@ -2,12 +2,13 @@
 PMID- 39710066
 OWN - NLM
 STAT- Publisher
-LR  - 20241222
+LR  - 20241230
 IS  - 1096-1194 (Electronic)
 IS  - 0890-8508 (Linking)
-DP  - 2024 Dec 20
-TI  - High-resolution repeat structure analysis in molecular diagnostics of myotonic 
-      dystrophy type 1 using short-read whole genome sequencing.
+VI  - 79
+DP  - 2024 Dec 29
+TI  - Advancing molecular diagnostics of myotonic dystrophy type 1 using short-read 
+      whole genome sequencing.
 PG  - 102005
 LID - S0890-8508(24)00057-4 [pii]
 LID - 10.1016/j.mcp.2024.102005 [doi]
@@ -29,7 +30,7 @@ AB  - Myotonic dystrophy type 1 (DM1) is a serious multisystem disorder caused b
       expansion-range/premutation-range alleles. Although neither the tested 
       conventional methods, nor WGS allowed expanded-allele sizing, conventional 
       methods provided higher sizing limits for normal-range alleles. Genotyping 
-      concordance rate was found to be 95-99%. WGS was found to be superior in 
+      concordance rate was found to be 95-99 %. WGS was found to be superior in 
       elucidating the sequence structure of the motifs, even if they fall outside the 
       sizing limit (from partial reads). In addition, WGS enables the identification of 
       genetic modifiers in other genes and the detection of alternative diagnoses in 
@@ -62,8 +63,8 @@ FAU - Zatkova, Andrea
 AU  - Zatkova A
 AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
       the Slovak Academy of Sciences, Bratislava, Slovakia.
-FAU - Tarova, Eva Tothova
-AU  - Tarova ET
+FAU - Tothova Tarova, Eva
+AU  - Tothova Tarova E
 AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
       the Slovak Academy of Sciences, Bratislava, Slovakia; Department of Biology, 
       Faculty of Education, J. Selye University, Komarno, Slovakia.
@@ -90,19 +91,19 @@ AD  - Institute of Clinical and Translational Research, Biomedical Research Cent
       Slovakia. Electronic address: jradvanszky@gmail.com.
 LA  - eng
 PT  - Journal Article
-DEP - 20241220
+DEP - 20241229
 PL  - England
 TA  - Mol Cell Probes
 JT  - Molecular and cellular probes
 JID - 8709751
 SB  - IM
 OTO - NOTNLM
-OT  - massively parallel sequencing
-OT  - myotonic dystrophy type 1
-OT  - repeat expansion disorders
-OT  - tandem repeats
-OT  - whole genome sequencing
-COIS- Declaration of Competing Interest ... The authors declare the following financial 
+OT  - Massively parallel sequencing
+OT  - Myotonic dystrophy type 1
+OT  - Repeat expansion disorders
+OT  - Tandem repeats
+OT  - Whole genome sequencing
+COIS- Declaration of competing interest The authors declare the following financial 
       interests/personal relationships which may be considered as potential competing 
       interests:Tomas Szemes reports a relationship with Genovisio Ltd. that includes: 
       equity or stocks. If there are other authors, they declare that they have no 
@@ -114,13 +115,13 @@ CRDT- 2024/12/22 19:14
 PHST- 2024/12/05 00:00 [received]
 PHST- 2024/12/20 00:00 [revised]
 PHST- 2024/12/20 00:00 [accepted]
-PHST- 2024/12/23 00:19 [medline]
 PHST- 2024/12/23 00:19 [pubmed]
+PHST- 2024/12/23 00:19 [medline]
 PHST- 2024/12/22 19:14 [entrez]
 AID - S0890-8508(24)00057-4 [pii]
 AID - 10.1016/j.mcp.2024.102005 [doi]
 PST - aheadofprint
-SO  - Mol Cell Probes. 2024 Dec 20:102005. doi: 10.1016/j.mcp.2024.102005.
+SO  - Mol Cell Probes. 2024 Dec 29;79:102005. doi: 10.1016/j.mcp.2024.102005.
 
 PMID- 39679849
 OWN - NLM
@@ -7928,7 +7929,7 @@ PMID- 33235377
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220114
-LR  - 20241218
+LR  - 20241227
 IS  - 1476-5438 (Electronic)
 IS  - 1018-4813 (Print)
 IS  - 1018-4813 (Linking)

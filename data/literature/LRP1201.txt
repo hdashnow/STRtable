@@ -151,7 +151,7 @@ PMID- 38726482
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240724
-LR  - 20240724
+LR  - 20241231
 IS  - 2167-9223 (Electronic)
 IS  - 2167-8421 (Linking)
 VI  - 25
@@ -235,19 +235,20 @@ PL  - England
 TA  - Amyotroph Lateral Scler Frontotemporal Degener
 JT  - Amyotrophic lateral sclerosis & frontotemporal degeneration
 JID - 101587185
-RN  - 0 (LDL-Receptor Related Proteins)
+RN  - 0 (LRP12 protein, human)
+RN  - 0 (Low Density Lipoprotein Receptor-Related Protein-1)
 SB  - IM
-MH  - Humans
-MH  - *Amyotrophic Lateral Sclerosis/genetics
-MH  - Male
-MH  - Female
-MH  - *White People/genetics
-MH  - Middle Aged
-MH  - Aged
 MH  - Adult
-MH  - LDL-Receptor Related Proteins/genetics
+MH  - Aged
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Amyotrophic Lateral Sclerosis/genetics
 MH  - Cohort Studies
-MH  - Trinucleotide Repeat Expansion/genetics
+MH  - Trinucleotide Repeat Expansion
+MH  - *White People/genetics
+MH  - *Low Density Lipoprotein Receptor-Related Protein-1/genetics
 OTO - NOTNLM
 OT  - Amyotrophic lateral sclerosis
 OT  - LRP12
