@@ -449,7 +449,7 @@
 },
 {
   "chrom": "chr6",
-  "start_hg38": 16327634,
+  "start_hg38": 16327633,
   "stop_hg38": 16327724,
   "start_hg19": 16327865,
   "stop_hg19": 16327955,
@@ -577,7 +577,7 @@
 },
 {
   "chrom": "chr12",
-  "start_hg38": 111598950,
+  "start_hg38": 111598949,
   "stop_hg38": 111599019,
   "start_hg19": 112036754,
   "stop_hg19": 112036823,
@@ -705,8 +705,8 @@
 },
 {
   "chrom": "chr3",
-  "start_hg38": 63912685,
-  "stop_hg38": 63912716,
+  "start_hg38": 63912684,
+  "stop_hg38": 63912715,
   "start_hg19": 63898361,
   "stop_hg19": 63898392,
   "start_t2t": 63956303,
@@ -1026,7 +1026,7 @@
 {
   "chrom": "chr11",
   "start_hg38": 119206289,
-  "stop_hg38": 119206322,
+  "stop_hg38": 119206323,
   "start_hg19": 119076999,
   "stop_hg19": 119077032,
   "start_t2t": 119226663,
@@ -1090,7 +1090,7 @@
 {
   "chrom": "chr3",
   "start_hg38": 129172576,
-  "stop_hg38": 129172659,
+  "stop_hg38": 129172656,
   "start_hg19": 128891420,
   "stop_hg19": 128891502,
   "start_t2t": 131917483,
@@ -1154,7 +1154,7 @@
 {
   "chrom": "chr19",
   "start_hg38": 18786034,
-  "stop_hg38": 18786049,
+  "stop_hg38": 18786050,
   "start_hg19": 18896844,
   "stop_hg19": 18896859,
   "start_t2t": 18921630,
@@ -1217,7 +1217,7 @@
 },
 {
   "chrom": "chr21",
-  "start_hg38": 43776443,
+  "start_hg38": 43776442,
   "stop_hg38": 43776479,
   "start_hg19": 45196324,
   "stop_hg19": 45196360,
@@ -1346,7 +1346,7 @@
 {
   "chrom": "chr12",
   "start_hg38": 50505001,
-  "stop_hg38": 50505022,
+  "stop_hg38": 50505024,
   "start_hg19": 50898785,
   "stop_hg19": 50898805,
   "start_t2t": 50468096,
@@ -1427,8 +1427,8 @@
   "unknown_motif_gene_orientation": [],
   "disease": "Duchenne muscular dystrophy",
   "gene": "DMD",
-  "flank_motif": null,
-  "locus_structure": "(TTC)*",
+  "flank_motif": "(TTC)n(T)8",
+  "locus_structure": "(TTC)*(T)*",
   "inheritance": ["XR"],
   "type": "Intronic",
   "location_in_gene": "Intron 62",
@@ -1601,7 +1601,7 @@
 },
 {
   "chrom": "chr13",
-  "start_hg38": 102161576,
+  "start_hg38": 102161574,
   "stop_hg38": 102161726,
   "start_hg19": 102813927,
   "stop_hg19": 102814076,
@@ -1665,7 +1665,7 @@
 },
 {
   "chrom": "chrX",
-  "start_hg38": 147912037,
+  "start_hg38": 147912049,
   "stop_hg38": 147912111,
   "start_hg19": 146993555,
   "stop_hg19": 146993629,
@@ -1729,7 +1729,7 @@
 },
 {
   "chrom": "chr3",
-  "start_hg38": 138946020,
+  "start_hg38": 138946019,
   "stop_hg38": 138946062,
   "start_hg19": 138664862,
   "stop_hg19": 138664904,
@@ -1858,7 +1858,7 @@
 {
   "chrom": "chr19",
   "start_hg38": 14496041,
-  "stop_hg38": 14496074,
+  "stop_hg38": 14496075,
   "start_hg19": 14606853,
   "stop_hg19": 14606886,
   "start_t2t": 14622656,
@@ -2242,7 +2242,7 @@
 {
   "chrom": "chr4",
   "start_hg38": 3074876,
-  "stop_hg38": 3074940,
+  "stop_hg38": 3074933,
   "start_hg19": 3076604,
   "stop_hg19": 3076667,
   "start_t2t": 3073604,
@@ -2305,7 +2305,7 @@
 },
 {
   "chrom": "chr16",
-  "start_hg38": 87604283,
+  "start_hg38": 87604282,
   "stop_hg38": 87604329,
   "start_hg19": 87637889,
   "stop_hg19": 87637935,
@@ -2497,7 +2497,7 @@
 },
 {
   "chrom": "chr1",
-  "start_hg38": 155188487,
+  "start_hg38": 155188505,
   "stop_hg38": 155192239,
   "start_hg19": 155160963,
   "stop_hg19": 155162030,
@@ -2506,9 +2506,9 @@
   "id": "ADTKD_MUC1",
   "disease_id": "ADTKD",
   "gene_strand": "+",
-  "reference_motif_reference_orientation": ["C"],
-  "pathogenic_motif_reference_orientation": ["C"],
-  "pathogenic_motif_gene_orientation": ["C"],
+  "reference_motif_reference_orientation": ["CTNGGGGGGCGGTGGAGCCCNGNGCNGGCCTGNTGTCCGGNGCCGAGGTGACACCNTGGN"],
+  "pathogenic_motif_reference_orientation": ["CTNGGGGGGGCGGTGGAGCCCNGNGCNGGCCTGNTGTCCGGNGCCGAGGTGACACCNTGGN"],
+  "pathogenic_motif_gene_orientation": ["ACACCNTGGNCTNGGGGGGGCGGTGGAGCCCNGNGCNGGCCTGNTGTCCGGNGCCGAGGTG"],
   "benign_motif_reference_orientation": [],
   "benign_motif_gene_orientation": [],
   "unknown_motif_reference_orientation": [],
@@ -2516,7 +2516,7 @@
   "disease": "Autosomal dominant tubulointerstitial kidney disease",
   "gene": "MUC1",
   "flank_motif": null,
-  "locus_structure": "(C)*",
+  "locus_structure": "(CTNGGGGGGCGGTGGAGCCCNGNGCNGGCCTGNTGTCCGGNGCCGAGGTGACACCNTGGN)n",
   "inheritance": ["AD"],
   "type": "Coding",
   "location_in_gene": "Exon 2",
@@ -2561,8 +2561,8 @@
 },
 {
   "chrom": "chr1",
-  "start_hg38": 156591766,
-  "stop_hg38": 156591780,
+  "start_hg38": 156591765,
+  "stop_hg38": 156591783,
   "start_hg19": 156561558,
   "stop_hg19": 156561572,
   "start_t2t": 155728132,
@@ -2626,7 +2626,7 @@
 {
   "chrom": "chr15",
   "start_hg38": 22786677,
-  "stop_hg38": 22786701,
+  "stop_hg38": 22786703,
   "start_hg19": 23086366,
   "stop_hg19": 23086390,
   "start_t2t": 20458505,
@@ -2689,7 +2689,7 @@
 },
 {
   "chrom": "chr20",
-  "start_hg38": 2652733,
+  "start_hg38": 2652732,
   "stop_hg38": 2652757,
   "start_hg19": 2633379,
   "stop_hg19": 2633403,
@@ -2882,7 +2882,7 @@
 {
   "chrom": "chr14",
   "start_hg38": 23321472,
-  "stop_hg38": 23321502,
+  "stop_hg38": 23321503,
   "start_hg19": 23790681,
   "stop_hg19": 23790711,
   "start_t2t": 17522488,
@@ -3009,7 +3009,7 @@
 },
 {
   "chrom": "chr15",
-  "start_hg38": 89333589,
+  "start_hg38": 89333588,
   "stop_hg38": 89333629,
   "start_hg19": 89876820,
   "stop_hg19": 89876860,
@@ -3028,7 +3028,7 @@
   "disease": "Progressive external ophthalmoplegia, Parkinson's disease",
   "gene": "POLG",
   "flank_motif": null,
-  "locus_structure": "(CTG)*TTG(CTG)*",
+  "locus_structure": "(GCT)*GTT(GCT)*",
   "inheritance": [],
   "type": "Coding",
   "location_in_gene": "Exon 2",
@@ -3137,8 +3137,8 @@
 },
 {
   "chrom": "chr9",
-  "start_hg38": 130681606,
-  "stop_hg38": 130681639,
+  "start_hg38": 130681605,
+  "stop_hg38": 130681641,
   "start_hg19": 133556993,
   "stop_hg19": 133557026,
   "start_t2t": 142886569,
@@ -3585,7 +3585,7 @@
 },
 {
   "chrom": "chr8",
-  "start_hg38": 118366813,
+  "start_hg38": 118366812,
   "stop_hg38": 118366918,
   "start_hg19": 119379052,
   "stop_hg19": 119379157,
@@ -3714,7 +3714,7 @@
 {
   "chrom": "chr2",
   "start_hg38": 96197066,
-  "stop_hg38": 96197121,
+  "stop_hg38": 96197124,
   "start_hg19": 96862805,
   "stop_hg19": 96862859,
   "start_t2t": 96703675,
@@ -3777,8 +3777,8 @@
 },
 {
   "chrom": "chrX",
-  "start_hg38": 71453055,
-  "stop_hg38": 71453129,
+  "start_hg38": 71453054,
+  "stop_hg38": 71453131,
   "start_hg19": 70672905,
   "stop_hg19": 70672979,
   "start_t2t": 69887154,
@@ -3969,8 +3969,8 @@
 },
 {
   "chrom": "chr18",
-  "start_hg38": 55586155,
-  "stop_hg38": 55586227,
+  "start_hg38": 55586153,
+  "stop_hg38": 55586229,
   "start_hg19": 53253386,
   "stop_hg19": 53253458,
   "start_t2t": 55789234,
@@ -4033,7 +4033,7 @@
 },
 {
   "chrom": "chr16",
-  "start_hg38": 67842863,
+  "start_hg38": 67842862,
   "stop_hg38": 67842950,
   "start_hg19": 67876766,
   "stop_hg19": 67876853,
@@ -4097,7 +4097,7 @@
 },
 {
   "chrom": "chr16",
-  "start_hg38": 24613439,
+  "start_hg38": 24613438,
   "stop_hg38": 24613532,
   "start_hg19": 24624760,
   "stop_hg19": 24624853,
@@ -4290,7 +4290,7 @@
 {
   "chrom": "chr3",
   "start_hg38": 183712187,
-  "stop_hg38": 183712222,
+  "stop_hg38": 183712226,
   "start_hg19": 183429976,
   "stop_hg19": 183430010,
   "start_t2t": 186521657,
@@ -4418,7 +4418,7 @@
 {
   "chrom": "chr13",
   "start_hg38": 99985448,
-  "stop_hg38": 99985493,
+  "stop_hg38": 99985494,
   "start_hg19": 100637702,
   "stop_hg19": 100637747,
   "start_t2t": 99196359,
