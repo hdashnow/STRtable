@@ -140,7 +140,7 @@ def extended_bed(row, fields = [], genome = 'hg38'):
             bed_string += f"\t{row[field]}" 
     return bed_string
 
-default_fields = ','.join(['id', 'gene', 'pathogenic_motif_reference_orientation', 'pathogenic_min', 'inheritance', 'disease'])
+default_fields = ','.join(['id', 'gene', 'reference_motif_reference_orientation', 'pathogenic_motif_reference_orientation', 'pathogenic_min', 'inheritance', 'disease'])
 
 def main(input: str, output: str, *, format: str = 'TRGT', genome: str = 'hg38', cols: str = default_fields):
     """
