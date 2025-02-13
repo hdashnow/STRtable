@@ -65,7 +65,7 @@ def read_bed(bed, format):
             line = line.strip().split('\t')
 
             if format == 'strchive':
-                motifs = [x.strip().upper() for x in line[ref_motif_index].split(',')] + [x.strip().upper() for x in line[path_motif_index].split(',')]
+                motifs = list(dict.fromkeys([x.strip().upper() for x in line[ref_motif_index].split(',')] + [x.strip().upper() for x in line[path_motif_index].split(',')]))
                 locusid = line[locusid_index]
             elif format == 'pacbio':
                 annotations = line[3].split(';')
