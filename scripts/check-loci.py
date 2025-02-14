@@ -216,8 +216,10 @@ def check_list_fields(record, list_fields = list_fields):
     return record
 
 def lift_over(loci_data, ref_dir):
-
-    chainfile_t2t_url = "https://hgdownload.gi.ucsc.edu/hubs/GCA/009/914/755/GCA_009914755.4/liftOver/hg38-chm13v2.over.chain.gz"
+    #chainfile_t2t_url = "https://hgdownload.gi.ucsc.edu/hubs/GCA/009/914/755/GCA_009914755.4/liftOver/hg38-chm13v2.over.chain.gz"
+    #chainfile_t2t_url = "https://s3-us-west-2.amazonaws.com/human-pangenomics/T2T/CHM13/assemblies/chain/v1_nflo/grch38-chm13v2.chain"
+    chainfile_t2t_url = "https://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/hg38ToHs1.over.chain.gz"
+    #chainfile_t2t_url = "https://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/hg38ToGCA_009914755.4.over.chain.gz"
     chainfile_t2t = f"{ref_dir}/{os.path.basename(chainfile_t2t_url)}"
     # If directory doesn't exist, create it
     if not os.path.isdir(ref_dir):
@@ -246,16 +248,35 @@ def lift_over(loci_data, ref_dir):
 
         # Store results in the JSON
         if converted_start_t2t and converted_stop_t2t:
-            assert converted_start_t2t[0][0] == chrom
-            assert converted_stop_t2t[0][0] == chrom
+            if converted_start_t2t[0][0] != chrom or converted_stop_t2t[0][0] != chrom:
+                sys.stderr.write(f"WARNING: Liftover is to a different chromosome for {entry['id']} {chrom} {converted_start_t2t[0][0]} {converted_stop_t2t[0][0]}\n")
             if converted_start_t2t[0][1] <= converted_stop_t2t[0][1]:
                 entry["start_t2t"] = converted_start_t2t[0][1]
                 entry["stop_t2t"] = converted_stop_t2t[0][1]
             else:
+                sys.stderr.write(f"WARNING: Liftover is reverse complement for {entry['id']} {chrom}:{entry['start_hg38']}-{entry['stop_hg38']}\n")
+                sys.stderr.write(f"T2T position {chrom}:{converted_start_t2t[0][1]}-{converted_stop_t2t[0][1]}\n")
                 entry["start_t2t"] = converted_stop_t2t[0][1]
                 entry["stop_t2t"] = converted_start_t2t[0][1]
         else:
-            sys.stderr.write(f"WARNING: No T2T coordinates found for {entry['id']} {chrom}:{entry['start_hg38']}-{entry['stop_hg38']}\n")
+            # Do any of the coordinates exist?
+            min_pos = None
+            max_pos = None
+            for pos in range(entry["start_hg38"], entry["stop_hg38"]):
+                converted_pos_t2t = lo_t2t.convert_coordinate(chrom, pos)
+                if converted_pos_t2t:
+                    if min_pos is None:
+                        min_pos = converted_pos_t2t[0][1]
+                        max_pos = converted_pos_t2t[0][1]
+                    else:
+                        min_pos = min(min_pos, converted_pos_t2t[0][1])
+                        max_pos = max(max_pos, converted_pos_t2t[0][1])
+            if min_pos and max_pos:
+                sys.stderr.write(f"WARNING: Partial T2T coordinates found for {entry['id']} {chrom}:{min_pos}-{max_pos}\n")
+                entry["start_t2t"] = min_pos
+                entry["stop_t2t"] = max_pos
+            else:
+                sys.stderr.write(f"WARNING: No T2T coordinate found for {entry['id']} {chrom}:{pos}\n")
 
         if converted_start_hg19 and converted_stop_hg19:
             assert converted_start_hg19[0][0] == chrom
@@ -264,6 +285,8 @@ def lift_over(loci_data, ref_dir):
                 entry["start_hg19"] = converted_start_hg19[0][1]
                 entry["stop_hg19"] = converted_stop_hg19[0][1]
             else:
+                sys.stderr.write(f"WARNING: Liftover is reverse complement for {entry['id']} {chrom}:{entry['start_hg38']}-{entry['stop_hg38']}\n")
+                sys.stderr.write(f"hg19 position {chrom}:{converted_start_hg19[0][1]}-{converted_stop_hg19[0][1]}\n")
                 entry["start_hg19"] = converted_stop_hg19[0][1]
                 entry["stop_hg19"] = converted_start_hg19[0][1]
         else:
