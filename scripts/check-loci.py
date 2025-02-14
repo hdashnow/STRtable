@@ -1,4 +1,5 @@
 # Validate the STRchive loci JSON file and overwrite it with changes if needed.
+# hg38 is assumed to be the default genome build, with hg19 and T2T coordinates being updated as liftovers.
 
 import sys
 import argparse
@@ -8,8 +9,9 @@ import time
 import json
 import jsbeautifier
 from Bio.Seq import Seq
-import pandas as pd
-import re
+#import pandas as pd
+#import re
+from pyliftover import LiftOver
 
 # This should be overwritten if schema json file provided
 list_fields = [
@@ -212,6 +214,42 @@ def check_list_fields(record, list_fields = list_fields):
             sys.stderr.write(f'Updating {record['id']} {field} from {old} to {record[field]}\n')
     return record
 
+def lift_over(loci_data):
+    chainfile_t2t = "https://hgdownload.gi.ucsc.edu/hubs/GCA/009/914/755/GCA_009914755.4/liftOver/hg38-chm13v2.over.chain.gz"
+    lo_t2t = LiftOver(chainfile_t2t)
+
+    # Load chain file for hg38 to hg19 conversion
+    lo_hg38_to_hg19 = LiftOver('hg38', 'hg19')
+
+    # Process each entry in the JSON
+    for entry in loci_data:
+        chrom = entry["chrom"]
+
+        # Convert start and stop positions from hg38 to T2T
+        converted_start_t2t = lo_t2t.convert_coordinate(chrom, entry["start_hg38"])
+        converted_stop_t2t = lo_t2t.convert_coordinate(chrom, entry["stop_hg38"])
+
+        # Convert start and stop positions from hg38 to hg19
+        converted_start_hg19 = lo_hg38_to_hg19.convert_coordinate(chrom, entry["start_hg38"])
+        converted_stop_hg19 = lo_hg38_to_hg19.convert_coordinate(chrom, entry["stop_hg38"])
+
+        # Store results in the JSON
+        if converted_start_t2t and converted_stop_t2t:
+            entry["start_t2t"] = converted_start_t2t[0][1]
+            entry["stop_t2t"] = converted_stop_t2t[0][1]
+        else:
+            entry["start_t2t"] = None
+            entry["stop_t2t"] = None
+
+        if converted_start_hg19 and converted_stop_hg19:
+            entry["start_hg19"] = converted_start_hg19[0][1]
+            entry["stop_hg19"] = converted_stop_hg19[0][1]
+        else:
+            entry["start_hg19"] = None
+            entry["stop_hg19"] = None
+
+    return loci_data
+
 def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None):
     if out_json == json_fname:
         sys.stderr.write(f'WARNING: overwriting {json_fname} in {pause} seconds\n')
@@ -241,6 +279,9 @@ def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None)
         for record in data:
             record = check_list_fields(record)
             record = check_motif_orientation(record)
+
+        # Lift over coordinates
+        data = lift_over(data)
 
         # Sort records by gene name then id
         data = sorted(data, key = lambda x: (x['gene'], x['id']))

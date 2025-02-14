@@ -23,6 +23,7 @@ dependencies:
   - r-stringr
   - r-purrr
   - pysam
+  - pyliftover
   - pip
   - pip:
     - manubot
