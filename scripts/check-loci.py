@@ -248,18 +248,24 @@ def lift_over(loci_data, ref_dir):
         if converted_start_t2t and converted_stop_t2t:
             assert converted_start_t2t[0][0] == chrom
             assert converted_stop_t2t[0][0] == chrom
-            assert converted_start_t2t[0][1] <= converted_stop_t2t[0][1]
-            entry["start_t2t"] = converted_start_t2t[0][1]
-            entry["stop_t2t"] = converted_stop_t2t[0][1]
+            if converted_start_t2t[0][1] <= converted_stop_t2t[0][1]:
+                entry["start_t2t"] = converted_start_t2t[0][1]
+                entry["stop_t2t"] = converted_stop_t2t[0][1]
+            else:
+                entry["start_t2t"] = converted_stop_t2t[0][1]
+                entry["stop_t2t"] = converted_start_t2t[0][1]
         else:
             sys.stderr.write(f"WARNING: No T2T coordinates found for {entry['id']} {chrom}:{entry['start_hg38']}-{entry['stop_hg38']}\n")
 
         if converted_start_hg19 and converted_stop_hg19:
             assert converted_start_hg19[0][0] == chrom
             assert converted_stop_hg19[0][0] == chrom
-            assert converted_start_hg19[0][1] <= converted_stop_hg19[0][1]
-            entry["start_hg19"] = converted_start_hg19[0][1]
-            entry["stop_hg19"] = converted_stop_hg19[0][1]
+            if converted_start_hg19[0][1] <= converted_stop_hg19[0][1]:
+                entry["start_hg19"] = converted_start_hg19[0][1]
+                entry["stop_hg19"] = converted_stop_hg19[0][1]
+            else:
+                entry["start_hg19"] = converted_stop_hg19[0][1]
+                entry["stop_hg19"] = converted_start_hg19[0][1]
         else:
             sys.stderr.write(f"WARNING: No hg19 coordinates found for {entry['id']} {chrom}:{entry['start_hg38']}-{entry['stop_hg38']}\n")
 
