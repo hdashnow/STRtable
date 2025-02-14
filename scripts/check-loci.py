@@ -12,6 +12,7 @@ from Bio.Seq import Seq
 #import pandas as pd
 #import re
 from pyliftover import LiftOver
+import urllib
 
 # This should be overwritten if schema json file provided
 list_fields = [
@@ -214,8 +215,18 @@ def check_list_fields(record, list_fields = list_fields):
             sys.stderr.write(f'Updating {record['id']} {field} from {old} to {record[field]}\n')
     return record
 
-def lift_over(loci_data):
-    chainfile_t2t = "https://hgdownload.gi.ucsc.edu/hubs/GCA/009/914/755/GCA_009914755.4/liftOver/hg38-chm13v2.over.chain.gz"
+def lift_over(loci_data, ref_dir):
+
+    chainfile_t2t_url = "https://hgdownload.gi.ucsc.edu/hubs/GCA/009/914/755/GCA_009914755.4/liftOver/hg38-chm13v2.over.chain.gz"
+    chainfile_t2t = f"{ref_dir}/{os.path.basename(chainfile_t2t_url)}"
+    # If directory doesn't exist, create it
+    if not os.path.isdir(ref_dir):
+        os.makedirs(ref_dir)
+    # Check if chain file already exists and download it if not
+    if not os.path.exists(chainfile_t2t):
+        sys.stderr.write(f"Downloading chain file for T2T from {chainfile_t2t_url}\n")
+        urllib.request.urlretrieve(chainfile_t2t_url, chainfile_t2t)
+
     lo_t2t = LiftOver(chainfile_t2t)
 
     # Load chain file for hg38 to hg19 conversion
@@ -238,19 +249,17 @@ def lift_over(loci_data):
             entry["start_t2t"] = converted_start_t2t[0][1]
             entry["stop_t2t"] = converted_stop_t2t[0][1]
         else:
-            entry["start_t2t"] = None
-            entry["stop_t2t"] = None
+            sys.stderr.write(f"WARNING: No T2T coordinates found for {entry['id']} {chrom}:{entry['start_hg38']}-{entry['stop_hg38']}\n")
 
         if converted_start_hg19 and converted_stop_hg19:
             entry["start_hg19"] = converted_start_hg19[0][1]
             entry["stop_hg19"] = converted_stop_hg19[0][1]
         else:
-            entry["start_hg19"] = None
-            entry["stop_hg19"] = None
+            sys.stderr.write(f"WARNING: No hg19 coordinates found for {entry['id']} {chrom}:{entry['start_hg38']}-{entry['stop_hg38']}\n")
 
     return loci_data
 
-def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None):
+def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None, ref_dir = "ref-data/"):
     if out_json == json_fname:
         sys.stderr.write(f'WARNING: overwriting {json_fname} in {pause} seconds\n')
         sys.stderr.write('Press Ctrl+C to cancel\n')
@@ -281,7 +290,7 @@ def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None)
             record = check_motif_orientation(record)
 
         # Lift over coordinates
-        data = lift_over(data)
+        data = lift_over(data, ref_dir)
 
         # Sort records by gene name then id
         data = sorted(data, key = lambda x: (x['gene'], x['id']))
