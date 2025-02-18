@@ -37,7 +37,7 @@ const downloads = [
       .split("/")
       .pop()
       /** insert version in download filename */
-      .replace(/(STRchive-disease-loci)/, `$1.  v${version}`),
+      .replace(/(STRchive-disease-loci)/, `$1-v${version}`),
 }));
 
 const defDownloads = downloads.slice(0, 3);

@@ -23,6 +23,7 @@ dependencies:
   - r-stringr
   - r-purrr
   - pysam
+  - nodejs # build website locally
   - pip
   - pip:
     - manubot

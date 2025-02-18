@@ -21,6 +21,7 @@ dependencies:
   - r-stringr
   - r-purrr
   - pysam
+  - nodejs
   - pip
   - pip:
       - manubot
