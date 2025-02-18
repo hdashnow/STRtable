@@ -57,20 +57,21 @@ def clean_loci(data, genome):
 
     return keep_rows
 
-def trgt_catalog(row, genome = 'hg38'):
+def trgt_catalog(row, genome = 'hg38', struc_type = 'default'):
     r"""
     :param row: dictionary with STR data for a single locus
     :param genome: genome build (hg19, hg38 or T2T)
+    :param struc_type: options: 'motif', 'default' or 'none'. If 'motif', use pathogenic_motif_reference_orientation as locus structure. If 'default', use <TR>. If 'none', do not include locus structure.
     :return: TRGT format catalog string
 
-    >>> trgt_catalog({'chrom': 'chr1', 'start_hg38': '100', 'stop_hg38': '200', 'period': '3', 'pathogenic_motif_reference_orientation': 'CAG', 'gene': 'mygene', 'id': 'myid', 'locus_structure': '', 'flank_motif': ''})
-    'chr1\t100\t200\tID=myid;MOTIFS=CAG;STRUC=(CAG)n'
+    >>> trgt_catalog({'chrom': 'chr1', 'start_hg38': '100', 'stop_hg38': '200', 'period': '3', 'pathogenic_motif_reference_orientation': ['CAG'], 'gene': 'mygene', 'id': 'myid', 'locus_structure': '', 'flank_motif': '', 'reference_motif_reference_orientation': ['CAG'], 'benign_motif_reference_orientation': [], 'unknown_motif_reference_orientation': []})
+    'chr1\t100\t200\tID=myid;MOTIFS=CAG;STRUC=<TR>'
 
-    >>> trgt_catalog({'chrom': 'chr1', 'start_hg38': '100', 'stop_hg38': '200', 'period': '3', 'pathogenic_motif_reference_orientation': 'CAG,CCG', 'gene': 'mygene', 'id': 'myid', 'locus_structure': '', 'flank_motif': ''})
-    'chr1\t100\t200\tID=myid;MOTIFS=CAG,CCG;STRUC=(CAG)n(CCG)n'
+    >>> trgt_catalog({'chrom': 'chr1', 'start_hg38': '100', 'stop_hg38': '200', 'period': '3', 'pathogenic_motif_reference_orientation': ['CAG', 'CCG'], 'gene': 'mygene', 'id': 'myid', 'locus_structure': '', 'flank_motif': '', 'reference_motif_reference_orientation': ['CAG'], 'benign_motif_reference_orientation': [], 'unknown_motif_reference_orientation': []})
+    'chr1\t100\t200\tID=myid;MOTIFS=CAG,CCG;STRUC=<TR>'
 
-    >>> trgt_catalog({'chrom': 'chr1', 'start_hg38': '100', 'stop_hg38': '200', 'period': '3', 'pathogenic_motif_reference_orientation': 'CAGG', 'gene': 'CNBP', 'id': 'DM2_CNBP', 'locus_structure': '(CAGG)*(CAGA)*(CA)*', 'flank_motif': '(CAGG)n(CAGA)10(CA)19'})
-    'chr1\t100\t278\tID=DM2_CNBP;MOTIFS=CAGG,CAGA,CA;STRUC=(CAGG)n(CAGA)n(CA)n'
+    >>> trgt_catalog({'chrom': 'chr1', 'start_hg38': '100', 'stop_hg38': '200', 'period': '3', 'pathogenic_motif_reference_orientation': ['CAGG'], 'gene': 'CNBP', 'id': 'DM2_CNBP', 'locus_structure': '(CAGG)*(CAGA)*(CA)*', 'flank_motif': '(CAGG)n(CAGA)10(CA)19', 'reference_motif_reference_orientation': [], 'benign_motif_reference_orientation': [], 'unknown_motif_reference_orientation': []})
+    'chr1\t100\t278\tID=DM2_CNBP;MOTIFS=CAGG,CAGA,CA;STRUC=<TR>'
     """
     start = int(row['start_' + genome])
     stop = int(row['stop_' + genome])
@@ -99,15 +100,29 @@ def trgt_catalog(row, genome = 'hg38'):
         struc = locus_structure.replace('*', 'n').replace('+', 'n')
     else:
         motifs = []
-        for motif in row['pathogenic_motif_reference_orientation'].split(','):
+        for motif in row['pathogenic_motif_reference_orientation']:
             motif = motif.strip() # remove leading and trailing whitespace
             struc += f'({motif})n'
             motifs.append(motif)
     if row['gene'] == 'RFC1':
         struc = '<RFC1>' # special case for RFC1 coded as HMM by TRGT. May be removed in future versions of TRGT.
     # unique motifs mainitaining order
+
+    if struc_type == 'motif':
+        full_struc = f";STRUC{struc}"
+    elif struc_type == 'default':
+        # Add all known motifs
+        for motif_field in ['pathogenic_motif_reference_orientation', 'reference_motif_reference_orientation', 'benign_motif_reference_orientation', 'unknown_motif_reference_orientation']:
+            motifs.extend(row[motif_field])
+        motifs = list(dict.fromkeys(motifs)) # remove duplicates
+        full_struc = ';STRUC=<TR>'
+    elif struc_type == 'none':
+        full_struc = ''
+    else:
+        raise ValueError(f'Unknown structure type: {struc_type}. Expected motif, default or none.')
+
     motifs = list(dict.fromkeys(motifs))
-    definition = f"{row['chrom']}\t{start}\t{stop}\tID={row['id']};MOTIFS={','.join(motifs)};STRUC={struc}"
+    definition = f"{row['chrom']}\t{start}\t{stop}\tID={row['id']};MOTIFS={','.join(motifs)}{full_struc}"
 
     return definition
 
