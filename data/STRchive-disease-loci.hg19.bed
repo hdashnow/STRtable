@@ -1,74 +1,74 @@
-#chrom	start	stop	id	gene	pathogenic_motif_reference_orientation	pathogenic_min	inheritance	disease
-chr1	1371178	1371198	HMNR7_VWA1	VWA1	GGCGCGGAGC	1	AR	Neuronopathy, distal hereditary motor, autosomal recessive 7
-chr1	57832716	57832797	SCA37_DAB1	DAB1	GAAAT	31	AD	Spinocerebellar Ataxia Type 37
-chr1	94883978	94884000	OPDM_ABCD3	ABCD3	GCC	118	AD	Oculopharyngodistal myopathy
-chr1	145209324	145209354	NIID_NOTCH2NLC	NOTCH2NLC	GGC	66	AD	Neuronal intranuclear inclusion disease, Alzheimer disease and parkinsonism phenotype
-chr1	155160963	155162030	ADTKD_MUC1	MUC1	C	8	AD	Autosomal dominant tubulointerstitial kidney disease
-chr1	156561558	156561572	NME_NAXE	NAXE	GGGCC	200	AR	NAXE-related mitochondrial encephalopathy
-chr2	96862805	96862859	FAME2_STARD7	STARD7	AAATG	274	AD	Familial adult myoclonic epilepsy 2
-chr2	100721261	100721286	FRA2A_AFF3	AFF3	GCC	300	AD	Intellectual disability associated with fragile site FRA2A
-chr2	176957786	176957831	SD5_HOXD13	HOXD13	GCN	22	AD	Syndactyly
-chr2	191745599	191745646	GDPAG_GLS	GLS	GCA	680	AR	Glutaminase deficiency
-chr3	63898361	63898392	SCA7_ATXN7	ATXN7	CAG	37	AD	Spinocerebellar Ataxia Type 7
-chr3	128891420	128891502	DM2_CNBP	CNBP	CAGG	75	AD	Myotonic Dystrophy Type 2
-chr3	138664862	138664904	BPES_FOXL2	FOXL2	NGC	15	AD,AR	Blepharophimosis, epicanthus inversus, and ptosis
-chr3	183429976	183430010	FAME4_YEATS2	YEATS2	TTTCA	1000	AD	Familial adult myoclonic epilepsy 4
-chr4	3076604	3076667	HD_HTT	HTT	CAG	40	AD	Huntington disease
-chr4	39350045	39350103	CANVAS_RFC1	RFC1	AAGGG,ACAGG,AGGGC,AAGGC,AGAGG	400	AR	Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome
-chr4	41747989	41748049	CCHS_PHOX2B	PHOX2B	GCN	26	AD	Congenital central hypoventilation syndrome
-chr4	160263679	160263770	FAME7_RAPGEF2	RAPGEF2	TTTCA	60	AD	Familial adult myoclonic epilepsy type 7
-chr5	10356451	10356523	FAME3_MARCHF6	MARCHF6	TTTCA	791	AD	Familial adult myoclonic epilepsy type 3
-chr5	146258291	146258322	SCA12_PPP2R2B	PPP2R2B	GCT	51	AD	Spinocerebellar ataxia type 12
-chr6	16327865	16327955	SCA1_ATXN1	ATXN1	CTG	39	AD	Spinocerebellar Ataxia Type 1
-chr6	45390487	45390529	CCD_RUNX2	RUNX2	GCN	20	AD	Cleidocranial dysplasia
-chr6	170870995	170871105	SCA17_TBP	TBP	GCA	49	AD	Spinocerebellar ataxia type 17
-chr7	27239297	27239351	HFG_HOXA13-III	HOXA13	NGC	22	AD	Hand-foot-genital syndrome 3
-chr7	27239444	27239480	HFG_HOXA13-II	HOXA13	NGC	18	AD	Hand-foot-genital syndrome 2
-chr7	27239543	27239585	HFG_HOXA13-I	HOXA13	NGC	22	AD	Hand-foot-genital syndrome 1
-chr7	55955294	55955332	FRA7A_ZNF713	ZNF713	GCG	450	AD	Autism spectrum disorder associated with fragile site FRA7A
-chr8	105601200	105601227	OPDM1_LRP12	LRP12	CGC	85	AD	Oculopharyngodistal myopathy type 1
-chr8	119379052	119379157	FAME1_SAMD12	SAMD12	TGAAA	105	AD	Familial adult myoclonic epilepsy type 1
-chr9	27573482	27573544	FTDALS1_C9orf72	C9orf72	GGCCCC	251	AD	Frontotemporal dementia (FTD) and/or amyotrophic lateral sclerosis (ALS)
-chr9	71652202	71652220	FRDA_FXN	FXN	GAA	56	AR	Friedreich ataxia
-chr9	133556993	133557026	HSAN-VIII_PRDM12	PRDM12	GCC	18	AR	Hereditary sensory and autonomic neuropathy type VIII
-chr10	81586139	81586160	OPML1_NUTM2B-AS1	NUTM2B-AS1	GGC	161	AD	Oculopharyngeal myopathy with leukoencephalopathy 1
-chr11	119076999	119077032	JBS_CBL	CBL	CGG	101	AD	Jacobsen syndrome (FRAX11B fragile site)
-chr12	7045880	7045938	DRPLA_ATN1	ATN1	CAG	48	AD	Dentatorubral-Pallidoluysian Atrophy
-chr12	50898785	50898805	FRA12A_DIP2B	DIP2B	GGC	273	AD	Intellectual developmental disorder, FRA12A type
-chr12	112036754	112036823	SCA2_ATXN2	ATXN2	CTG	35	AD,AR	Spinocerebellar Ataxia Type 2
-chr12	124018267	124018302	OPDM4_RILPL1	RILPL1	GGC	120	AD	Oculopharyngodistal myopathy type 4
-chr13	70713515	70713561	SCA8_ATXN8OS	ATXN8OS	CTG	71	AD	Spinocerebellar Ataxia Type 8
-chr13	100637702	100637747	HPE5_ZIC2	ZIC2	GCN	25	AD	Holoprosencephaly-5
-chr13	102813927	102814076	SCA27B_FGF14	FGF14	GAA	320	AD	Spinocerebellar ataxia 27B
-chr14	23790681	23790711	OPMD_PABPN1	PABPN1	GCN	12	AD,AR	Oculopharyngeal muscular dystrophy
-chr14	92537356	92537397	SCA3_ATXN3	ATXN3	CTG	60	AD	Spinocerebellar Ataxia Type 3/Machado-Joseph Disease
-chr15	23086366	23086390	ALS1_NIPA1	NIPA1	GCG	11	AD	Amyotrophic lateral sclerosis
-chr15	89112665	89112680	pre-MIR7-2_CHNG3	pre-MIR7-2	AAAC	3	AD	Nongoitrous congenital hypothyroidism-3
-chr15	89876820	89876860	CPEO_POLG	POLG	GCT	None		Progressive external ophthalmoplegia, Parkinson's disease
-chr16	17564764	17564779	DBQD2_XYLT1	XYLT1	GCC	72	AR	Baratela-Scott Syndrome/Desbuquois dysplasia 2
-chr16	24624760	24624853	FAME6_TNRC6A	TNRC6A	TTTCA	1100	AD	Familial adult myoclonic epilepsy type 6
-chr16	66524300	66524369	SCA31_BEAN1	BEAN1	TGGAA,TAGAA	110	AD	Spinocerebellar Ataxia Type 31
-chr16	67876766	67876853	SCA_THAP11	THAP11	CAG	45	AD	Spinocerebellar ataxia
-chr16	72821594	72821657	SCA4_ZFHX3	ZFHX3	GCC	46	AD	Spinocerebellar ataxia 4
-chr16	87637889	87637935	HDL2_JPH3	JPH3	CTG	40	AD	Huntington disease-like 2
-chr17	17711673	17711774	FAME8_RAI1	RAI1	TTTCA	9	AD	Familial adult myoclonic epilepsy type 8
-chr17	78120858	78120938	RCPS_EIF4A3	EIF4A3	CCTCGCTGTGCCGCTGCCGA	14	AR	Richieri-Costa-Pereira syndrome
-chr18	53253386	53253458	FECD3_TCF4	TCF4	CAG	51	AD	Fuchs endothelial corneal dystrophy 3
-chr19	13318673	13318712	SCA6_CACNA1A	CACNA1A	CTG	20	AD	Spinocerebellar Ataxia Type 6
-chr19	14606853	14606886	OPDM2_GIPC1	GIPC1	CCG	73	AD	Oculopharyngodistal myopathy
-chr19	18896844	18896859	EDM1-PSACH_COMP	COMP	GTC	6	AD	Multiple epiphyseal dysplasia, Pseudoachondroplasia
-chr19	46273462	46273524	DM1_DMPK	DMPK	CAG	50	AD	Myotonic Dystrophy Type 1
-chr20	2633379	2633403	SCA36_NOP56	NOP56	GGCCTG	650	AD	Spinocerebellar ataxia type 36
-chr20	4680043	4680139	CJD_PRNP	PRNP	CCTCATGGTGGTGGCTGGGGGCAG	5	AD	Creutzfeldt-Jakob disease
-chr21	45196324	45196360	EPM1_CSTB	CSTB	CGCGGGGCGGGG	30	AR	Progressive Myoclonic Epilepsy Type 1 (EPM1) Unverricht-Lundborg Disease (ULD)
-chr22	19754285	19754330	TOF_TBX1	TBX1	GCN	25	AD	Tetralogy of Fallot
-chr22	46191235	46191304	SCA10_ATXN10	ATXN10	ATTCT	800	AD	Spinocerebellar Ataxia Type 10
-chrX	25031647	25031682	PRTS_ARX	ARX	NGC	20	XR	Partington syndrome
-chrX	25031766	25031814	EIEE1_ARX	ARX	NGC	17	XR	Early-infantile epileptic encephalopathy
-chrX	31302674	31302722	DMD_DMD	DMD	TTC	59	XR	Duchenne muscular dystrophy
-chrX	66765159	66765261	SBMA_AR	AR	GCA	38	XR	Spinal and bulbar muscular atrophy, Kennedy Disease
-chrX	70672905	70672979	XDP_TAF1	TAF1	AGAGGG	35	XR	X-linked dystonia-parkinsonism (XDP) a.k.a. Dystonia 3, torsion, X-linked (DYT3)
-chrX	136648985	136649015	VACTERLX_ZIC3	ZIC3	GCN	12	XR	X-linked VACTERL syndrome
-chrX	139586481	139586526	XLMR_SOX3	SOX3	NGC	22	XR	X-linked panhypopituitarism ; X-linked mental retardation with isolated growth hormone
-chrX	146993555	146993629	FXS_FMR1	FMR1	CGG	201	XD	Fragile X syndrome (FXS), fragile X-associated tremor/ataxia syndrome (FXTAS), and fragile X-associated primary ovarian insufficiency FXPOI/POF1
-chrX	147582125	147582273	FRAXE_AFF2	AFF2	GCC	201	XR	Fragile X syndrome, FRAXE type
+#chrom	start	stop	id	gene	reference_motif_reference_orientation	pathogenic_motif_reference_orientation	pathogenic_min	inheritance	disease
+chr1	1371178	1371198	HMNR7_VWA1	VWA1	GGCGCGGAGC	GGCGCGGAGC	1	AR	Neuronopathy, distal hereditary motor, autosomal recessive 7
+chr1	57832715	57832793	SCA37_DAB1	DAB1	AAAAT	GAAAT	31	AD	Spinocerebellar Ataxia Type 37
+chr1	94883977	94884000	OPDM_ABCD3	ABCD3	GCC	GCC	118	AD	Oculopharyngodistal myopathy
+chr1	145209323	145209354	NIID_NOTCH2NLC	NOTCH2NLC	GGC	GGC	66	AD	Neuronal intranuclear inclusion disease, Alzheimer disease and parkinsonism phenotype
+chr1	155160981	155162030	ADTKD_MUC1	MUC1	CTNGGGGGGCGGTGGAGCCCNGNGCNGGCCTGNTGTCCGGNGCCGAGGTGACACCNTGGN	CTNGGGGGGGCGGTGGAGCCCNGNGCNGGCCTGNTGTCCGGNGCCGAGGTGACACCNTGGN	8	AD	Autosomal dominant tubulointerstitial kidney disease
+chr1	156561557	156561575	NME_NAXE	NAXE	GGGCC	GGGCC	200	AR	NAXE-related mitochondrial encephalopathy
+chr2	96862804	96862862	FAME2_STARD7	STARD7	AAAAT	AAATG	274	AD	Familial adult myoclonic epilepsy 2
+chr2	100721260	100721286	FRA2A_AFF3	AFF3	GCC	GCC	300	AD	Intellectual disability associated with fragile site FRA2A
+chr2	176957786	176957831	SD5_HOXD13	HOXD13	GCN	GCN	22	AD	Syndactyly
+chr2	191745598	191745646	GDPAG_GLS	GLS	GCA	GCA	680	AR	Glutaminase deficiency
+chr3	63898360	63898391	SCA7_ATXN7	ATXN7	CAG	CAG	37	AD	Spinocerebellar Ataxia Type 7
+chr3	128891419	128891499	DM2_CNBP	CNBP	CAGG	CAGG	75	AD	Myotonic Dystrophy Type 2
+chr3	138664861	138664904	BPES_FOXL2	FOXL2	NGC	NGC	15	AD,AR	Blepharophimosis, epicanthus inversus, and ptosis
+chr3	183429975	183430014	FAME4_YEATS2	YEATS2	TTTTA	TTTCA	1000	AD	Familial adult myoclonic epilepsy 4
+chr4	3076603	3076660	HD_HTT	HTT	CAG	CAG	40	AD	Huntington disease
+chr4	39350044	39350103	CANVAS_RFC1	RFC1	AAAAG	AAGGG,ACAGG,AGGGC,AAGGC,AGAGG	400	AR	Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome
+chr4	41747989	41748049	CCHS_PHOX2B	PHOX2B	GCN	GCN	26	AD	Congenital central hypoventilation syndrome
+chr4	160263678	160263770	FAME7_RAPGEF2	RAPGEF2	TTTTA	TTTCA	60	AD	Familial adult myoclonic epilepsy type 7
+chr5	10356455	10356523	FAME3_MARCHF6	MARCHF6	TTTTA	TTTCA	791	AD	Familial adult myoclonic epilepsy type 3
+chr5	146258290	146258322	SCA12_PPP2R2B	PPP2R2B	GCT	GCT	51	AD	Spinocerebellar ataxia type 12
+chr6	16327864	16327955	SCA1_ATXN1	ATXN1	CTG	CTG	39	AD	Spinocerebellar Ataxia Type 1
+chr6	45390487	45390538	CCD_RUNX2	RUNX2	GCN	GCN	20	AD	Cleidocranial dysplasia
+chr6	170870994	170871105	SCA17_TBP	TBP	GCA	GCA	49	AD	Spinocerebellar ataxia type 17
+chr7	27239297	27239351	HFG_HOXA13-III	HOXA13	NGC	NGC	22	AD	Hand-foot-genital syndrome 3
+chr7	27239444	27239480	HFG_HOXA13-II	HOXA13	NGC	NGC	18	AD	Hand-foot-genital syndrome 2
+chr7	27239543	27239585	HFG_HOXA13-I	HOXA13	NGC	NGC	22	AD	Hand-foot-genital syndrome 1
+chr7	55955293	55955332	FRA7A_ZNF713	ZNF713	GCG	GCG	450	AD	Autism spectrum disorder associated with fragile site FRA7A
+chr8	105601198	105601227	OPDM1_LRP12	LRP12	CGC	CGC	85	AD	Oculopharyngodistal myopathy type 1
+chr8	119379051	119379157	FAME1_SAMD12	SAMD12	TAAAA	TGAAA	105	AD	Familial adult myoclonic epilepsy type 1
+chr9	27573482	27573544	FTDALS1_C9orf72	C9orf72	GGCCCC	GGCCCC	251	AD	Frontotemporal dementia (FTD) and/or amyotrophic lateral sclerosis (ALS)
+chr9	71652202	71652220	FRDA_FXN	FXN	GAA	GAA	56	AR	Friedreich ataxia
+chr9	133556992	133557028	HSAN-VIII_PRDM12	PRDM12	GCC	GCC	18	AR	Hereditary sensory and autonomic neuropathy type VIII
+chr10	81586139	81586160	OPML1_NUTM2B-AS1	NUTM2B-AS1	GGC	GGC	161	AD	Oculopharyngeal myopathy with leukoencephalopathy 1
+chr11	119076999	119077033	JBS_CBL	CBL	CGG	CGG	101	AD	Jacobsen syndrome (FRAX11B fragile site)
+chr12	7045879	7045938	DRPLA_ATN1	ATN1	CAG	CAG	48	AD	Dentatorubral-Pallidoluysian Atrophy
+chr12	50898784	50898807	FRA12A_DIP2B	DIP2B	GGC	GGC	273	AD	Intellectual developmental disorder, FRA12A type
+chr12	112036753	112036823	SCA2_ATXN2	ATXN2	CTG	CTG	35	AD,AR	Spinocerebellar Ataxia Type 2
+chr12	124018267	124018297	OPDM4_RILPL1	RILPL1	GGC	GGC	120	AD	Oculopharyngodistal myopathy type 4
+chr13	70713515	70713561	SCA8_ATXN8OS	ATXN8OS	CTG	CTG	71	AD	Spinocerebellar Ataxia Type 8
+chr13	100637702	100637748	HPE5_ZIC2	ZIC2	GCN	GCN	25	AD	Holoprosencephaly-5
+chr13	102813924	102814076	SCA27B_FGF14	FGF14	GAA	GAA	320	AD	Spinocerebellar ataxia 27B
+chr14	23790681	23790712	OPMD_PABPN1	PABPN1	GCN	GCN	12	AD,AR	Oculopharyngeal muscular dystrophy
+chr14	92537354	92537396	SCA3_ATXN3	ATXN3	CTG	CTG	60	AD	Spinocerebellar Ataxia Type 3/Machado-Joseph Disease
+chr15	23086363	23086389	ALS1_NIPA1	NIPA1	GCG	GCG	11	AD	Amyotrophic lateral sclerosis
+chr15	89112664	89112683	pre-MIR7-2_CHNG3	pre-MIR7-2	AAAC	AAAC	3	AD	Nongoitrous congenital hypothyroidism-3
+chr15	89876819	89876860	CPEO_POLG	POLG	GCT	GCT	None		Progressive external ophthalmoplegia, Parkinson's disease
+chr16	17564764	17564779	DBQD2_XYLT1	XYLT1	GCC	GCC	72	AR	Baratela-Scott Syndrome/Desbuquois dysplasia 2
+chr16	24624759	24624853	FAME6_TNRC6A	TNRC6A	TTTTA	TTTCA	1100	AD	Familial adult myoclonic epilepsy type 6
+chr16	66524299	66524369	SCA31_BEAN1	BEAN1	AATAA	TGGAA,TAGAA	110	AD	Spinocerebellar Ataxia Type 31
+chr16	67876765	67876853	SCA_THAP11	THAP11	CAG	CAG	45	AD	Spinocerebellar ataxia
+chr16	72821593	72821657	SCA4_ZFHX3	ZFHX3	GCC	GCC	46	AD	Spinocerebellar ataxia 4
+chr16	87637888	87637935	HDL2_JPH3	JPH3	CTG	CTG	40	AD	Huntington disease-like 2
+chr17	17711672	17711774	FAME8_RAI1	RAI1	TTTTA	TTTCA	9	AD	Familial adult myoclonic epilepsy type 8
+chr17	78120858	78120938	RCPS_EIF4A3	EIF4A3	CCTCGCTGTGCCGCTGCCGA	CCTCGCTGTGCCGCTGCCGA	14	AR	Richieri-Costa-Pereira syndrome
+chr18	53253384	53253460	FECD3_TCF4	TCF4	CAG	CAG	51	AD	Fuchs endothelial corneal dystrophy 3
+chr19	13318672	13318712	SCA6_CACNA1A	CACNA1A	CTG	CTG	20	AD	Spinocerebellar Ataxia Type 6
+chr19	14606853	14606887	OPDM2_GIPC1	GIPC1	CCG	CCG	73	AD	Oculopharyngodistal myopathy
+chr19	18896844	18896860	EDM1-PSACH_COMP	COMP	GTC	GTC	6	AD	Multiple epiphyseal dysplasia, Pseudoachondroplasia
+chr19	46273462	46273524	DM1_DMPK	DMPK	CAG	CAG	50	AD	Myotonic Dystrophy Type 1
+chr20	2633378	2633403	SCA36_NOP56	NOP56	GGCCTG	GGCCTG	650	AD	Spinocerebellar ataxia type 36
+chr20	4680043	4680139	CJD_PRNP	PRNP	GGTGGTGGCTGGGGGCAGCCTCAT	CCTCATGGTGGTGGCTGGGGGCAG	5	AD	Creutzfeldt-Jakob disease
+chr21	45196323	45196360	EPM1_CSTB	CSTB	CGCGGGGCGGGG	CGCGGGGCGGGG	30	AR	Progressive Myoclonic Epilepsy Type 1 (EPM1) Unverricht-Lundborg Disease (ULD)
+chr22	19754285	19754330	TOF_TBX1	TBX1	GCN	GCN	25	AD	Tetralogy of Fallot
+chr22	46191234	46191304	SCA10_ATXN10	ATXN10	ATTCT	ATTCT	800	AD	Spinocerebellar Ataxia Type 10
+chrX	25031646	25031682	PRTS_ARX	ARX	NGC	NGC	20	XR	Partington syndrome
+chrX	25031766	25031814	EIEE1_ARX	ARX	NGC	NGC	17	XR	Early-infantile epileptic encephalopathy
+chrX	31302674	31302722	DMD_DMD	DMD	TTC	TTC	59	XR	Duchenne muscular dystrophy
+chrX	66765158	66765261	SBMA_AR	AR	GCA	GCA	38	XR	Spinal and bulbar muscular atrophy, Kennedy Disease
+chrX	70672904	70672981	XDP_TAF1	TAF1	AGAGGG	AGAGGG	35	XR	X-linked dystonia-parkinsonism (XDP) a.k.a. Dystonia 3, torsion, X-linked (DYT3)
+chrX	136648985	136649015	VACTERLX_ZIC3	ZIC3	GCN	GCN	12	XR	X-linked VACTERL syndrome
+chrX	139586481	139586526	XLMR_SOX3	SOX3	NGC	NGC	22	XR	X-linked panhypopituitarism ; X-linked mental retardation with isolated growth hormone
+chrX	146993567	146993629	FXS_FMR1	FMR1	CGG	CGG	201	XD	Fragile X syndrome (FXS), fragile X-associated tremor/ataxia syndrome (FXTAS), and fragile X-associated primary ovarian insufficiency FXPOI/POF1
+chrX	147582124	147582273	FRAXE_AFF2	AFF2	GCC	GCC	201	XR	Fragile X syndrome, FRAXE type

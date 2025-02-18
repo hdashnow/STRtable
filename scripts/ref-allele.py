@@ -57,12 +57,16 @@ def read_bed(bed, format):
     with open(bed) as fh:
         for line in fh:
             if line.startswith('#'):
+                header = line.lstrip('#').strip().split('\t')
+                ref_motif_index = header.index('reference_motif_reference_orientation')
+                path_motif_index = header.index('pathogenic_motif_reference_orientation')
+                locusid_index = header.index('id')
                 continue
             line = line.strip().split('\t')
 
             if format == 'strchive':
-                motifs = [x.strip().upper() for x in line[5].split(',')]
-                locusid = line[3]
+                motifs = list(dict.fromkeys([x.strip().upper() for x in line[ref_motif_index].split(',')] + [x.strip().upper() for x in line[path_motif_index].split(',')]))
+                locusid = line[locusid_index]
             elif format == 'pacbio':
                 annotations = line[3].split(';')
                 motifs = [x.strip().upper() for x in annotations[1].split('=')[1].split(',')]
