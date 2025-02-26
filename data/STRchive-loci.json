@@ -2601,7 +2601,7 @@
   "mechanism": "LoF",
   "mechanism_detail": "Reduced NAXE expression from expansion in promoter; hypermethylation was detected at and downstream of the repeat sequence in the proband as well as the maternal copy of the expanded allele, which was not present in the maternal normal range allele nor in the controls [@pmid:39455596]",
   "source": [],
-  "details": "Benign range (2-7) alleles established by 484 control alleles and validated with orthogonal databases, while single proband had expansion of ~200 repeats inherited from mother via uniparental disomy [@pmid:39455596]. While the repeat expansion is newly reported, other variants in the NAXE gene have previously been associated with mitochondrial encephalopathy.",
+  "details": "Benign range (2-7) alleles established by 484 control alleles and validated with orthogonal databases, while single proband had expansion of ~200 repeats inherited from mother via uniparental disomy [@pmid:39455596]. While the repeat expansion is newly reported, other variants in the NAXE gene have previously been associated with mitochondrial encephalopathy. Note: the motif for this locus is different in the hg19 reference genome.",
   "omim": ["617186"],
   "prevalence": null,
   "prevalence_details": "Single proband found in Japanese cohort [@pmid:39455596].",
