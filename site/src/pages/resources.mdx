@@ -95,11 +95,21 @@ In coding regions, the locus boundary might be chosen to align with the reading 
 There are often multiple "correct" ways to define a given repeat locus, however careful consideration must be made to the downstream uses of the data.
 In particular, genotyping accuracy can be affected by the choice of locus definition. Locus definitions can affect the expected allele size, which in turn may have an impact on how allelic thresholds are defined and determined.
 
-The loci in STRchive were defined to be broader, allowing for interruptions, and with consideration to the biological context and clinical utility of the locus.
+The loci in STRchive were defined to be broader, allowing for some interruptions, and with consideration to the biological context and clinical utility of the locus.
 This strategy increases the chance that the locus will overlap with a relevant variant call when STRchive is used to annotate a VCF file.
 It is also the preferred approach to defining loci for improved genotyping accuracy with <Link to="https://github.com/PacificBiosciences/trgt">TRGT</Link>.
 In contrast, <Link to="https://github.com/Illumina/ExpansionHunter">ExpansionHunter</Link> tends to perform better with narrower loci that exclude repeat interruptions.
 For this reason, repeat definitions used in <Link to="https://gnomad.broadinstitute.org/short-tandem-repeats">gnomAD</Link> tend to be narrower than those used in STRchive.
+
+#### Defining loci in STRchive
+
+We followed a consistent protocol to arrive at the coordinates within our repeat locus definitions.
+We began with the region defined in the literature and used TRF annotations or similar to identify or refine the coordinates if needed.
+We examined the reference genome at these coordinates to find the longest exact stretch of the motif (allowing for "N" bases if relevant, e.g. polyalanine loci) and included partial motifs, i.e., the total length does not need to be a multiple of the motif length.
+We included interrupted motifs if described in the literature or where they occurred between stretches of the same motif. We defined the coordinates in the hg38 reference genome first and then lifted over to the other genomes.
+We conducted a manual review to ensure the coordinates in all genome builds met the above criteria, adjusting as necessary.
+To generate TRGT repeat definitions, we further extended the above coordinates to include flanking motifs.
+
 
 </section>
 
