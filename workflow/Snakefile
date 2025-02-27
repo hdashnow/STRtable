@@ -251,7 +251,7 @@ rule get_ref_alleles:
     shell:
         """
         python {scripts_dir}ref-allele.py {input.bed_hg19} {input.TRGT_hg19} 'https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz' {output.result_hg19} {ref_directory}
-        python {scripts_dir}ref-allele.py {input.bed_hg38} {input.TRGT_hg38} 'https://storage.googleapis.com/genomics-public-data/references/GRCh38_Verily/GRCh38_Verily_v1.genome.fa' {output.result_hg38} {ref_directory}
+        python {scripts_dir}ref-allele.py {input.bed_hg38} {input.TRGT_hg38} 'https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/analysisSet/hg38.analysisSet.fa.gz' {output.result_hg38} {ref_directory}
         python {scripts_dir}ref-allele.py {input.bed_T2T} {input.TRGT_T2T} 'https://s3-us-west-2.amazonaws.com/human-pangenomics/T2T/CHM13/assemblies/analysis_set/chm13v2.0_maskedY_rCRS.fa.gz' {output.result_T2T} {ref_directory}
         """
 
