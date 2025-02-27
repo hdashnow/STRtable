@@ -338,6 +338,7 @@ def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None,
             options.indent_size = 2
             options.brace_style="expand"
             out_json_file.write(jsbeautifier.beautify(json.dumps(data, ensure_ascii=False), options))
+            out_json_file.write('\n')
 
 if __name__ == '__main__':
     doctest.testmod()
