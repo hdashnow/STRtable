@@ -52,6 +52,7 @@ def parse_args():
     parser.add_argument('--out', default=None, help='Defaults to same as input JSON file path (overwriting)')
     parser.add_argument('--pause', default=5, help='Pause time in seconds before overwriting the file. Default: 5')
     parser.add_argument('--lit', default=None, help='json file of literature with at least the fields "id", "additional_literature", "references". This will overwrite these literature fields in the STRchive loci json if they are present')
+    parser.add_argument('--liftover', action='store_true', help='Lift over coordinates from hg38 to hg19 and T2T, overwriting the existing coordinates')
     return parser.parse_args()
 
 def unique_list(mylist):
@@ -294,7 +295,7 @@ def lift_over(loci_data, ref_dir):
 
     return loci_data
 
-def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None, ref_dir = "ref-data/"):
+def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None, liftover = False, ref_dir = "ref-data/"):
     if out_json == json_fname:
         sys.stderr.write(f'WARNING: overwriting {json_fname} in {pause} seconds\n')
         sys.stderr.write('Press Ctrl+C to cancel\n')
@@ -325,7 +326,8 @@ def main(json_fname, json_schema = None, out_json = None, pause = 5, lit = None,
             record = check_motif_orientation(record)
 
         # Lift over coordinates
-        data = lift_over(data, ref_dir)
+        if liftover:
+            data = lift_over(data, ref_dir)
 
         # Sort records by gene name then id
         data = sorted(data, key = lambda x: (x['gene'], x['id']))
@@ -342,4 +344,4 @@ if __name__ == '__main__':
     args = parse_args()
     if args.out is None:
         args.out = args.json
-    main(args.json, args.schema, args.out, args.pause, args.lit)
+    main(args.json, args.schema, args.out, args.pause, args.lit, args.liftover)
