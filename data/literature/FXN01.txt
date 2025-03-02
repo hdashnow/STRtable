@@ -1,9 +1,97 @@
 
+PMID- 39977947
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250220
+LR  - 20250220
+IS  - 1526-632X (Electronic)
+IS  - 0028-3878 (Linking)
+VI  - 102
+IP  - 7_supplement_1
+DP  - 2024 Apr 9
+TI  - Multiple Sclerosis in a Patient with Friedreich's Ataxia (P4-6.016).
+PG  - 3347
+LID - 10.1212/WNL.0000000000205077 [doi]
+AB  - OBJECTIVE: To report clinical features in a patient with genetically confirmed 
+      Friedreich's Ataxia (FRDA) that led to the definitive diagnosis of multiple 
+      sclerosis (MS). BACKGROUND: FRDA is caused by homozygous GAA trinucleotide repeat 
+      expansion in the Frataxin gene. While white matter abnormalities are seen in 
+      FRDA, none described so far have been compatible with a diagnosis of MS. 
+      DESIGN/METHODS: Case Report: A 22-year-old woman was diagnosed with FRDA at ten 
+      years of age. She presented with gait ataxia at age eight years. Initial 
+      examination showed ocular dysmetria, areflexia, intention tremor, dysmetria on 
+      finger-to-nose testing, and gait ataxia. Genetic testing showed 933 and 800 
+      repeats in alleles 1 and 2, respectively. At 20 years of age, she was 
+      non-ambulatory with moderate ataxic dysarthria, severe truncal and extremity 
+      ataxia. At 21, she developed acutely worsening paresthesia in her fingers, 
+      fatigue, and bilateral arm and leg weakness. Examination revealed new findings of 
+      weakness in the right greater than the left arm and leg and loss of joint 
+      position sense in her fingers. MRI brain and total spine demonstrated multifocal 
+      hyperintense lesions in supratentorial and infratentorial locations and the 
+      cervical spinal cord; two lesions demonstrated enhancement. CSF analysis revealed 
+      11 WBCs (94% lymphocytes), normal protein, and three unique oligoclonal bands. 
+      Serum NMO antibody was negative. Additional extensive serologic testing for the 
+      MS differential diagnosis was negative. High-dose intravenous steroids resulted 
+      in improvement of arm strength. Three months later, she developed right foot 
+      numbness. MRI brain demonstrated a new enhancing white matter lesion over the 
+      right posterior horn of the lateral ventricle. RESULTS: N/A. CONCLUSIONS: The 
+      definitive diagnosis of multiple sclerosis in a FRDA patient is novel and 
+      requires careful reconciliation of the symptoms, clinical exam findings, and 
+      ancillary testing. The development of symptoms incompatible with FRDA should 
+      prompt clinicians to consider additional neurologic diagnoses. Disclosure: Dr. Yu 
+      has nothing to disclose. Dr. Kushlaf has received personal compensation in the 
+      range of $500-$4,999 for serving on a Scientific Advisory or Data Safety 
+      Monitoring board for Alexion AstraZeneca Rare Disease. Dr. Kushlaf has received 
+      personal compensation in the range of $5,000-$9,999 for serving on a Scientific 
+      Advisory or Data Safety Monitoring board for Sanofi Genzyme. Dr. Kushlaf has 
+      received personal compensation in the range of $500-$4,999 for serving on a 
+      Scientific Advisory or Data Safety Monitoring board for Immunovant. Dr. Kushlaf 
+      has received personal compensation in the range of $500-$4,999 for serving on a 
+      Scientific Advisory or Data Safety Monitoring board for UCB. Dr. Kushlaf has 
+      received personal compensation in the range of $5,000-$9,999 for serving on a 
+      Speakers Bureau for Sanofi Genzyme.
+FAU - Yu, Yang
+AU  - Yu Y
+AD  - Neurology, University of Cincinnati.
+FAU - Kushlaf, Hani
+AU  - Kushlaf H
+AD  - Neurology, University of Cincinnati.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20240409
+PL  - United States
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+RN  - 0 (Frataxin)
+RN  - 0 (Iron-Binding Proteins)
+SB  - IM
+MH  - Humans
+MH  - *Friedreich Ataxia/complications/genetics
+MH  - Female
+MH  - Young Adult
+MH  - *Multiple Sclerosis/complications/diagnosis
+MH  - Brain/diagnostic imaging/pathology
+MH  - Magnetic Resonance Imaging
+MH  - Frataxin
+MH  - Iron-Binding Proteins/genetics
+EDAT- 2025/02/20 18:21
+MHDA- 2025/02/20 18:22
+CRDT- 2025/02/20 17:32
+PHST- 2025/02/20 18:22 [medline]
+PHST- 2025/02/20 18:21 [pubmed]
+PHST- 2025/02/20 17:32 [entrez]
+AID - 10.1212/WNL.0000000000205077 [doi]
+PST - ppublish
+SO  - Neurology. 2024 Apr 9;102(7_supplement_1):3347. doi: 
+      10.1212/WNL.0000000000205077. Epub 2024 Apr 9.
+
 PMID- 39812846
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20250115
-LR  - 20250115
+LR  - 20250215
 IS  - 1432-1459 (Electronic)
 IS  - 0340-5354 (Linking)
 VI  - 272
@@ -4476,7 +4564,7 @@ PMID- 35301072
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220504
-LR  - 20230704
+LR  - 20250226
 IS  - 1872-8227 (Electronic)
 IS  - 0168-8227 (Print)
 IS  - 0168-8227 (Linking)
@@ -4551,9 +4639,10 @@ AD  - Division of Endocrinology and Diabetes, Children's Hospital of Philadelphi
       Medicine at the University of Pennsylvania, Philadelphia, PA, USA.
 LA  - eng
 GR  - F32 DK128970/DK/NIDDK NIH HHS/United States
-GR  - K08 DK131253/DK/NIDDK NIH HHS/United States
 GR  - K12 DK094723/DK/NIDDK NIH HHS/United States
 GR  - T32 DK063688/DK/NIDDK NIH HHS/United States
+GR  - R01 HL149722/HL/NHLBI NIH HHS/United States
+GR  - K08 DK131253/DK/NIDDK NIH HHS/United States
 PT  - Journal Article
 PT  - Multicenter Study
 DEP - 20220314
@@ -5299,7 +5388,7 @@ SO  - Genetics. 2021 Oct 2;219(2):iyab125. doi: 10.1093/genetics/iyab125.
 PMID- 34786480
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220428
+LR  - 20250226
 IS  - 2376-7839 (Print)
 IS  - 2376-7839 (Electronic)
 IS  - 2376-7839 (Linking)
@@ -5745,6 +5834,7 @@ AD  - Division of Neurology (M.P., A.M.C., J.F., D.L.), Children's Hospital of
       Medicine, Gainesville, Florida; Department of Neurology (T.Z.), University of 
       South Florida, Tampa, Florida.
 LA  - eng
+GR  - R01 CA254955/CA/NCI NIH HHS/United States
 PT  - Journal Article
 DEP - 20211112
 PL  - United States

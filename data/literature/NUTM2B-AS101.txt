@@ -185,7 +185,7 @@ PMID- 38159879
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240222
-LR  - 20240222
+LR  - 20250207
 IS  - 1673-8527 (Print)
 IS  - 1673-8527 (Linking)
 VI  - 51
@@ -344,6 +344,7 @@ AD  - Department of Neurology and Institute of Neurology of First Affiliated Hos
       ykang319@163.com.
 LA  - eng
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20231229
 PL  - China
 TA  - J Genet Genomics

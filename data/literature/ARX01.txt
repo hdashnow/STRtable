@@ -1,4 +1,126 @@
 
+PMID- 39933386
+OWN - NLM
+STAT- Publisher
+LR  - 20250211
+IS  - 1532-2688 (Electronic)
+IS  - 1059-1311 (Linking)
+VI  - 126
+DP  - 2025 Jan 31
+TI  - Infantile Epileptic Spasms Syndrome: Unveiling clinical and genetic variability 
+      in a case series from Argentina.
+PG  - 48-57
+LID - S1059-1311(25)00031-7 [pii]
+LID - 10.1016/j.seizure.2025.01.025 [doi]
+AB  - PURPOSE: Infantile Epileptic Spasms Syndrome (IESS) is the most prevalent 
+      epileptic encephalopathy (EE) in the first year of life, with approximately 40 % 
+      of cases of genetic or unknown origin. This study aims to describe the clinical 
+      and molecular characteristics of a group of Argentine patients diagnosed with 
+      IESS of unknown etiology. METHODS: A retrospective analysis was performed on the 
+      clinical data of 24 pediatric patients diagnosed with IESS with hypsarrhythmia, 
+      who underwent genomic studies between 2019 and 2022. RESULTS: A genetic etiology 
+      was identified in 50 % of cases (eight boys and four girls; median seizure onset 
+      age: 3 months). Most of them initiated with IESS and over half evolved into 
+      Lennox-Gastaut syndrome. Developmental delay preceded seizure onset in all 
+      patients, persisting or worsening thereafter. Notable features included 
+      hypotonia, microcephaly, and dysmorphisms. Half of the patients had a family 
+      history of epilepsy, and two of EE. Identified variants included 7/13 (53.8 %) 
+      single nucleotide variants in KCNQ2, STXBP1, SCN8A, CDKL5, UGDH, and WWOX; 5/13 
+      (38.5 %) copy number variants involving the genes UBE3A-GABRB3-GABRA5, 
+      SCN2A-SCN1A-SCN9A, and WWOX; and a short tandem repeat in ARX. Inheritance 
+      patterns included autosomal dominant (n = 8), recessive (n = 2), and X-linked (n 
+      = 2). Nine variants (69.2 %) were presumed de novo. CONCLUSION: These findings 
+      underscore the extensive genetic heterogeneity of IESS within the Argentine 
+      population, enriching the international literature and variant databases with 
+      Latin American data. In cases with an unknown cause, genetic testing is crucial 
+      in establishing an etiological diagnosis, guiding appropriate treatment, and 
+      facilitating genetic counseling.
+CI  - Copyright (c) 2025 British Epilepsy Association. Published by Elsevier Ltd. All 
+      rights reserved.
+FAU - Martin, Maria Eugenia
+AU  - Martin ME
+AD  - Genomics Laboratory, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina. Electronic address: eugetl@yahoo.com.
+FAU - Intriago, Lenin
+AU  - Intriago L
+AD  - Department of Neurology, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Loos, Mariana
+AU  - Loos M
+AD  - Department of Neurology, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Reyes Valenzuela, Gabriela
+AU  - Reyes Valenzuela G
+AD  - Department of Neurology, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Veneruzzo, Gabriel
+AU  - Veneruzzo G
+AD  - Genomics Laboratory, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Foncuberta, Maria Eugenia
+AU  - Foncuberta ME
+AD  - Genomics Laboratory, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina; Laboratory of Molecular Biology-Genetics, Hospital de Pediatria 
+      Prof Dr. Juan P Garrahan, Buenos Aires, Argentina.
+FAU - Zelaya, Gabriela
+AU  - Zelaya G
+AD  - Genomics Laboratory, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina; Laboratory of Cytogenetics-Genetics, Hospital de Pediatria Prof 
+      Dr. Juan P Garrahan, Buenos Aires, Argentina.
+FAU - Aschettino, Giovanna
+AU  - Aschettino G
+AD  - Genomics Laboratory, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Garcia, Francisco
+AU  - Garcia F
+AD  - Genomics Laboratory, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Flores, Giovanna
+AU  - Flores G
+AD  - Department of Neurology, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Caraballo, Roberto
+AU  - Caraballo R
+AD  - Department of Neurology, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Alonso, Cristina
+AU  - Alonso C
+AD  - Genomics Laboratory, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+FAU - Juanes, Matias
+AU  - Juanes M
+AD  - Genomics Laboratory, Hospital de Pediatria Prof Dr. Juan P Garrahan, Buenos 
+      Aires, Argentina.
+LA  - eng
+PT  - Journal Article
+DEP - 20250131
+PL  - England
+TA  - Seizure
+JT  - Seizure
+JID - 9306979
+SB  - IM
+OTO - NOTNLM
+OT  - Epileptic encephalopathy
+OT  - Epileptic spasms
+OT  - Genes
+OT  - Genetic heterogeneity
+OT  - Genetic testing
+OT  - West syndrome
+COIS- Declaration of competing interest None.
+EDAT- 2025/02/12 00:20
+MHDA- 2025/02/12 00:20
+CRDT- 2025/02/11 18:07
+PHST- 2024/11/05 00:00 [received]
+PHST- 2025/01/17 00:00 [revised]
+PHST- 2025/01/30 00:00 [accepted]
+PHST- 2025/02/12 00:20 [medline]
+PHST- 2025/02/12 00:20 [pubmed]
+PHST- 2025/02/11 18:07 [entrez]
+AID - S1059-1311(25)00031-7 [pii]
+AID - 10.1016/j.seizure.2025.01.025 [doi]
+PST - aheadofprint
+SO  - Seizure. 2025 Jan 31;126:48-57. doi: 10.1016/j.seizure.2025.01.025.
+
 PMID- 39123069
 OWN - NLM
 STAT- MEDLINE

@@ -707,7 +707,7 @@ LA  - eng
 PT  - Comparative Study
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-PL  - Netherlands
+PL  - United States
 TA  - J Huntingtons Dis
 JT  - Journal of Huntington's disease
 JID - 101589965
@@ -851,7 +851,7 @@ AD  - Genomics and Molecular Medicine, CSIR - Institute of Genomics and Integrat
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-PL  - Netherlands
+PL  - United States
 TA  - J Huntingtons Dis
 JT  - Journal of Huntington's disease
 JID - 101589965

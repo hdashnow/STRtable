@@ -149,7 +149,7 @@ SO  - Am J Kidney Dis. 2025 Jan 21:S0272-6386(25)00038-1. doi:
 PMID- 39781475
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20250115
+LR  - 20250205
 IS  - 2048-8505 (Print)
 IS  - 2048-8513 (Electronic)
 IS  - 2048-8505 (Linking)
@@ -356,6 +356,135 @@ AID - 10.1021/acs.analchem.4c02011 [doi]
 PST - ppublish
 SO  - Anal Chem. 2024 Dec 10;96(49):19230-19237. doi: 10.1021/acs.analchem.4c02011. 
       Epub 2024 Nov 22.
+
+PMID- 39325540
+OWN - NLM
+STAT- In-Process
+LR  - 20250208
+IS  - 1533-3450 (Electronic)
+IS  - 1046-6673 (Print)
+IS  - 1046-6673 (Linking)
+VI  - 36
+IP  - 2
+DP  - 2025 Feb 1
+TI  - Systematic Screening of Autosomal Dominant Tubulointerstitial Kidney Disease- 
+      MUC1 27dupC Pathogenic Variant through Exome Sequencing.
+PG  - 256-263
+LID - 10.1681/ASN.0000000503 [doi]
+AB  - KEY POINTS: MUC1 is associated with autosomal dominant tubulointerstitial kidney 
+      disease, a genetic disorder progressing to kidney failure. Variations in this 
+      gene are not easily diagnosed by conventional methods due to the MUC1 
+      architecture, which contains a variable number of tandem repeats. Using dedicated 
+      bioinformatics tools, we systematically detected the presence of 27dupC most 
+      common MUC1 pathogenic variant from exome sequencing data. BACKGROUND: The MUC1 
+      gene is associated with autosomal dominant tubulointerstitial kidney disease 
+      (ADTKD), leading to CKD. Current methods of sequencing, such as exome sequencing, 
+      rarely detect MUC1 pathogenic variants because of the variable number of tandem 
+      repeats (VNTR) in MUC1 exon2. We demonstrated that combining fast read filtering 
+      with a sensitive VNTR genotyping strategy enables systematic screening of 27dupC 
+      pathogenic MUC1 variant from exome data. METHODS: We initially validated our 
+      bioinformatics pipeline in a proof-of-concept cohort incorporating exome data 
+      from 33 participants with a known MUC1 pathogenic variant identified by Snapshot 
+      PCR and confirmed by 54 MUC1-negative individuals for negative control. We then 
+      retrospectively analyzed exome sequencing data from January 2019 to October 2023 
+      from 3512 adult participants with nephropathy of unknown origin. Finally, we 
+      prospectively validated our pipeline in 825 additional participants enrolled from 
+      November 2023. RESULTS: SharkVNTyper accurately identified MUC1 variants in 32 of 
+      33 participants and excluded its presence in all the 54 negative controls in the 
+      proof-of-concept cohort (sensitivity of 97%, specificity of 100%). Integration of 
+      the Shark tool with VNTyper significantly reduced running time from 6-12 hours to 
+      5-10 minutes per sample, allowing both retrospective and prospective analyses. In 
+      the retrospective cohort, SharkVNTyper identified 23 additional positive 
+      participants who were not suspected clinically and had been missed in the initial 
+      exome analysis; 18 of these participants were confirmed as carrying the MUC1 
+      27dupC mutation by low-throughput Snapshot PCR. In the prospective cohort of 825 
+      participants with CKD, systematic screening discovered 13 positive participants, 
+      with 12 confirmed by PCR. Overall, of 63 participants (1.4% of 4653) with 
+      molecularly confirmed ADTKD-MUC1, comprehensive diagnoses and descriptions of the 
+      disease were available for 24 participants. The median age of kidney failure was 
+      50 years, 38% exhibited bilateral multiple kidney cysts, 8% had early-onset gout, 
+      and 58% had arterial hypertension. CONCLUSIONS: SharkVNTyper enabled the analysis 
+      of highly repeated regions, such as the MUC1 VNTR, and facilitated the systematic 
+      screening of ADTKD-MUC1 from exome data, fostering 27dupC variation 
+      identification. PODCAST: This article contains a podcast at 
+      https://dts.podtrac.com/redirect.mp3/www.asn-online.org/media/podcast/JASN/2024_11_15_KTS_November2024.mp3
+FAU - Bensouna, Ilias
+AU  - Bensouna I
+AUID- ORCID: 0009-0006-4788-7974
+AD  - Soins Intensifs Nephrologiques et Rein Aigu (SINRA), Nephrology Department, Tenon 
+      Hospital, Assistance Publique - Hopitaux de Paris, Paris, France.
+AD  - Inserm UMR_S1155, Paris, France.
+FAU - Robert, Thomas
+AU  - Robert T
+AUID- ORCID: 0000-0002-7580-0913
+AD  - Nephrology and Kidney Transplantation Center, Assistance publique-Hopitaux de 
+      Marseille, La Conception Hospital, Marseille, France.
+AD  - Aix Marseille Univ, INSERM, INRAE, C2VN, Marseille, France.
+FAU - Vanhoye, Xavier
+AU  - Vanhoye X
+AUID- ORCID: 0000-0001-8875-5851
+AD  - Eurofins Biomnis Laboratory, Lyon, France.
+FAU - Dancer, Marine
+AU  - Dancer M
+AD  - Eurofins Biomnis Laboratory, Lyon, France.
+FAU - Raymond, Laure
+AU  - Raymond L
+AD  - Eurofins Biomnis Laboratory, Lyon, France.
+FAU - Delaugere, Pierre
+AU  - Delaugere P
+AUID- ORCID: 0009-0002-4943-2106
+AD  - ISCD, Maison des Modelisations Ingenieries et Technologies, Sorbonne University, 
+      Paris, France.
+FAU - Hilbert, Pascale
+AU  - Hilbert P
+AUID- ORCID: 0000-0003-4540-4538
+AD  - Center of Human Genetics, Institute of Pathology and Genetics, Gosselies, 
+      Belgium.
+FAU - Richard, Hugues
+AU  - Richard H
+AUID- ORCID: 0000-0001-7776-1340
+AD  - UMR_7238 - Biologie Computationnelle et Quantitative, Sorbonne University, Paris, 
+      France.
+AD  - Genome Competence Center (MF1) - Robert Koch Institute, Berlin, Germany.
+FAU - Mesnard, Laurent
+AU  - Mesnard L
+AUID- ORCID: 0000-0002-0339-3757
+AD  - Soins Intensifs Nephrologiques et Rein Aigu (SINRA), Nephrology Department, Tenon 
+      Hospital, Assistance Publique - Hopitaux de Paris, Paris, France.
+AD  - Inserm UMR_S1155, Paris, France.
+AD  - Centre Maladie Rare MAHREA, Tenon Hospital, Assistance Publique - Hopitaux de 
+      Paris, Paris, France.
+AD  - Medicine Faculty, Paris Sorbonne University, Paris, France.
+LA  - eng
+GR  - Assistance Publique - HA pitaux de Paris/
+PT  - Journal Article
+DEP - 20240926
+PL  - United States
+TA  - J Am Soc Nephrol
+JT  - Journal of the American Society of Nephrology : JASN
+JID - 9013836
+SB  - IM
+CIN - doi: 10.1681/ASN.0000000574
+CIN - doi: 10.1681/ASN.0000000575
+PMC - PMC11801747
+COIS- Disclosure forms, as provided by each author, are available with the online 
+      version of the article at http://links.lww.com/JSN/E864.
+EDAT- 2024/09/26 19:03
+MHDA- 2024/09/26 19:03
+PMCR- 2026/02/01
+CRDT- 2024/09/26 12:03
+PHST- 2024/03/26 00:00 [received]
+PHST- 2024/09/20 00:00 [accepted]
+PHST- 2026/02/01 00:00 [pmc-release]
+PHST- 2024/09/26 19:03 [pubmed]
+PHST- 2024/09/26 19:03 [medline]
+PHST- 2024/09/26 12:03 [entrez]
+AID - 00001751-990000000-00426 [pii]
+AID - JASN-2024-000424 [pii]
+AID - 10.1681/ASN.0000000503 [doi]
+PST - ppublish
+SO  - J Am Soc Nephrol. 2025 Feb 1;36(2):256-263. doi: 10.1681/ASN.0000000503. Epub 
+      2024 Sep 26.
 
 PMID- 39314239
 OWN - NLM
@@ -11099,7 +11228,7 @@ AU  - Hilgers J
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-PL  - Netherlands
+PL  - United States
 TA  - Tumour Biol
 JT  - Tumour biology : the journal of the International Society for Oncodevelopmental 
       Biology and Medicine

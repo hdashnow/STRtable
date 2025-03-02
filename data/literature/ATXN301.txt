@@ -1,4 +1,255 @@
 
+PMID- 39987589
+OWN - NLM
+STAT- Publisher
+LR  - 20250223
+IS  - 1876-7753 (Electronic)
+IS  - 1873-5061 (Linking)
+VI  - 84
+DP  - 2025 Feb 17
+TI  - Generation of an induced pluripotent stem cell (iPSC) line (INNDSUi008-A) from a 
+      patient with Spinocerebellar Ataxia Type 3.
+PG  - 103675
+LID - S1873-5061(25)00025-X [pii]
+LID - 10.1016/j.scr.2025.103675 [doi]
+AB  - Abnormal trinucleotide CAG repeat expansions in exon 10 of the ataxin-3 (ATXN3) 
+      gene has been identified as the cause of Spinocerebellar Ataxia Type 3 (SCA3). We 
+      generated and characterized a human induced pluripotent stem cell (iPSC) line 
+      from skin fibroblasts of a patient with genetically confirmed SCA3. The 
+      pluripotency of these iPSCs was verified by the expression of several 
+      undifferentiated hPSCs markers at both RNA and protein levels, as well as their 
+      capability to differentiate into all three germ layers.
+CI  - Copyright (c) 2025 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Li, Bo
+AU  - Li B
+AD  - Department of Neurosurgery, Affiliated Hospital of Jining Medical University, 
+      Jining, Shandong, China.
+FAU - Wang, Yingxin
+AU  - Wang Y
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Yang, Yitong
+AU  - Yang Y
+AD  - School of Nursing, Jining Medical University, Jining, Shandong, China.
+FAU - Shan, Didi
+AU  - Shan D
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Li, Jianing
+AU  - Li J
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Wang, Hongxu
+AU  - Wang H
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China.
+FAU - Sun, Xiaohan
+AU  - Sun X
+AD  - School of Nursing, Jining Medical University, Jining, Shandong, China.
+FAU - Zhan, Zexin
+AU  - Zhan Z
+AD  - School of Nursing, Jining Medical University, Jining, Shandong, China.
+FAU - Ji, Xinbo
+AU  - Ji X
+AD  - School of Nursing, Jining Medical University, Jining, Shandong, China.
+FAU - Tang, Yao
+AU  - Tang Y
+AD  - School of Nursing, Jining Medical University, Jining, Shandong, China.
+FAU - Jiao, Yichang
+AU  - Jiao Y
+AD  - School of Nursing, Jining Medical University, Jining, Shandong, China.
+FAU - Kong, Bo
+AU  - Kong B
+AD  - Department of Neurosurgery, Affiliated Hospital of Jining Medical University, 
+      Jining, Shandong, China.
+FAU - Gao, Bo
+AU  - Gao B
+AD  - Department of Neurosurgery, Affiliated Hospital of Jining Medical University, 
+      Jining, Shandong, China.
+FAU - Sun, Ping
+AU  - Sun P
+AD  - Prenatal Diagnostic Center of Obstetrics and Department of Gynecology, Qilu 
+      Hospital of Shandong University, Jinan, Shandong, China.
+FAU - Liu, Fuchen
+AU  - Liu F
+AD  - Department of Neurology, Research Institute of Neuromuscular and 
+      Neurodegenerative Diseases, Shandong Key Laboratory of Mitochondrial Medicine and 
+      Rare Diseases, Jinan, Shandong, China. Electronic address: 
+      fuchen.liu@email.sdu.edu.cn.
+FAU - Wang, Yu
+AU  - Wang Y
+AD  - Prenatal Diagnostic Center of Obstetrics and Department of Gynecology, Qilu 
+      Hospital of Shandong University, Jinan, Shandong, China. Electronic address: 
+      moulonger@126.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250217
+PL  - England
+TA  - Stem Cell Res
+JT  - Stem cell research
+JID - 101316957
+SB  - IM
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/02/24 02:11
+MHDA- 2025/02/24 02:11
+CRDT- 2025/02/23 18:00
+PHST- 2024/09/24 00:00 [received]
+PHST- 2025/01/07 00:00 [revised]
+PHST- 2025/02/08 00:00 [accepted]
+PHST- 2025/02/24 02:11 [medline]
+PHST- 2025/02/24 02:11 [pubmed]
+PHST- 2025/02/23 18:00 [entrez]
+AID - S1873-5061(25)00025-X [pii]
+AID - 10.1016/j.scr.2025.103675 [doi]
+PST - aheadofprint
+SO  - Stem Cell Res. 2025 Feb 17;84:103675. doi: 10.1016/j.scr.2025.103675.
+
+PMID- 39921113
+OWN - NLM
+STAT- Publisher
+LR  - 20250214
+IS  - 1095-953X (Electronic)
+IS  - 0969-9961 (Linking)
+VI  - 207
+DP  - 2025 Feb 5
+TI  - Effects of trace element dysregulation on brain structure and function in 
+      spinocerebellar Ataxia type 3.
+PG  - 106816
+LID - S0969-9961(25)00032-4 [pii]
+LID - 10.1016/j.nbd.2025.106816 [doi]
+AB  - Spinocerebellar ataxia type 3 (SCA3), a neurodegenerative disorder caused by 
+      excess CAG repeats in the ATXN3 gene, leads to progressive cerebellar ataxia and 
+      other symptoms. The results of previous studies suggest that trace element 
+      dysregulation contributes to neurodegenerative disorder onset. Here, we 
+      investigated the relationships of trace element dysregulation with CAG repeat 
+      length, clinical severity, and brain structural and functional connectivity in 45 
+      patients with SCA3 and 44 healthy controls (HCs). Blood levels of lithium (Li), 
+      selenium (Se), and copper (Cu) were significantly lower in patients with SCA3 
+      than in HCs; Li and Se levels were negatively correlated with CAG repeat length, 
+      especially in the manifest subgroup. Diffusion tensor imaging combined with 
+      resting-state functional magnetic resonance imaging revealed that Li levels were 
+      negatively correlated with fractional anisotropy in the white matter (WM) of 
+      bilateral frontal and parietal regions; tractography mapping showed disorder 
+      structural connectivity of Li-associated region nerve fiber pathways in patients 
+      with SCA3. Dynamic causal modeling analyses showed bidirectional causal 
+      connectivity from the inferior parietal lobule(IPL) to the cerebellum was 
+      significantly correlated with the blood level of Li in patients with SCA3. Time 
+      series correlation-based functional connectivity analysis revealed that the 
+      intrinsic connectivities of the bilateral dorsal premotor cortex(PMd) and IPL 
+      with local cerebellar regions were significantly weaker in patients with SCA3 
+      than in HCs. Our results suggest that trace element dysregulation, especially Li 
+      deficiency, induces brain alterations and clinical manifestations in patients 
+      with SCA3; Li supplementation may be beneficial for WM or astrocytes in this 
+      patient population.
+CI  - Copyright (c) 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Deng, LiHua
+AU  - Deng L
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China.
+FAU - Feng, Liu
+AU  - Feng L
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China; Department of Clinical Laboratory Medicine, 
+      Southwest Hospital, Army Medical University (Third Military Medical University), 
+      Chongqing, China.
+FAU - Li, JingWen
+AU  - Li J
+AD  - Department of Gastroenterology, Southwest Hospital, Army Medical University 
+      (Third Military Medical University), Chongqing, China.
+FAU - Huang, YongHua
+AU  - Huang Y
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China.
+FAU - Ou, PeiLing
+AU  - Ou P
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China.
+FAU - Shi, LinFeng
+AU  - Shi L
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China.
+FAU - Chen, Hui
+AU  - Chen H
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China.
+FAU - Zhang, YuHan
+AU  - Zhang Y
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China.
+FAU - Dai, LiMeng
+AU  - Dai L
+AD  - Prenatal Diagnosis Center, Department of Gynecology and Obstetrics, Southwest 
+      Hospital, Third Military Medical University (Army Medical University), Chongqing, 
+      China.
+FAU - He, Yuan
+AU  - He Y
+AD  - Department of Clinical Laboratory Medicine, Southwest Hospital, Army Medical 
+      University (Third Military Medical University), Chongqing, China.
+FAU - Wei, Chen
+AU  - Wei C
+AD  - MR Research Collaboration Teams, Siemens Healthineers Ltd., Guangzhou, China.
+FAU - Chen, HuaFu
+AU  - Chen H
+AD  - MOE Key Lab for Neuro Information, High-Field Magnetic Resonance Brain Imaging 
+      Key Laboratory of Sichuan Province, University of Electronic Science and 
+      Technology of China, Chengdu, China.
+FAU - Wang, Jian
+AU  - Wang J
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China. Electronic address: wangjian_811@yahoo.com.
+FAU - Li, Leinian
+AU  - Li L
+AD  - School of Psychology, Shandong Normal University, Jinan, China. Electronic 
+      address: lileinian1989@163.com.
+FAU - Liu, Chen
+AU  - Liu C
+AD  - 7T Magnetic Resonance Translational Medicine Research Center, Department of 
+      Radiology, Southwest Hospital, Army Medical University (Third Military Medical 
+      University), Chongqing, China. Electronic address: liuchen@aifmri.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250205
+PL  - United States
+TA  - Neurobiol Dis
+JT  - Neurobiology of disease
+JID - 9500169
+SB  - IM
+OTO - NOTNLM
+OT  - Diffusion tensor imaging (DTI)
+OT  - Lithium
+OT  - Spinocerebellar ataxia type 3
+OT  - Trace elements
+OT  - fMRI
+COIS- Declaration of competing interest The authors declare no conflict of interest. 
+      All authors have read and agreed to the published version of the manuscript.
+EDAT- 2025/02/08 19:53
+MHDA- 2025/02/08 19:53
+CRDT- 2025/02/08 00:30
+PHST- 2024/11/10 00:00 [received]
+PHST- 2025/01/15 00:00 [revised]
+PHST- 2025/01/27 00:00 [accepted]
+PHST- 2025/02/08 19:53 [pubmed]
+PHST- 2025/02/08 19:53 [medline]
+PHST- 2025/02/08 00:30 [entrez]
+AID - S0969-9961(25)00032-4 [pii]
+AID - 10.1016/j.nbd.2025.106816 [doi]
+PST - aheadofprint
+SO  - Neurobiol Dis. 2025 Feb 5;207:106816. doi: 10.1016/j.nbd.2025.106816.
+
 PMID- 39820777
 OWN - NLM
 STAT- MEDLINE
@@ -296,13 +547,17 @@ SO  - Eur J Neurol. 2025 Jan;32(1):e70017. doi: 10.1111/ene.70017.
 
 PMID- 39699045
 OWN - NLM
-STAT- Publisher
-LR  - 20241219
+STAT- MEDLINE
+DCOM- 20250218
+LR  - 20250218
 IS  - 1531-8257 (Electronic)
 IS  - 0885-3185 (Linking)
-DP  - 2024 Dec 19
+VI  - 40
+IP  - 2
+DP  - 2025 Feb
 TI  - Genetic Analysis of GCA Repeats in the GLS Gene: Implications for Undiagnosed 
       Ataxia and Spinocerebellar Ataxia 3 in Mainland China.
+PG  - 324-334
 LID - 10.1002/mds.30083 [doi]
 AB  - BACKGROUND: Recent studies have reported that expanded GCA repeats in the GLS 
       gene can cause glutaminase deficiency with ataxia phenotype. However, to data, no 
@@ -421,7 +676,24 @@ PL  - United States
 TA  - Mov Disord
 JT  - Movement disorders : official journal of the Movement Disorder Society
 JID - 8610688
+RN  - EC 3.5.1.2 (Glutaminase)
 SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - *Machado-Joseph Disease/genetics
+MH  - Adult
+MH  - China
+MH  - Middle Aged
+MH  - Glutaminase/genetics
+MH  - Young Adult
+MH  - Ataxia/genetics
+MH  - Adolescent
+MH  - Genetic Testing/methods
+MH  - Aged
+MH  - Asian People/genetics
+MH  - Whole Genome Sequencing
+MH  - Trinucleotide Repeat Expansion/genetics
 OTO - NOTNLM
 OT  - GCA repeats
 OT  - GLS
@@ -429,17 +701,17 @@ OT  - spinocerebellar ataxia type 3 (SCA3)
 OT  - undiagnosed ataxia
 OT  - whole-genome sequencing
 EDAT- 2024/12/19 12:21
-MHDA- 2024/12/19 12:21
+MHDA- 2025/02/18 06:22
 CRDT- 2024/12/19 08:03
 PHST- 2024/11/07 00:00 [revised]
 PHST- 2024/07/20 00:00 [received]
 PHST- 2024/11/27 00:00 [accepted]
-PHST- 2024/12/19 12:21 [medline]
+PHST- 2025/02/18 06:22 [medline]
 PHST- 2024/12/19 12:21 [pubmed]
 PHST- 2024/12/19 08:03 [entrez]
 AID - 10.1002/mds.30083 [doi]
-PST - aheadofprint
-SO  - Mov Disord. 2024 Dec 19. doi: 10.1002/mds.30083.
+PST - ppublish
+SO  - Mov Disord. 2025 Feb;40(2):324-334. doi: 10.1002/mds.30083. Epub 2024 Dec 19.
 
 PMID- 39571249
 OWN - NLM
@@ -2987,7 +3259,7 @@ PMID- 38429929
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240502
-LR  - 20250109
+LR  - 20250216
 IS  - 1525-0024 (Electronic)
 IS  - 1525-0016 (Print)
 IS  - 1525-0016 (Linking)
@@ -3059,6 +3331,7 @@ AU  - McLoughlin HS
 AD  - Department of Neurology, University of Michigan, Ann Arbor, MI 48109, USA. 
       Electronic address: hayleymc@med.umich.edu.
 LA  - eng
+GR  - R01 NS122751/NS/NINDS NIH HHS/United States
 GR  - R35 GM133346/GM/NIGMS NIH HHS/United States
 GR  - U01 NS106670/NS/NINDS NIH HHS/United States
 PT  - Journal Article
@@ -3227,7 +3500,7 @@ PMID- 38227102
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240117
-LR  - 20240117
+LR  - 20250204
 IS  - 1573-4978 (Electronic)
 IS  - 0301-4851 (Linking)
 VI  - 51

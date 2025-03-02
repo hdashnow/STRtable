@@ -1,13 +1,17 @@
 
 PMID- 39699045
 OWN - NLM
-STAT- Publisher
-LR  - 20241219
+STAT- MEDLINE
+DCOM- 20250218
+LR  - 20250218
 IS  - 1531-8257 (Electronic)
 IS  - 0885-3185 (Linking)
-DP  - 2024 Dec 19
+VI  - 40
+IP  - 2
+DP  - 2025 Feb
 TI  - Genetic Analysis of GCA Repeats in the GLS Gene: Implications for Undiagnosed 
       Ataxia and Spinocerebellar Ataxia 3 in Mainland China.
+PG  - 324-334
 LID - 10.1002/mds.30083 [doi]
 AB  - BACKGROUND: Recent studies have reported that expanded GCA repeats in the GLS 
       gene can cause glutaminase deficiency with ataxia phenotype. However, to data, no 
@@ -126,7 +130,24 @@ PL  - United States
 TA  - Mov Disord
 JT  - Movement disorders : official journal of the Movement Disorder Society
 JID - 8610688
+RN  - EC 3.5.1.2 (Glutaminase)
 SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - *Machado-Joseph Disease/genetics
+MH  - Adult
+MH  - China
+MH  - Middle Aged
+MH  - Glutaminase/genetics
+MH  - Young Adult
+MH  - Ataxia/genetics
+MH  - Adolescent
+MH  - Genetic Testing/methods
+MH  - Aged
+MH  - Asian People/genetics
+MH  - Whole Genome Sequencing
+MH  - Trinucleotide Repeat Expansion/genetics
 OTO - NOTNLM
 OT  - GCA repeats
 OT  - GLS
@@ -134,17 +155,17 @@ OT  - spinocerebellar ataxia type 3 (SCA3)
 OT  - undiagnosed ataxia
 OT  - whole-genome sequencing
 EDAT- 2024/12/19 12:21
-MHDA- 2024/12/19 12:21
+MHDA- 2025/02/18 06:22
 CRDT- 2024/12/19 08:03
 PHST- 2024/11/07 00:00 [revised]
 PHST- 2024/07/20 00:00 [received]
 PHST- 2024/11/27 00:00 [accepted]
-PHST- 2024/12/19 12:21 [medline]
+PHST- 2025/02/18 06:22 [medline]
 PHST- 2024/12/19 12:21 [pubmed]
 PHST- 2024/12/19 08:03 [entrez]
 AID - 10.1002/mds.30083 [doi]
-PST - aheadofprint
-SO  - Mov Disord. 2024 Dec 19. doi: 10.1002/mds.30083.
+PST - ppublish
+SO  - Mov Disord. 2025 Feb;40(2):324-334. doi: 10.1002/mds.30083. Epub 2024 Dec 19.
 
 PMID- 39651202
 OWN - NLM
@@ -336,7 +357,7 @@ SO  - Sci Rep. 2024 Jun 14;14(1):13772. doi: 10.1038/s41598-024-64480-z.
 PMID- 38871700
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20250116
+LR  - 20250204
 IS  - 2054-345X (Print)
 IS  - 2054-345X (Electronic)
 IS  - 2054-345X (Linking)

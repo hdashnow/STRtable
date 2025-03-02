@@ -1,13 +1,18 @@
 
 PMID- 39635987
 OWN - NLM
-STAT- Publisher
-LR  - 20241205
+STAT- MEDLINE
+DCOM- 20250218
+LR  - 20250220
 IS  - 1531-8257 (Electronic)
+IS  - 0885-3185 (Print)
 IS  - 0885-3185 (Linking)
-DP  - 2024 Dec 5
+VI  - 40
+IP  - 2
+DP  - 2025 Feb
 TI  - The ZFHX3 GGC Repeat Expansion Underlying Spinocerebellar Ataxia Type 4 has a 
       Common Ancestral Founder.
+PG  - 363-369
 LID - 10.1002/mds.30077 [doi]
 AB  - BACKGROUND: The identification of a heterozygous exonic GGC repeat expansion in 
       ZFHX3 underlying spinocerebellar ataxia type 4 (SCA4) has solved a 25-year 
@@ -173,16 +178,35 @@ AUID- ORCID: 0000-0002-2866-7777
 AD  - Department of Neuromuscular Disease, Queen Square Institute of Neurology, UCL, 
       London, UK.
 LA  - eng
-GR  - NH/NIH HHS/United States
+GR  - ZIA AG000542/ImNIH/Intramural NIH HHS/United States
 GR  - MRC_/Medical Research Council/United Kingdom
 GR  - Michael J. Fox Foundation for Parkinson's Research/
+GR  - NH/NIH HHS/United States
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - ZIA AG000538/ImNIH/Intramural NIH HHS/United States
 PT  - Journal Article
 DEP - 20241205
 PL  - United States
 TA  - Mov Disord
 JT  - Movement disorders : official journal of the Movement Disorder Society
 JID - 8610688
+RN  - 0 (Homeodomain Proteins)
 SB  - IM
+MH  - Humans
+MH  - Male
+MH  - *Trinucleotide Repeat Expansion/genetics
+MH  - Female
+MH  - *Founder Effect
+MH  - Sweden
+MH  - Homeodomain Proteins/genetics
+MH  - Pedigree
+MH  - Machado-Joseph Disease/genetics
+MH  - Haplotypes
+MH  - Spinocerebellar Ataxias/genetics
+MH  - Middle Aged
+MH  - Utah
+MH  - Adult
+PMC - PMC11832790
 OTO - NOTNLM
 OT  - ataxia
 OT  - haplotype
@@ -190,17 +214,20 @@ OT  - long-read sequencing
 OT  - repeat expansion disorder
 OT  - spinocerebellar ataxia type 4
 EDAT- 2024/12/05 17:31
-MHDA- 2024/12/05 17:31
+MHDA- 2025/02/18 06:22
+PMCR- 2025/02/18
 CRDT- 2024/12/05 08:03
 PHST- 2024/10/14 00:00 [revised]
 PHST- 2024/08/07 00:00 [received]
 PHST- 2024/11/18 00:00 [accepted]
-PHST- 2024/12/05 17:31 [medline]
+PHST- 2025/02/18 06:22 [medline]
 PHST- 2024/12/05 17:31 [pubmed]
 PHST- 2024/12/05 08:03 [entrez]
+PHST- 2025/02/18 00:00 [pmc-release]
+AID - MDS30077 [pii]
 AID - 10.1002/mds.30077 [doi]
-PST - aheadofprint
-SO  - Mov Disord. 2024 Dec 5. doi: 10.1002/mds.30077.
+PST - ppublish
+SO  - Mov Disord. 2025 Feb;40(2):363-369. doi: 10.1002/mds.30077. Epub 2024 Dec 5.
 
 PMID- 39095619
 OWN - NLM

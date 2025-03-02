@@ -1,4 +1,126 @@
 
+PMID- 39950762
+OWN - NLM
+STAT- Publisher
+LR  - 20250214
+IS  - 1531-8257 (Electronic)
+IS  - 0885-3185 (Linking)
+DP  - 2025 Feb 14
+TI  - TBP Repeat Expansion Analysis in Patients Carrying Heterozygous STUB1 Variants.
+LID - 10.1002/mds.30147 [doi]
+AB  - BACKGROUND: The cooccurrence of intermediate (40-49 CAG/CAA) TBP repeat 
+      expansions with STUB1 variants questions the pathogenicity of monoallelic STUB1 
+      variants in cerebellar ataxia. OBJECTIVE: The objective of this study was to 
+      describe the phenotypic spectrum of heterozygous STUB1 variants with or without 
+      intermediate TBP repeat expansions. METHODS: We determined the presence of TBP 
+      repeat expansions and STUB1 variants in six families with cerebellar ataxia. 
+      RESULTS: Cooccurrence of both genotypes in one family resulted in cerebellar 
+      ataxia, involving cognitive and extrapyramidal complications. Variable degrees of 
+      cerebellar ataxia and cognitive impairment were found in four families carrying a 
+      heterozygous STUB1 variant and normal TBP alleles. Finally, we report one patient 
+      with a mild late-onset cerebellar ataxia carrying an intermediate expanded TBP 
+      allele without the presence of a STUB1 variant. CONCLUSIONS: Heterozygous STUB1 
+      variants are associated with a milder phenotype and reduced penetrance compared 
+      with the cosegregation with intermediate TBP alleles, which causes a fully 
+      penetrant complicated form of cerebellar ataxia. (c) 2025 International Parkinson 
+      and Movement Disorder Society.
+CI  - (c) 2025 International Parkinson and Movement Disorder Society.
+FAU - De Winter, Jonathan
+AU  - De Winter J
+AUID- ORCID: 0000-0002-0166-6758
+AD  - Translational Neurosciences, Faculty of Medicine and Health Sciences, University 
+      of Antwerp, Antwerp, Belgium.
+AD  - Laboratory of Neuromuscular Pathology, Institute Born-Bunge, University of 
+      Antwerp, Antwerp, Belgium.
+AD  - Neuromuscular Reference Centre, Department of Neurology, Antwerp University 
+      Hospital, Antwerp, Belgium.
+FAU - Van de Vondel, Liedewei
+AU  - Van de Vondel L
+AUID- ORCID: 0000-0003-2214-5908
+AD  - Translational Neurosciences, Faculty of Medicine and Health Sciences, University 
+      of Antwerp, Antwerp, Belgium.
+AD  - Laboratory of Neuromuscular Pathology, Institute Born-Bunge, University of 
+      Antwerp, Antwerp, Belgium.
+FAU - Van Schil, Kristof
+AU  - Van Schil K
+AD  - Center of Medical Genetics, University of Antwerp and Antwerp University 
+      Hospital, Edegem, Belgium.
+FAU - Deconinck, Tine
+AU  - Deconinck T
+AD  - Center of Medical Genetics, University of Antwerp and Antwerp University 
+      Hospital, Edegem, Belgium.
+FAU - Storm, Katrien
+AU  - Storm K
+AD  - Center of Medical Genetics, University of Antwerp and Antwerp University 
+      Hospital, Edegem, Belgium.
+FAU - Geens, Karine
+AU  - Geens K
+AD  - Department of Neurology, AZ Klina, Brasschaat, Belgium.
+FAU - Sommeling, Charlotte
+AU  - Sommeling C
+AD  - Department of Neurology, AZ Voorkempen, Malle, Belgium.
+FAU - Crosiers, David
+AU  - Crosiers D
+AD  - Translational Neurosciences, Faculty of Medicine and Health Sciences, University 
+      of Antwerp, Antwerp, Belgium.
+AD  - Department of Neurology, Antwerp University Hospital, Antwerp, Belgium.
+FAU - Marechal, Emke
+AU  - Marechal E
+AD  - Department of Neurology, Antwerp University Hospital, Antwerp, Belgium.
+AD  - Department of Neurology, Middelheim Hospital, Antwerp, Belgium.
+FAU - De Ridder, Willem
+AU  - De Ridder W
+AD  - Translational Neurosciences, Faculty of Medicine and Health Sciences, University 
+      of Antwerp, Antwerp, Belgium.
+AD  - Laboratory of Neuromuscular Pathology, Institute Born-Bunge, University of 
+      Antwerp, Antwerp, Belgium.
+AD  - Neuromuscular Reference Centre, Department of Neurology, Antwerp University 
+      Hospital, Antwerp, Belgium.
+FAU - De Jonghe, Peter
+AU  - De Jonghe P
+AD  - Neuromuscular Reference Centre, Department of Neurology, Antwerp University 
+      Hospital, Antwerp, Belgium.
+FAU - Baets, Jonathan
+AU  - Baets J
+AD  - Translational Neurosciences, Faculty of Medicine and Health Sciences, University 
+      of Antwerp, Antwerp, Belgium.
+AD  - Laboratory of Neuromuscular Pathology, Institute Born-Bunge, University of 
+      Antwerp, Antwerp, Belgium.
+AD  - Neuromuscular Reference Centre, Department of Neurology, Antwerp University 
+      Hospital, Antwerp, Belgium.
+LA  - eng
+GR  - 739510/European Reference Network for Rare Neurological Diseases/
+GR  - 870177/European Reference Network for Rare Neuromuscular Diseases/
+GR  - Goldwasser-Emsens fellowship/
+GR  - Solve-RD project from the Horizon 2020 Research and Innovation Programme/
+GR  - 11F0921N/Fonds Wetenschappelijk Onderzoek/
+GR  - 1805021N/Fonds Wetenschappelijk Onderzoek/
+PT  - Journal Article
+DEP - 20250214
+PL  - United States
+TA  - Mov Disord
+JT  - Movement disorders : official journal of the Movement Disorder Society
+JID - 8610688
+SB  - IM
+OTO - NOTNLM
+OT  - autosomal recessive spinocerebellar ataxia type 16
+OT  - digenic inheritance
+OT  - reduced penetrance
+OT  - spinocerebellar ataxia type 17
+OT  - spinocerebellar ataxia type 48
+EDAT- 2025/02/14 12:30
+MHDA- 2025/02/14 12:30
+CRDT- 2025/02/14 08:53
+PHST- 2025/01/22 00:00 [revised]
+PHST- 2024/10/04 00:00 [received]
+PHST- 2025/01/27 00:00 [accepted]
+PHST- 2025/02/14 12:30 [medline]
+PHST- 2025/02/14 12:30 [pubmed]
+PHST- 2025/02/14 08:53 [entrez]
+AID - 10.1002/mds.30147 [doi]
+PST - aheadofprint
+SO  - Mov Disord. 2025 Feb 14. doi: 10.1002/mds.30147.
+
 PMID- 39820777
 OWN - NLM
 STAT- MEDLINE
@@ -138,7 +260,7 @@ PMID- 39680235
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241216
-LR  - 20250123
+LR  - 20250205
 IS  - 1473-4230 (Electronic)
 IS  - 1473-4222 (Print)
 IS  - 1473-4222 (Linking)
@@ -1036,7 +1158,7 @@ PMID- 37632648
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240327
-LR  - 20240327
+LR  - 20250228
 IS  - 2240-2993 (Electronic)
 IS  - 0300-9009 (Linking)
 VI  - 124
@@ -3656,7 +3778,7 @@ AD  - Genomics and Molecular Medicine, CSIR - Institute of Genomics and Integrat
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-PL  - Netherlands
+PL  - United States
 TA  - J Huntingtons Dis
 JT  - Journal of Huntington's disease
 JID - 101589965

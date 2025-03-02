@@ -200,7 +200,7 @@ SO  - Nat Genet. 2024 Nov;56(11):2322-2332. doi: 10.1038/s41588-024-01917-1. Epu
 PMID- 37205357
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20241108
+LR  - 20250205
 DP  - 2023 Dec 12
 TI  - A phenome-wide association study of methylated GC-rich repeats identifies a GCC 
       repeat expansion in AFF3 as a significant cause of intellectual disability.
@@ -268,7 +268,6 @@ FAU - Sharp, Andrew J
 AU  - Sharp AJ
 LA  - eng
 GR  - R01 NS105781/NS/NINDS NIH HHS/United States
-GR  - RF1 AG075051/AG/NIA NIH HHS/United States
 GR  - S10 OD026880/OD/NIH HHS/United States
 GR  - U24 HG011853/HG/NHGRI NIH HHS/United States
 PT  - Journal Article

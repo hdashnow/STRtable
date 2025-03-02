@@ -160,13 +160,18 @@ SO  - Brain Commun. 2024 Jun 29;6(4):fcae217. doi: 10.1093/braincomms/fcae217.
 
 PMID- 38467733
 OWN - NLM
-STAT- Publisher
-LR  - 20240316
+STAT- MEDLINE
+DCOM- 20250219
+LR  - 20250222
 IS  - 1476-5438 (Electronic)
+IS  - 1018-4813 (Print)
 IS  - 1018-4813 (Linking)
-DP  - 2024 Mar 12
+VI  - 33
+IP  - 2
+DP  - 2025 Mar
 TI  - Origin and evolution of pentanucleotide repeat expansions at the familial 
       cortical myoclonic tremor with epilepsy type1 - SAMD12 locus.
+PG  - 252-257
 LID - 10.1038/s41431-024-01586-y [doi]
 AB  - Familial cortical myoclonic tremor with epilepsy type 1 (FCMTE1) is caused by 
       (TTTTA)exp(TTTCA)exp repeat expansions in SAMD12, while pure (TTTTA)exp is 
@@ -268,20 +273,40 @@ PL  - England
 TA  - Eur J Hum Genet
 JT  - European journal of human genetics : EJHG
 JID - 9302235
+RN  - 0 (SAMD12 protein, human)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - Epilepsy, Myoclonic, Benign Adult Familial, Type 1
 SB  - IM
+MH  - Humans
+MH  - *Epilepsies, Myoclonic/genetics
+MH  - DNA Repeat Expansion
+MH  - Evolution, Molecular
+MH  - Nerve Tissue Proteins/genetics
+MH  - Founder Effect
+MH  - Microsatellite Repeats
+MH  - Phylogeny
+PMC - PMC11840102
+COIS- Competing interests: The authors declare no competing interests. Ethical 
+      approval: The ethics was approved in the Second Affiliated Hospital, Zhejiang 
+      University School of Medicine (I2019001151). Written informed consent was 
+      obtained from all participants following the Declaration of Helsinki.
 EDAT- 2024/03/12 06:42
-MHDA- 2024/03/12 06:42
+MHDA- 2025/02/20 00:21
+PMCR- 2026/03/01
 CRDT- 2024/03/12 00:23
 PHST- 2023/11/08 00:00 [received]
 PHST- 2024/02/28 00:00 [accepted]
 PHST- 2024/02/23 00:00 [revised]
+PHST- 2026/03/01 00:00 [pmc-release]
+PHST- 2025/02/20 00:21 [medline]
 PHST- 2024/03/12 06:42 [pubmed]
-PHST- 2024/03/12 06:42 [medline]
 PHST- 2024/03/12 00:23 [entrez]
 AID - 10.1038/s41431-024-01586-y [pii]
+AID - 1586 [pii]
 AID - 10.1038/s41431-024-01586-y [doi]
-PST - aheadofprint
-SO  - Eur J Hum Genet. 2024 Mar 12. doi: 10.1038/s41431-024-01586-y.
+PST - ppublish
+SO  - Eur J Hum Genet. 2025 Mar;33(2):252-257. doi: 10.1038/s41431-024-01586-y. Epub 
+      2024 Mar 12.
 
 PMID- 38059543
 OWN - NLM

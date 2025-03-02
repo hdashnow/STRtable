@@ -426,8 +426,9 @@ PMID- 39504355
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241106
-LR  - 20241108
+LR  - 20250210
 IS  - 1946-6242 (Electronic)
+IS  - 1946-6234 (Print)
 IS  - 1946-6234 (Linking)
 VI  - 16
 IP  - 772
@@ -528,6 +529,13 @@ AD  - Department of Neurology, Duke University School of Medicine, Durham, NC 27
 AD  - UCI Center for Neurotherapeutics, University of California, Irvine, Irvine, CA 
       92697, USA.
 LA  - eng
+GR  - R35 NS127248/NS/NINDS NIH HHS/United States
+GR  - R35 HG011332/HG/NHGRI NIH HHS/United States
+GR  - R35 NS127253/NS/NINDS NIH HHS/United States
+GR  - R37 NS033123/NS/NINDS NIH HHS/United States
+GR  - R35 NS122140/NS/NINDS NIH HHS/United States
+GR  - R01 NS097903/NS/NINDS NIH HHS/United States
+GR  - R01 EY014061/EY/NEI NIH HHS/United States
 PT  - Journal Article
 DEP - 20241106
 PL  - United States
@@ -552,12 +560,17 @@ MH  - Synapses/metabolism/pathology
 MH  - Ataxia/metabolism/genetics/pathology
 MH  - Mice, Transgenic
 MH  - Transcriptome/genetics
+PMC - PMC11806946
+MID - NIHMS2053418
+COIS- Competing interests The authors have nothing to declare.
 EDAT- 2024/11/06 22:19
 MHDA- 2024/11/06 22:20
+PMCR- 2025/02/08
 CRDT- 2024/11/06 14:03
 PHST- 2024/11/06 22:20 [medline]
 PHST- 2024/11/06 22:19 [pubmed]
 PHST- 2024/11/06 14:03 [entrez]
+PHST- 2025/02/08 00:00 [pmc-release]
 AID - 10.1126/scitranslmed.adn5449 [doi]
 PST - ppublish
 SO  - Sci Transl Med. 2024 Nov 6;16(772):eadn5449. doi: 10.1126/scitranslmed.adn5449. 
@@ -1513,7 +1526,7 @@ PMID- 38227102
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240117
-LR  - 20240117
+LR  - 20250204
 IS  - 1573-4978 (Electronic)
 IS  - 0301-4851 (Linking)
 VI  - 51

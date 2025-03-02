@@ -1,4 +1,202 @@
 
+PMID- 40007153
+OWN - NLM
+STAT- Publisher
+LR  - 20250226
+IS  - 2328-9503 (Electronic)
+IS  - 2328-9503 (Linking)
+DP  - 2025 Feb 25
+TI  - Targeted Long-Read Sequencing as a Single Assay Improves the Diagnosis of 
+      Spastic-Ataxia Disorders.
+LID - 10.1002/acn3.70008 [doi]
+AB  - OBJECTIVE: The hereditary spastic-ataxia spectrum disorders are a group of 
+      disabling neurological diseases. The traditional genetic testing pathway is 
+      complex, multistep and leaves many cases unsolved. We aim to streamline and 
+      improve this process using long-read sequencing. METHODS: We developed a targeted 
+      long-read sequencing strategy with the capacity to characterise the genetic 
+      variation of all types and sizes within 469 disease-associated genes, in a single 
+      assay. We applied this to a cohort of 34 individuals with unsolved 
+      spastic-ataxia. An additional five individuals with a known genetic diagnosis 
+      were included as positive controls. RESULTS: We identified causative pathogenic 
+      variants that would be sufficient for genetic diagnosis in 14/34 (41%) unsolved 
+      participants. The success rate was 5/11 (45%) in those who were naive to genetic 
+      testing and 9/23 (39%) in those who were undiagnosed after prior genetic testing, 
+      completed on a clinical basis. Short tandem repeat expansions in FGF14 were the 
+      most common (7/34, 21%). Two individuals (2/34, 6%) had biallelic pathogenic 
+      expansions in RFC1 and one individual had a monoallelic pathogenic expansion in 
+      ATXN8OS/ATXN8. Causative pathogenic sequence variants other than short tandem 
+      repeat expansions were found in four individuals, including in VCP, STUB1, ANO10 
+      and SPG7. Furthermore, all five positive controls were identified. 
+      INTERPRETATION: Our results demonstrate the utility of targeted long-read 
+      sequencing in the genetic evaluation of patients with spastic-ataxia spectrum 
+      disorders, highlighting both the capacity to increase overall diagnostic yield 
+      and to streamline the testing pathway by capturing all known genetic causes in a 
+      single assay.
+CI  - (c) 2025 The Author(s). Annals of Clinical and Translational Neurology published by 
+      Wiley Periodicals LLC on behalf of American Neurological Association.
+FAU - Rudaks, Laura Ivete
+AU  - Rudaks LI
+AUID- ORCID: 0000-0002-1100-319X
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Clinical Genetics Unit, Royal North Shore Hospital, St Leonards, New South Wales, 
+      Australia.
+FAU - Stevanovski, Igor
+AU  - Stevanovski I
+AUID- ORCID: 0000-0002-7713-1979
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Centre for Population Genomics, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+FAU - Yeow, Dennis
+AU  - Yeow D
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Neurodegenerative Service, Prince of Wales Hospital, Randwick, New South Wales, 
+      Australia.
+AD  - Neuroscience Research Australia, Randwick, New South Wales, Australia.
+FAU - Reis, Andre L M
+AU  - Reis ALM
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Centre for Population Genomics, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Faculty of Medicine, University of New South Wales, Kensington, New South Wales, 
+      Australia.
+FAU - Chintalaphani, Sanjog R
+AU  - Chintalaphani SR
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+FAU - Cheong, Pak Leng
+AU  - Cheong PL
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+FAU - Gamaarachchi, Hasindu
+AU  - Gamaarachchi H
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Centre for Population Genomics, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - School of Computer Science and Engineering, University of New South Wales, 
+      Kensington, New South Wales, Australia.
+FAU - Worgan, Lisa
+AU  - Worgan L
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Clinical Genetics Service, Royal Prince Alfred Hospital, Camperdown, New South 
+      Wales, Australia.
+FAU - Ahmad, Kate
+AU  - Ahmad K
+AD  - Neurology Department, Royal North Shore Hospital, St Leonards, New South Wales, 
+      Australia.
+FAU - Hayes, Michael
+AU  - Hayes M
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+FAU - Hannaford, Andrew
+AU  - Hannaford A
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+FAU - Kim, Samuel
+AU  - Kim S
+AD  - Movement Disorders Unit, Neurology Department, Westmead Hospital, Westmead, New 
+      South Wales, Australia.
+FAU - Fung, Victor S C
+AU  - Fung VSC
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Movement Disorders Unit, Neurology Department, Westmead Hospital, Westmead, New 
+      South Wales, Australia.
+FAU - Halmagyi, Gabor M
+AU  - Halmagyi GM
+AD  - Neurology Department, Royal Prince Alfred Hospital, Camperdown, New South Wales, 
+      Australia.
+FAU - Martin, Andrew
+AU  - Martin A
+AD  - Movement Disorders Unit, Neurology Department, Westmead Hospital, Westmead, New 
+      South Wales, Australia.
+FAU - Manser, David
+AU  - Manser D
+AD  - Department of Genetic Medicine, Westmead Hospital, Westmead, New South Wales, 
+      Australia.
+FAU - Tchan, Michel
+AU  - Tchan M
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Department of Genetic Medicine, Westmead Hospital, Westmead, New South Wales, 
+      Australia.
+FAU - Ng, Karl
+AU  - Ng K
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Neurology Department, Royal North Shore Hospital, St Leonards, New South Wales, 
+      Australia.
+FAU - Kennerson, Marina L
+AU  - Kennerson ML
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - The Northcott Neuroscience Laboratory, ANZAC Research Institute, Sydney Local 
+      Health District, Concord, New South Wales, Australia.
+FAU - Deveson, Ira W
+AU  - Deveson IW
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Faculty of Medicine, University of New South Wales, Kensington, New South Wales, 
+      Australia.
+AD  - School of Clinical Medicine, Faculty of Medicine and Health, St Vincent's 
+      Healthcare Clinical Campus, University of New South Wales, Darlinghurst, New 
+      South Wales, Australia.
+FAU - Kumar, Kishore Raj
+AU  - Kumar KR
+AUID- ORCID: 0000-0003-3482-6962
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - School of Clinical Medicine, Faculty of Medicine and Health, St Vincent's 
+      Healthcare Clinical Campus, University of New South Wales, Darlinghurst, New 
+      South Wales, Australia.
+LA  - eng
+GR  - MRF2023126/Medical Research Future Fund/
+GR  - MRF2025138/Medical Research Future Fund/
+PT  - Journal Article
+DEP - 20250225
+PL  - United States
+TA  - Ann Clin Transl Neurol
+JT  - Annals of clinical and translational neurology
+JID - 101623278
+SB  - IM
+OTO - NOTNLM
+OT  - hereditary cerebellar ataxia
+OT  - hereditary spastic paraplegia
+OT  - nanopore sequencing
+OT  - spinocerebellar ataxia
+EDAT- 2025/02/26 06:29
+MHDA- 2025/02/26 06:29
+CRDT- 2025/02/26 01:53
+PHST- 2024/12/26 00:00 [received]
+PHST- 2025/01/19 00:00 [accepted]
+PHST- 2025/02/26 06:29 [medline]
+PHST- 2025/02/26 06:29 [pubmed]
+PHST- 2025/02/26 01:53 [entrez]
+AID - 10.1002/acn3.70008 [doi]
+PST - aheadofprint
+SO  - Ann Clin Transl Neurol. 2025 Feb 25. doi: 10.1002/acn3.70008.
+
 PMID- 38961870
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -162,7 +360,7 @@ PMID- 38227102
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240117
-LR  - 20240117
+LR  - 20250204
 IS  - 1573-4978 (Electronic)
 IS  - 0301-4851 (Linking)
 VI  - 51

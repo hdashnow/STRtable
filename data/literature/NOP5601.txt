@@ -1,4 +1,256 @@
 
+PMID- 40015643
+OWN - NLM
+STAT- Publisher
+LR  - 20250227
+IS  - 1083-351X (Electronic)
+IS  - 0021-9258 (Linking)
+DP  - 2025 Feb 25
+TI  - Dissecting the mechanism of NOP56 GGCCUG repeat-associated non-AUG translation 
+      using cell-free translation systems.
+PG  - 108360
+LID - S0021-9258(25)00209-1 [pii]
+LID - 10.1016/j.jbc.2025.108360 [doi]
+AB  - The repeat expansion in the human genome contribute to neurodegenerative 
+      disorders such as spinocerebellar ataxia (SCA) and amyotrophic lateral sclerosis. 
+      Transcripts with repeat expansions undergo noncanonical translation called 
+      repeat-associated non-AUG (RAN) translation. The NOP56 gene, implicated in SCA36, 
+      contains a GGCCTG repeat in its first intron. In SCA36 patient tissues, poly 
+      (Gly-Pro) and poly (Pro-Arg) peptides, likely produced through NOP56 RAN 
+      translation in (NOP56-RAN), have been detected. However, the detailed mechanism 
+      underlying NOP56-RAN remains unclear. To address this, we used cell-free 
+      translation systems to investigate the mechanism of NOP56-RAN and identified the 
+      following features. i) Translation occurs in all reading frames of the sense 
+      strand of NOP56 intron 1. ii) Translation is initiated in a 5' cap-dependent 
+      manner from near-cognate start codons upstream of the GGCCUG repeat in each 
+      frame. iii) Longer GGCCUG repeats enhance NOP56-RAN. iv) A frameshift occurs 
+      within the GGCCUG repeat. These findings provide insights into the similarities 
+      between NOP56-RAN and other types of RAN translation.
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Hasumi, Mayuka
+AU  - Hasumi M
+AD  - School of Life Science and Technology, Institute of Science Tokyo, Yokohama 
+      226-8501, Japan.
+FAU - Ito, Hayato
+AU  - Ito H
+AD  - School of Life Science and Technology, Institute of Science Tokyo, Yokohama 
+      226-8501, Japan.
+FAU - Machida, Kodai
+AU  - Machida K
+AD  - Department of Applied Chemistry, Graduate School of Engineering, University of 
+      Hyogo, Himeji, Hyogo 671-2280, Japan.
+FAU - Niwa, Tatsuya
+AU  - Niwa T
+AD  - School of Life Science and Technology, Institute of Science Tokyo, Yokohama 
+      226-8501, Japan; Cell Biology Center, Institute of Integrated Research, Institute 
+      of Science Tokyo, Yokohama 226-8501, Japan.
+FAU - Taminato, Tomoya
+AU  - Taminato T
+AD  - Department of Neurology, Kindai University Faculty of Medicine, Osaka-Sayama 
+      589-8511, Japan.
+FAU - Nagai, Yoshitaka
+AU  - Nagai Y
+AD  - Department of Neurology, Kindai University Faculty of Medicine, Osaka-Sayama 
+      589-8511, Japan.
+FAU - Imataka, Hiroaki
+AU  - Imataka H
+AD  - Department of Applied Chemistry, Graduate School of Engineering, University of 
+      Hyogo, Himeji, Hyogo 671-2280, Japan.
+FAU - Taguchi, Hideki
+AU  - Taguchi H
+AD  - School of Life Science and Technology, Institute of Science Tokyo, Yokohama 
+      226-8501, Japan; Cell Biology Center, Institute of Integrated Research, Institute 
+      of Science Tokyo, Yokohama 226-8501, Japan. Electronic address: 
+      taguchi@bio.titech.ac.jp.
+LA  - eng
+PT  - Journal Article
+DEP - 20250225
+PL  - United States
+TA  - J Biol Chem
+JT  - The Journal of biological chemistry
+JID - 2985121R
+SB  - IM
+COIS- Conflict of interest The authors declare that they have no conflict of interests 
+      with the contents of this article.
+EDAT- 2025/02/28 00:20
+MHDA- 2025/02/28 00:20
+CRDT- 2025/02/27 19:36
+PHST- 2024/12/06 00:00 [received]
+PHST- 2025/02/18 00:00 [revised]
+PHST- 2025/02/20 00:00 [accepted]
+PHST- 2025/02/28 00:20 [medline]
+PHST- 2025/02/28 00:20 [pubmed]
+PHST- 2025/02/27 19:36 [entrez]
+AID - S0021-9258(25)00209-1 [pii]
+AID - 10.1016/j.jbc.2025.108360 [doi]
+PST - aheadofprint
+SO  - J Biol Chem. 2025 Feb 25:108360. doi: 10.1016/j.jbc.2025.108360.
+
+PMID- 40004498
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250226
+LR  - 20250228
+IS  - 2073-4425 (Electronic)
+IS  - 2073-4425 (Linking)
+VI  - 16
+IP  - 2
+DP  - 2025 Jan 28
+TI  - Analysis of Short Tandem Repeat Expansions in a Cohort of 12,496 Exomes from 
+      Patients with Neurological Diseases Reveals Variable Genotyping Rate Dependent on 
+      Exome Capture Kits.
+LID - 10.3390/genes16020169 [doi]
+LID - 169
+AB  - BACKGROUND/OBJECTIVES: Short tandem repeat expansions are the most common cause 
+      of inherited neurological diseases. These disorders are clinically and 
+      genetically heterogeneous, such as in myotonic dystrophy and spinocerebellar 
+      ataxia, and they are caused by different repeat motifs in different genomic 
+      locations. Major advances in bioinformatic tools used to detect repeat expansions 
+      from short read sequencing data in the last few years have led to the 
+      implementation of these workflows into next generation sequencing pipelines in 
+      healthcare. Here, we aimed to evaluate the clinical utility of analysing repeat 
+      expansions through exome sequencing in a large cohort of genetically undiagnosed 
+      patients with neurological disorders. METHODS: We here analyse 27 disease-causing 
+      DNA repeats found in the coding, intronic and untranslated regions in 12,496 
+      exomes in patients with a range of neurogenetic conditions. RESULTS: We 
+      identified-and validated by polymerase chain reaction-29 repeat expansions across 
+      a range of loci, 48% (n = 14) of which were diagnostic. We then analysed the 
+      genotyping performance across all repeat loci and found that, despite high 
+      coverage in most repeats in coding regions, some loci had low genotyping rates, 
+      such as those that cause spinocerebellar ataxia 2 (ATXN2, 0.1-8.4%) and 
+      Huntington disease (HTT, 0.2-58.2%), depending on the capture kit. Conversely, 
+      while most intronic repeats were not genotyped, we found a high genotyping rate 
+      in the intronic locus that causes spinocerebellar ataxia 36 (NOP56, 30.1-98.3%) 
+      and in the one that causes myotonic dystrophy type 1 (DMPK, myotonic dystrophy 
+      type 1). CONCLUSIONS: We show that the key factors that influence the genotyping 
+      rate of repeat expansion loci analysis are the sequencing read length and exome 
+      capture kit. These results provide important information about the performance of 
+      exome sequencing as a genetic test for repeat expansion disorders.
+FAU - Rocca, Clarissa
+AU  - Rocca C
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Murphy, David
+AU  - Murphy D
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Clarkson, Chris
+AU  - Clarkson C
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+FAU - Zanovello, Matteo
+AU  - Zanovello M
+AUID- ORCID: 0000-0003-3343-1547
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Gagliardi, Delia
+AU  - Gagliardi D
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+AD  - Department of Pathophysiology and Transplantation (DEPT), University of Milan, 
+      20122 Milan, Italy.
+FAU - Genomics, Queen Square
+AU  - Genomics QS
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Kaiyrzhanov, Rauan
+AU  - Kaiyrzhanov R
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Alvi, Javeria
+AU  - Alvi J
+AD  - Department of Paediatric Neurology, The Children's Hospital and the University of 
+      Child Health Sciences, Lahore 54000, Punjab, Pakistan.
+FAU - Maroofian, Reza
+AU  - Maroofian R
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Efthymiou, Stephanie
+AU  - Efthymiou S
+AUID- ORCID: 0000-0003-4900-9877
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Sultan, Tipu
+AU  - Sultan T
+AD  - Department of Paediatric Neurology, The Children's Hospital and the University of 
+      Child Health Sciences, Lahore 54000, Punjab, Pakistan.
+FAU - Vandrovcova, Jana
+AU  - Vandrovcova J
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Polke, James
+AU  - Polke J
+AD  - Neurogenetics Unit, National Hospital for Neurology and Neurosurgery, London WC1N 
+      3BG, UK.
+FAU - Labrum, Robyn
+AU  - Labrum R
+AD  - Neurogenetics Unit, National Hospital for Neurology and Neurosurgery, London WC1N 
+      3BG, UK.
+FAU - Houlden, Henry
+AU  - Houlden H
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Tucci, Arianna
+AU  - Tucci A
+AUID- ORCID: 0000-0001-5644-0070
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+AD  - Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, 
+      University College London, London WC1E 6BT, UK.
+LA  - eng
+GR  - MR/S006753/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+DEP - 20250128
+PL  - Switzerland
+TA  - Genes (Basel)
+JT  - Genes
+JID - 101551097
+SB  - IM
+MH  - Humans
+MH  - *Nervous System Diseases/genetics
+MH  - *Microsatellite Repeats/genetics
+MH  - *Exome/genetics
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Exome Sequencing/methods
+MH  - Cohort Studies
+MH  - Male
+MH  - Genotype
+MH  - Female
+MH  - DNA Repeat Expansion/genetics
+MH  - Genotyping Techniques/methods
+MH  - Myotonic Dystrophy/genetics
+MH  - Spinocerebellar Ataxias/genetics
+PMC - PMC11855749
+OTO - NOTNLM
+OT  - ExpansionHunter
+OT  - Huntington disease
+OT  - exome sequencing
+OT  - myotonic dystrophy
+OT  - repeat expansion disease
+OT  - repeat expansion diseases
+OT  - short read sequencing
+OT  - short tandem repeat
+OT  - spinocerebellar ataxia
+COIS- The authors declare no conflicts of interest.
+EDAT- 2025/02/26 06:28
+MHDA- 2025/02/26 06:29
+PMCR- 2025/01/28
+CRDT- 2025/02/26 01:17
+PHST- 2024/12/15 00:00 [received]
+PHST- 2025/01/17 00:00 [revised]
+PHST- 2025/01/20 00:00 [accepted]
+PHST- 2025/02/26 06:29 [medline]
+PHST- 2025/02/26 06:28 [pubmed]
+PHST- 2025/02/26 01:17 [entrez]
+PHST- 2025/01/28 00:00 [pmc-release]
+AID - genes16020169 [pii]
+AID - genes-16-00169 [pii]
+AID - 10.3390/genes16020169 [doi]
+PST - epublish
+SO  - Genes (Basel). 2025 Jan 28;16(2):169. doi: 10.3390/genes16020169.
+
 PMID- 38961870
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -482,7 +734,7 @@ PMID- 38227102
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240117
-LR  - 20240117
+LR  - 20250204
 IS  - 1573-4978 (Electronic)
 IS  - 0301-4851 (Linking)
 VI  - 51

@@ -1,8 +1,217 @@
 
+PMID- 39945490
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250225
+LR  - 20250225
+IS  - 1520-6882 (Electronic)
+IS  - 0003-2700 (Linking)
+VI  - 97
+IP  - 7
+DP  - 2025 Feb 25
+TI  - High-Sensitivity Fluorescence-Based Detection of Reverse Transcriptase 
+      Read-Through of GC-Rich Short Tandem Repeat RNA.
+PG  - 4111-4119
+LID - 10.1021/acs.analchem.4c06236 [doi]
+AB  - Short tandem repeat (STR) RNAs play a pivotal role in the pathology of STR 
+      expansion-associated disorders. However, disease-related STR sequences are often 
+      GC-rich (>66% GC), which makes sample preparation and detection challenging. 
+      GC-rich STR RNAs, particularly those composed entirely of GC (100% GC), 
+      frequently cause interruptions during reverse transcription. Additionally, the 
+      GC-rich STR DNA sequences generate low-yield and heterogeneous products when 
+      amplified via polymerase chain reaction. The lack of robust processivity of 
+      polymerases for GC-only STR poses major challenges in preparing samples and 
+      detecting such sequences with physiologically relevant lengths. Herein, we report 
+      the in vitro preparation of r(CGG)(29) and r(G(4)C(2))(15) RNAs, which had repeat 
+      numbers relevant to the human FMR1 and C9ORF72 genes, respectively, and achieved 
+      high yield and homogeneity of the prepared GC-only STR RNAs. Using the prepared 
+      RNAs, a fluorescence-based detection platform is developed that uses reverse 
+      transcriptases (RTases) to identify read-through cDNA products with high 
+      sensitivity, requiring minimal RNA input. Further, we demonstrate the versatile 
+      applications of this detection platform and provide structural insights into the 
+      r(CGG)(29) and r(G(4)C(2))(15) RNAs during RTase processing. The findings of this 
+      study will enhance our ability to characterize and target disease-relevant STR 
+      RNAs in vitro and pave the way for future efforts in the directed evolution of 
+      RTases aimed at improving the detection of endogenous-expanded GC-rich STR RNAs.
+FAU - Qiu, Weiqi
+AU  - Qiu W
+AD  - Department of Chemistry, Boston College, Chestnut Hill, Massachusetts 02467, 
+      United States.
+FAU - Hazard, Catherine
+AU  - Hazard C
+AD  - Department of Chemistry, Boston College, Chestnut Hill, Massachusetts 02467, 
+      United States.
+AD  - Department of Chemistry, Massachusetts Institute of Technology, Cambridge, 
+      Massachusetts 02139, United States.
+FAU - Li, Yujing
+AU  - Li Y
+AD  - Department of Human Genetics, Emory University School of Medicine, Atlanta, 
+      Georgia 30322, United States.
+FAU - Jin, Peng
+AU  - Jin P
+AD  - Department of Human Genetics, Emory University School of Medicine, Atlanta, 
+      Georgia 30322, United States.
+FAU - Zhou, Huiqing
+AU  - Zhou H
+AUID- ORCID: 0000-0002-9220-4742
+AD  - Department of Chemistry, Boston College, Chestnut Hill, Massachusetts 02467, 
+      United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20250213
+PL  - United States
+TA  - Anal Chem
+JT  - Analytical chemistry
+JID - 0370536
+RN  - EC 2.7.7.49 (RNA-Directed DNA Polymerase)
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - Humans
+MH  - *RNA-Directed DNA Polymerase/metabolism/chemistry
+MH  - *Microsatellite Repeats
+MH  - *RNA/metabolism/analysis/chemistry
+MH  - Fluorescence
+MH  - GC Rich Sequence
+EDAT- 2025/02/13 12:25
+MHDA- 2025/02/25 06:21
+CRDT- 2025/02/13 08:42
+PHST- 2025/02/25 06:21 [medline]
+PHST- 2025/02/13 12:25 [pubmed]
+PHST- 2025/02/13 08:42 [entrez]
+AID - 10.1021/acs.analchem.4c06236 [doi]
+PST - ppublish
+SO  - Anal Chem. 2025 Feb 25;97(7):4111-4119. doi: 10.1021/acs.analchem.4c06236. Epub 
+      2025 Feb 13.
+
+PMID- 39934227
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250211
+LR  - 20250218
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2025 Feb 11
+TI  - Repeat expansion in a fragile X model is independent of double strand break 
+      repair mediated by Pol theta, RAD52, RAD54 or RAD54B.
+PG  - 5033
+LID - 10.1038/s41598-025-87541-3 [doi]
+LID - 5033
+AB  - Microsatellite instability is responsible for the human repeat expansion 
+      diseases (REDs). The mutagenic process differs from classical cancer-associated 
+      microsatellite instability (MSI) in that it requires the mismatch repair proteins 
+      that normally protect against MSI. LIG4, an enzyme essential for non-homologous 
+      end-joining (NHEJ), the major pathway for double-strand break repair (DSBR) in 
+      mammalian cells, protects against expansion in mouse models. Thus, NHEJ may 
+      compete with the expansion pathway for access to a common intermediate. This 
+      raises the possibility that expansion involves an NHEJ-independent form of DSBR. 
+      Pol theta, a polymerase involved in the theta-mediated end joining (TMEJ) DSBR 
+      pathway, has been proposed to play a role in repeat expansion. Here we examine 
+      the effect of the loss of Pol theta on expansion in FXD mouse embryonic stem cells 
+      (mESCs), along with the effects of mutations in Rad52, Rad54l and Rad54b, genes 
+      important for multiple DSBR pathways. None of these mutations significantly 
+      affected repeat expansion. These observations put major constraints on what 
+      pathways are likely to drive expansion. Together with our previous demonstration 
+      of the protective effect of nucleases like EXO1 and FAN1, and the importance of 
+      Pol beta, they suggest a plausible model for late steps in the expansion process.
+CI  - (c) 2025. This is a U.S. Government work and not under copyright protection in the 
+      US; foreign copyright protection may apply.
+FAU - Hayward, Bruce E
+AU  - Hayward BE
+AD  - Section on Gene Structure and Disease, Laboratory of Cell and Molecular Biology, 
+      National Institute of Diabetes and Digestive and Kidney Diseases, National 
+      Institutes of Health, Bethesda, MD, 20892, USA.
+FAU - Kim, Geum-Yi
+AU  - Kim GY
+AD  - Section on Gene Structure and Disease, Laboratory of Cell and Molecular Biology, 
+      National Institute of Diabetes and Digestive and Kidney Diseases, National 
+      Institutes of Health, Bethesda, MD, 20892, USA.
+FAU - Miller, Carson J
+AU  - Miller CJ
+AD  - Section on Gene Structure and Disease, Laboratory of Cell and Molecular Biology, 
+      National Institute of Diabetes and Digestive and Kidney Diseases, National 
+      Institutes of Health, Bethesda, MD, 20892, USA.
+FAU - McCann, Cai
+AU  - McCann C
+AD  - Section on Gene Structure and Disease, Laboratory of Cell and Molecular Biology, 
+      National Institute of Diabetes and Digestive and Kidney Diseases, National 
+      Institutes of Health, Bethesda, MD, 20892, USA.
+FAU - Lowery, Megan G
+AU  - Lowery MG
+AD  - Department of Epigenetics & Molecular Carcinogenesis, The University of Texas MD 
+      Anderson Cancer Center, PO Box 301429, Unit 1951, Houston, TX, 77230, USA.
+FAU - Wood, Richard D
+AU  - Wood RD
+AD  - Department of Epigenetics & Molecular Carcinogenesis, The University of Texas MD 
+      Anderson Cancer Center, PO Box 301429, Unit 1951, Houston, TX, 77230, USA.
+FAU - Usdin, Karen
+AU  - Usdin K
+AD  - Section on Gene Structure and Disease, Laboratory of Cell and Molecular Biology, 
+      National Institute of Diabetes and Digestive and Kidney Diseases, National 
+      Institutes of Health, Bethesda, MD, 20892, USA. karenu@nih.gov.
+AD  - National Institutes of Health, 8 Center Drive MSC 0830, Building 8, Room 2A19, 
+      Bethesda, MD, USA. karenu@nih.gov.
+LA  - eng
+PT  - Journal Article
+DEP - 20250211
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - EC 2.7.7.7 (DNA-Directed DNA Polymerase)
+RN  - EC 2.7.7.- (DNA Polymerase theta)
+RN  - 0 (Rad52 DNA Repair and Recombination Protein)
+RN  - EC 3.6.4.- (DNA Helicases)
+RN  - 0 (Rad52 protein, mouse)
+RN  - EC 3.6.4.- (Rad54l protein, mouse)
+RN  - 0 (Nuclear Proteins)
+RN  - 0 (DNA-Binding Proteins)
+SB  - IM
+UOF - bioRxiv. 2024 Nov 06:2024.11.05.621911. doi: 10.1101/2024.11.05.621911. PMID: 
+      39574643
+MH  - Animals
+MH  - Mice
+MH  - *DNA-Directed DNA Polymerase/metabolism/genetics
+MH  - *DNA Polymerase theta
+MH  - *DNA Breaks, Double-Stranded
+MH  - *DNA End-Joining Repair
+MH  - *Rad52 DNA Repair and Recombination Protein/metabolism/genetics
+MH  - *DNA Helicases/genetics/metabolism
+MH  - Nuclear Proteins/genetics/metabolism
+MH  - DNA-Binding Proteins/genetics/metabolism
+MH  - DNA Repair
+MH  - Mouse Embryonic Stem Cells/metabolism
+MH  - Humans
+MH  - Disease Models, Animal
+PMC - PMC11814403
+OTO - NOTNLM
+OT  - FMR1-related disorders (FMR1 disorders)
+OT  - Double-strand break repair
+OT  - Fragile X-related disorders
+OT  - Gap-filling model
+OT  - Repeat expansion disease
+COIS- Declarations. Competing interests: The authors declare no competing interests.
+EDAT- 2025/02/12 00:20
+MHDA- 2025/02/12 00:21
+PMCR- 2025/02/11
+CRDT- 2025/02/11 23:19
+PHST- 2024/11/04 00:00 [received]
+PHST- 2025/01/20 00:00 [accepted]
+PHST- 2025/02/12 00:21 [medline]
+PHST- 2025/02/12 00:20 [pubmed]
+PHST- 2025/02/11 23:19 [entrez]
+PHST- 2025/02/11 00:00 [pmc-release]
+AID - 10.1038/s41598-025-87541-3 [pii]
+AID - 87541 [pii]
+AID - 10.1038/s41598-025-87541-3 [doi]
+PST - epublish
+SO  - Sci Rep. 2025 Feb 11;15(1):5033. doi: 10.1038/s41598-025-87541-3.
+
 PMID- 39839505
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20250129
+LR  - 20250301
 IS  - 2090-6544 (Print)
 IS  - 2090-6552 (Electronic)
 IS  - 2090-6552 (Linking)
@@ -118,70 +327,6 @@ AID - 10.1155/crig/9751565 [doi]
 PST - epublish
 SO  - Case Rep Genet. 2025 Jan 13;2025:9751565. doi: 10.1155/crig/9751565. eCollection 
       2025.
-
-PMID- 39725461
-OWN - NLM
-STAT- Publisher
-LR  - 20250111
-IS  - 1469-9001 (Electronic)
-IS  - 1355-8382 (Linking)
-DP  - 2024 Dec 26
-TI  - Trinucleotide Repeat Expansion and RNA Dysregulation in Fragile X Syndrome: 
-      Emerging Therapeutic Approaches.
-LID - rna.080270.124 [pii]
-LID - 10.1261/rna.080270.124 [doi]
-AB  - Fragile X Syndrome (FXS) is characterized by intellectual impairment caused by 
-      CGG repeat expansion in the FMR1 gene. When repeats exceed 200, they induce DNA 
-      methylation of the promoter and the repeat region, resulting in transcriptional 
-      silencing of the FMR1 gene and the subsequent loss of FMRP protein. In the past 
-      decade or so, research has focused on the role of FMRP as an RNA-binding protein 
-      involved in translation inhibition in the brain in FXS model mice, particularly 
-      by slowing or stalling ribosome translocation on mRNA. More recent advances have 
-      shown that FMRP has a profound role in RNA splicing, at least in some cases by 
-      modulating the translation of splicing factor mRNAs. In a surprise, the human 
-      FMR1 gene is transcribed in most cases even with a full CGG expansion. However, 
-      much of the FMR1 that is produced is mis-spliced, which can be corrected by 
-      splice-switching antisense oligonucleotide (ASO) administration. Other recent 
-      findings suggest that inhibition of multiple kinases can demethylate the FMR1 
-      gene and induce the formation of an R-loop in the CGG repeat region, leading to 
-      contraction of the repeat and FMRP restoration. These insights are paving the way 
-      for possible future therapeutic approaches for this disorder. We highlight the 
-      importance of FMRP restoration by ASO-mediated splice switching or CGG repeat 
-      modulation as key advances that may lead to successful treatments for FXS.
-CI  - Published by Cold Spring Harbor Laboratory Press for the RNA Society.
-FAU - Jung, Suna
-AU  - Jung S
-AUID- ORCID: 0000-0002-4014-0337
-AD  - University of Massachusetts Chan Medical School.
-FAU - Richter, Joel D
-AU  - Richter JD
-AUID- ORCID: 0000-0003-2753-2501
-AD  - University of Massachusetts Chan Medical School joel.richter@umassmed.edu.
-LA  - eng
-PT  - Journal Article
-DEP - 20241226
-PL  - United States
-TA  - RNA
-JT  - RNA (New York, N.Y.)
-JID - 9509184
-SB  - IM
-OTO - NOTNLM
-OT  - Fragile X Syndrome
-OT  - R-loop
-OT  - Repeat expansion
-OT  - Splicing dysregulation
-EDAT- 2024/12/27 00:20
-MHDA- 2024/12/27 00:20
-CRDT- 2024/12/26 20:52
-PHST- 2024/09/25 00:00 [received]
-PHST- 2024/12/23 00:00 [accepted]
-PHST- 2024/12/27 00:20 [pubmed]
-PHST- 2024/12/27 00:20 [medline]
-PHST- 2024/12/26 20:52 [entrez]
-AID - rna.080270.124 [pii]
-AID - 10.1261/rna.080270.124 [doi]
-PST - aheadofprint
-SO  - RNA. 2024 Dec 26:rna.080270.124. doi: 10.1261/rna.080270.124.
 
 PMID- 39684429
 OWN - NLM
@@ -555,7 +700,7 @@ SO  - Mol Genet Genomic Med. 2024 Nov;12(11):e70043. doi: 10.1002/mgg3.70043.
 PMID- 39574643
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20241202
+LR  - 20250218
 IS  - 2692-8205 (Electronic)
 IS  - 2692-8205 (Linking)
 DP  - 2024 Nov 6
@@ -625,6 +770,7 @@ PL  - United States
 TA  - bioRxiv
 JT  - bioRxiv : the preprint server for biology
 JID - 101680187
+UIN - Sci Rep. 2025 Feb 11;15(1):5033. doi: 10.1038/s41598-025-87541-3. PMID: 39934227
 PMC - PMC11580960
 OTO - NOTNLM
 OT  - Double-strand break repair
@@ -728,14 +874,17 @@ SO  - bioRxiv [Preprint]. 2024 Nov 3:2024.11.01.621616. doi: 10.1101/2024.11.01.
 
 PMID- 39492694
 OWN - NLM
-STAT- Publisher
-LR  - 20241104
+STAT- MEDLINE
+DCOM- 20250203
+LR  - 20250203
 IS  - 1530-8561 (Electronic)
 IS  - 0009-9147 (Linking)
-DP  - 2024 Nov 4
+VI  - 71
+IP  - 2
+DP  - 2025 Feb 3
 TI  - dmTGS: Precise Targeted Enrichment Long-Read Sequencing Panel for Tandem Repeat 
       Detection.
-LID - hvae164 [pii]
+PG  - 319-331
 LID - 10.1093/clinchem/hvae164 [doi]
 AB  - BACKGROUND: Tandem repeats (TRs) are abundant in the human genome and associated 
       with repeat expansion disorders. Our study aimed to develop a tandem repeat panel 
@@ -831,24 +980,35 @@ AD  - Department of Neurology and Institute of Neurology of First Affiliated Hos
       Fujian Medical University, Fuzhou, China.
 LA  - eng
 PT  - Journal Article
-DEP - 20241104
 PL  - England
 TA  - Clin Chem
 JT  - Clinical chemistry
 JID - 9421549
+RN  - 139135-51-6 (Fragile X Mental Retardation Protein)
+RN  - 0 (FMR1 protein, human)
+RN  - 0 (DMPK protein, human)
+RN  - EC 2.7.11.1 (Myotonin-Protein Kinase)
 SB  - IM
+MH  - Humans
+MH  - *Tandem Repeat Sequences/genetics
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Mutation
+MH  - Fragile X Mental Retardation Protein/genetics
+MH  - Sequence Analysis, DNA/methods
+MH  - Myotonic Dystrophy/genetics/diagnosis
+MH  - Myotonin-Protein Kinase/genetics
 EDAT- 2024/11/04 06:22
-MHDA- 2024/11/04 06:22
+MHDA- 2025/02/03 18:20
 CRDT- 2024/11/04 03:53
 PHST- 2024/04/03 00:00 [received]
 PHST- 2024/09/17 00:00 [accepted]
-PHST- 2024/11/04 06:22 [medline]
+PHST- 2025/02/03 18:20 [medline]
 PHST- 2024/11/04 06:22 [pubmed]
 PHST- 2024/11/04 03:53 [entrez]
 AID - 7874402 [pii]
 AID - 10.1093/clinchem/hvae164 [doi]
-PST - aheadofprint
-SO  - Clin Chem. 2024 Nov 4:hvae164. doi: 10.1093/clinchem/hvae164.
+PST - ppublish
+SO  - Clin Chem. 2025 Feb 3;71(2):319-331. doi: 10.1093/clinchem/hvae164.
 
 PMID- 39482338
 OWN - NLM
@@ -2269,7 +2429,7 @@ PMID- 38412259
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240609
-LR  - 20240613
+LR  - 20250213
 IS  - 1362-4962 (Electronic)
 IS  - 0305-1048 (Print)
 IS  - 0305-1048 (Linking)
@@ -2362,6 +2522,7 @@ GR  - Alzheimer's Association Research Fellowship/
 GR  - RF1 AG062077/AG/NIA NIH HHS/United States
 GR  - BX004842/VA BLRD/
 GR  - I01 BX004842/BX/BLRD VA/United States
+GR  - R01 NS099280/NS/NINDS NIH HHS/United States
 GR  - Cellular and Molecular Biology Graduate Program, University of Michigan/
 PT  - Journal Article
 PL  - England
