@@ -1,4 +1,291 @@
 
+PMID- 39936620
+OWN - NLM
+STAT- Publisher
+LR  - 20250225
+IS  - 1554-8635 (Electronic)
+IS  - 1554-8627 (Linking)
+DP  - 2025 Feb 25
+TI  - Heat-shock chaperone HSPB1 mitigates poly-glycine-induced neurodegeneration via 
+      restoration of autophagic flux.
+PG  - 1-18
+LID - 10.1080/15548627.2025.2466144 [doi]
+AB  - The CGG repeat expansions in the 5'-UTR regions of certain genes have been 
+      implicated in various neurodegenerative and muscular disorders. However, the 
+      underlying pathogenic mechanisms are not well understood. In this study, we 
+      explore the role of the small molecular chaperone HSPB1 in counteracting 
+      neurodegeneration induced by poly-glycine (poly-G) aggregates. Employing a 
+      reporter system, we demonstrate that CGG repeat expansions within the 5'-UTR of 
+      the GIPC1 gene produce poly-G proteins, by repeat-associated non-AUG (RAN) 
+      translation. Through proximity labeling and subsequent mass spectrometry 
+      analysis, we characterize the composition of poly-G insoluble aggregates and 
+      reveal that these aggregates sequester key macroautophagy/autophagy receptors, 
+      SQSTM1/p62 and TOLLIP. This sequestration disrupts MAP1LC3/LC3 recruitment and 
+      impairs autophagosome formation, thereby compromising the autophagic pathway. 
+      Importantly, we show that HSPB1 facilitates the dissociation of these receptors 
+      from poly-G aggregates and consequently restores autophagic function. 
+      Overexpressing HSPB1 alleviates poly-G-induced neurodegeneration in mouse models. 
+      Taken together, these findings highlight a mechanistic basis for the 
+      neuroprotective effects of HSPB1 and suggest its potential as a therapeutic 
+      target in treating poly-G-associated neurodegenerative diseases.Abbreviations: 
+      AD: Alzheimer disease; AIF1/Iba1: allograft inflammatory factor 1; Baf A(1): 
+      bafilomycin A(1); BFP: blue fluorescent protein; CQ: chloroquine; EIF2A/eIF-2alpha: 
+      eukaryotic translation initiation factor 2A; FRAP: fluorescence recovery after 
+      photobleaching; GAPDH: glyceraldehyde-3-phosphate dehydrogenase; GFAP: glial 
+      fibrillary acidic protein; GFP: green fluorescent protein; HSPB1: heat shock 
+      protein family B (small) member 1; MAP1LC3B/LC3B: microtubule associated protein 
+      1 light chain 3 beta; NOTCH2NLC: notch 2 N-terminal like C; PD: Parkinson 
+      disease; PFA: paraformaldehyde; poly-A: poly-alanine; poly-G: poly-glycine; 
+      poly-R: poly-arginine; RAN translation: repeat-associated non-AUG translation; 
+      RBFOX3/NeuN: RNA binding fox-1 homolog 3; STED: stimulated emission depletion; 
+      TARDBP/TDP-43: TAR DNA binding protein; TG: thapsigargin; TOLLIP: toll 
+      interacting protein.
+FAU - Ding, Ning
+AU  - Ding N
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Song, Yijie
+AU  - Song Y
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Zhang, Yuhang
+AU  - Zhang Y
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Yu, Wei
+AU  - Yu W
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Li, Xinnan
+AU  - Li X
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+AD  - Lingang Laboratory, Shanghai, China.
+FAU - Li, Wei
+AU  - Li W
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+AD  - Shanghai Clinical Research and Trial Center, Shanghai, China.
+FAU - Li, Lei
+AU  - Li L
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+AD  - Shanghai Clinical Research and Trial Center, Shanghai, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250225
+PL  - United States
+TA  - Autophagy
+JT  - Autophagy
+JID - 101265188
+SB  - IM
+OTO - NOTNLM
+OT  - Autophagy receptors
+OT  - CGG repeat expansions
+OT  - HSPB1
+OT  - RAN translation
+OT  - p62
+OT  - poly-glycine
+EDAT- 2025/02/12 12:25
+MHDA- 2025/02/12 12:25
+CRDT- 2025/02/12 07:44
+PHST- 2025/02/12 12:25 [pubmed]
+PHST- 2025/02/12 12:25 [medline]
+PHST- 2025/02/12 07:44 [entrez]
+AID - 10.1080/15548627.2025.2466144 [doi]
+PST - aheadofprint
+SO  - Autophagy. 2025 Feb 25:1-18. doi: 10.1080/15548627.2025.2466144.
+
+PMID- 39920690
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250210
+LR  - 20250210
+IS  - 1478-811X (Electronic)
+IS  - 1478-811X (Linking)
+VI  - 23
+IP  - 1
+DP  - 2025 Feb 7
+TI  - uN2CpolyG-mediated p65 nuclear sequestration suppresses the NF-kappaB-NLRP3 pathway 
+      in neuronal intranuclear inclusion disease.
+PG  - 68
+LID - 10.1186/s12964-025-02079-1 [doi]
+LID - 68
+AB  - BACKGROUND: Neuronal intranuclear inclusion disease (NIID) is genetically linked 
+      to CGG repeat expansion in the 5'-untranslated region of the NOTCH2NLC gene, with 
+      nascent polyglycine-containing protein (uN2CpolyG) identified as a primary 
+      pathogenic factor. Emerging clinical evidence suggests that inflammation 
+      contributes to NIID pathogenesis, yet the underlying molecular mechanisms remain 
+      elusive. This study aimed to elucidate the molecular interaction between 
+      uN2CpolyG and the NF-kappaB-NLRP3 pathway. METHODS: Single-cell RNA sequencing was 
+      conducted on the skin tissues of NIID patients to assess changes in the 
+      expression of genes involved in inflammatory pathways. Cell models (HEK-293T and 
+      U87-MG) transfected with CGG(9/69/100) expansion vectors were used to investigate 
+      alterations in the NF-kappaB-NLRP3-autophagy pathway. Additionally, the therapeutic 
+      potential of NF-kappaB activators was evaluated in a Drosophila model with a CGG 
+      expansion knock-in. RESULTS: Single-cell sequencing revealed a significant 
+      reduction in the expression of NFKBIA, encoding NF-kappaB inhibitor alpha (IkBa), 
+      which facilitates the nuclear translocation of p65, a key NF-kappaB component. 
+      uN2CpolyG directly interacted with and sequestered p65 in nuclear inclusions, 
+      leading to reduced phosphorylated p65 (p-p65) levels. This sequestration 
+      significantly downregulated the NF-kappaB-NLRP3 pathway, impairing autophagy, as 
+      indicated by decreased LC3II/LC3I ratios. Treatment of CGG(100) cells with 
+      lipopolysaccharide (LPS) significantly increased p-p65, NLRP3, and LC3II/LC3I 
+      levels while reducing insoluble uN2CpolyG levels and intranuclear inclusions. In 
+      the Drosophila knock-in model, LPS significantly reduced the number of 
+      intranuclear inclusions and improved phenotypic manifestations. CONCLUSIONS: This 
+      study revealed that uN2CpolyG directly interacts with and sequesters p65, thereby 
+      inhibiting the NF-kappaB-NLRP3 pathway and impairing autophagy. This mechanism 
+      highlights a novel therapeutic target for NIID and provides potentially broader 
+      insights into similar mechanisms in other neurodegenerative diseases 
+      characterized by misfolded protein aggregates.
+CI  - (c) 2025. The Author(s).
+FAU - Shen, Yu
+AU  - Shen Y
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China.
+FAU - Jiang, Kaiyan
+AU  - Jiang K
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China.
+FAU - Tan, Dandan
+AU  - Tan D
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China.
+AD  - Institute of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Jiangxi Academy of Clinical Medical Science, Nanchang University, Nanchang, 
+      China.
+AD  - Rare Disease Center, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Nanchang, China.
+FAU - Zhu, Min
+AU  - Zhu M
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China.
+AD  - Institute of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Jiangxi Academy of Clinical Medical Science, Nanchang University, Nanchang, 
+      China.
+AD  - Rare Disease Center, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Nanchang, China.
+FAU - Qiu, Yusen
+AU  - Qiu Y
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China.
+AD  - Institute of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Jiangxi Academy of Clinical Medical Science, Nanchang University, Nanchang, 
+      China.
+AD  - Rare Disease Center, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Nanchang, China.
+FAU - Huang, Pencheng
+AU  - Huang P
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China.
+AD  - Institute of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Jiangxi Academy of Clinical Medical Science, Nanchang University, Nanchang, 
+      China.
+AD  - Key Laboratory of Rare Neurological Diseases of Jiangxi Provincial Health 
+      Commission, The First Affiliated Hospital of Nanchang University, Nanchang, 
+      China.
+FAU - Zou, Wenquan
+AU  - Zou W
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China.
+AD  - Institute of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Jiangxi Academy of Clinical Medical Science, Nanchang University, Nanchang, 
+      China.
+FAU - Deng, Jianwen
+AU  - Deng J
+AD  - Department of Neurology, Peking University First Hospital, Beijing, China.
+FAU - Wang, Zhaoxia
+AU  - Wang Z
+AD  - Department of Neurology, Peking University First Hospital, Beijing, China.
+FAU - Xiong, Ying
+AU  - Xiong Y
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China. 
+      ndyfy10015@ncu.edu.cn.
+AD  - Institute of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Jiangxi Academy of Clinical Medical Science, Nanchang University, Nanchang, 
+      China. ndyfy10015@ncu.edu.cn.
+AD  - Key Laboratory of Rare Neurological Diseases of Jiangxi Provincial Health 
+      Commission, The First Affiliated Hospital of Nanchang University, Nanchang, 
+      China. ndyfy10015@ncu.edu.cn.
+FAU - Hong, Daojun
+AU  - Hong D
+AD  - Department of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Yong Wai Zheng Street 17#, Nanchang, 330006, China. 
+      hongdaojun@hotmail.com.
+AD  - Institute of Neurology, The First Affiliated Hospital, Jiangxi Medical College, 
+      Jiangxi Academy of Clinical Medical Science, Nanchang University, Nanchang, 
+      China. hongdaojun@hotmail.com.
+AD  - Rare Disease Center, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Nanchang, China. hongdaojun@hotmail.com.
+AD  - Key Laboratory of Rare Neurological Diseases of Jiangxi Provincial Health 
+      Commission, The First Affiliated Hospital of Nanchang University, Nanchang, 
+      China. hongdaojun@hotmail.com.
+LA  - eng
+GR  - YC2023-B061/Jiangxi provincial graduate innovation Foundation/
+GR  - 82071409, 82171846, 82160252, 82271439 and U20A20356/National Natural Science 
+      Foundation of China/
+GR  - 20224ACB206015/Natural Science Foundation of Jiangxi Province/
+GR  - jxsq2019101021/Double thousand talents program of Jiangxi province/
+PT  - Journal Article
+DEP - 20250207
+PL  - England
+TA  - Cell Commun Signal
+JT  - Cell communication and signaling : CCS
+JID - 101170464
+RN  - 0 (Transcription Factor RelA)
+RN  - 0 (NLRP3 protein, human)
+RN  - 0 (NLR Family, Pyrin Domain-Containing 3 Protein)
+RN  - 25718-94-9 (polyglycine)
+RN  - 0 (Peptides)
+RN  - 0 (NFKBIA protein, human)
+RN  - 139874-52-5 (NF-KappaB Inhibitor alpha)
+RN  - 0 (MAP1LC3B protein, human)
+RN  - 0 (Microtubule-Associated Proteins)
+RN  - 0 (MAP1LC3A protein, human)
+RN  - Neuronal intranuclear inclusion disease
+SB  - IM
+MH  - *Transcription Factor RelA/metabolism
+MH  - *NLR Family, Pyrin Domain-Containing 3 Protein/metabolism
+MH  - Peptides/metabolism
+MH  - Humans
+MH  - HEK293 Cells
+MH  - Autophagy
+MH  - NF-KappaB Inhibitor alpha/metabolism
+MH  - Microtubule-Associated Proteins/metabolism
+MH  - Animals
+MH  - Drosophila melanogaster
+MH  - *Cell Nucleus/metabolism
+MH  - *Neurodegenerative Diseases/genetics/metabolism
+MH  - *Intranuclear Inclusion Bodies/genetics/metabolism
+MH  - Disease Models, Animal
+PMC - PMC11806584
+OTO - NOTNLM
+OT  - Autophagy
+OT  - CGG repeat expansion
+OT  - NF-kappaB pathway
+OT  - NLRP3 inflammasome
+OT  - Neuronal intranuclear inclusion disease
+OT  - Single-cell sequencing
+COIS- Declarations. Ethics approval and consent to participate: This study was approved 
+      by the ethics committee of the First Affiliated Hospital of Nanchang University 
+      (2023CDYFYYLK (02-065)). Experiments involving humans were performed in 
+      accordance with the Code of Ethics of the World Medical Association (Declaration 
+      of Helsinki) and informed consent was obtained from the patients and healthy 
+      donors before blood sampling in the study. All animal experiments were carried 
+      out according to the U.K. Animals (Scientific Procedures) Act, 1986 compliance 
+      with the ARRIVE guidelines. Consent for publication: All authors agree to 
+      publication. Competing interests: The authors declare no competing interests.
+EDAT- 2025/02/08 00:31
+MHDA- 2025/02/08 19:53
+PMCR- 2025/02/07
+CRDT- 2025/02/07 23:38
+PHST- 2024/08/20 00:00 [received]
+PHST- 2025/02/01 00:00 [accepted]
+PHST- 2025/02/08 19:53 [medline]
+PHST- 2025/02/08 00:31 [pubmed]
+PHST- 2025/02/07 23:38 [entrez]
+PHST- 2025/02/07 00:00 [pmc-release]
+AID - 10.1186/s12964-025-02079-1 [pii]
+AID - 2079 [pii]
+AID - 10.1186/s12964-025-02079-1 [doi]
+PST - epublish
+SO  - Cell Commun Signal. 2025 Feb 7;23(1):68. doi: 10.1186/s12964-025-02079-1.
+
 PMID- 39609868
 OWN - NLM
 STAT- MEDLINE
@@ -426,14 +713,17 @@ SO  - J Clin Neurol. 2024 Nov;20(6):580-590. doi: 10.3988/jcn.2023.0486.
 
 PMID- 39492694
 OWN - NLM
-STAT- Publisher
-LR  - 20241104
+STAT- MEDLINE
+DCOM- 20250203
+LR  - 20250203
 IS  - 1530-8561 (Electronic)
 IS  - 0009-9147 (Linking)
-DP  - 2024 Nov 4
+VI  - 71
+IP  - 2
+DP  - 2025 Feb 3
 TI  - dmTGS: Precise Targeted Enrichment Long-Read Sequencing Panel for Tandem Repeat 
       Detection.
-LID - hvae164 [pii]
+PG  - 319-331
 LID - 10.1093/clinchem/hvae164 [doi]
 AB  - BACKGROUND: Tandem repeats (TRs) are abundant in the human genome and associated 
       with repeat expansion disorders. Our study aimed to develop a tandem repeat panel 
@@ -529,24 +819,35 @@ AD  - Department of Neurology and Institute of Neurology of First Affiliated Hos
       Fujian Medical University, Fuzhou, China.
 LA  - eng
 PT  - Journal Article
-DEP - 20241104
 PL  - England
 TA  - Clin Chem
 JT  - Clinical chemistry
 JID - 9421549
+RN  - 139135-51-6 (Fragile X Mental Retardation Protein)
+RN  - 0 (FMR1 protein, human)
+RN  - 0 (DMPK protein, human)
+RN  - EC 2.7.11.1 (Myotonin-Protein Kinase)
 SB  - IM
+MH  - Humans
+MH  - *Tandem Repeat Sequences/genetics
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Mutation
+MH  - Fragile X Mental Retardation Protein/genetics
+MH  - Sequence Analysis, DNA/methods
+MH  - Myotonic Dystrophy/genetics/diagnosis
+MH  - Myotonin-Protein Kinase/genetics
 EDAT- 2024/11/04 06:22
-MHDA- 2024/11/04 06:22
+MHDA- 2025/02/03 18:20
 CRDT- 2024/11/04 03:53
 PHST- 2024/04/03 00:00 [received]
 PHST- 2024/09/17 00:00 [accepted]
-PHST- 2024/11/04 06:22 [medline]
+PHST- 2025/02/03 18:20 [medline]
 PHST- 2024/11/04 06:22 [pubmed]
 PHST- 2024/11/04 03:53 [entrez]
 AID - 7874402 [pii]
 AID - 10.1093/clinchem/hvae164 [doi]
-PST - aheadofprint
-SO  - Clin Chem. 2024 Nov 4:hvae164. doi: 10.1093/clinchem/hvae164.
+PST - ppublish
+SO  - Clin Chem. 2025 Feb 3;71(2):319-331. doi: 10.1093/clinchem/hvae164.
 
 PMID- 39418922
 OWN - NLM
@@ -664,49 +965,52 @@ SO  - Neuromuscul Disord. 2024 Nov;44:104465. doi: 10.1016/j.nmd.2024.104465. Ep
 
 PMID- 39167540
 OWN - NLM
-STAT- Publisher
-LR  - 20240821
+STAT- MEDLINE
+DCOM- 20250203
+LR  - 20250203
 IS  - 1460-2156 (Electronic)
 IS  - 0006-8950 (Linking)
-DP  - 2024 Aug 21
+VI  - 148
+IP  - 2
+DP  - 2025 Feb 3
 TI  - GGC repeat expansions in NOTCH2NLC cause uN2CpolyG cerebral amyloid angiopathy.
-LID - awae274 [pii]
+PG  - 467-479
 LID - 10.1093/brain/awae274 [doi]
-AB  - The expansion of GGC repeats within NOTCH2NLC leads to the translation of the 
+AB  - The expansion of GGC repeats within NOTCH2NLC leads to translation of the 
       uN2CpolyG protein, the primary pathogenic factor in neuronal intranuclear 
-      inclusion disease (NIID). This study aims to explore the deposition of uN2CpolyG 
-      as an amyloid in the vessel wall, leading to uN2CpolyG cerebral amyloid 
-      angiopathy (CAA)-related cerebral microbleeds (CMBs). A total of 97 patients with 
-      genetically confirmed NIID were enrolled in this study. We analyzed the presence 
+      inclusion disease (NIID). The aim of this study was to explore the deposition of 
+      uN2CpolyG as an amyloid in the vessel wall, leading to uN2CpolyG cerebral amyloid 
+      angiopathy-related cerebral microbleeds (CMBs). A total of 97 patients with 
+      genetically confirmed NIID were enrolled in this study. We analysed the presence 
       of CMBs using susceptibility-weighted imaging sequences and compared general 
       clinical information, cerebrovascular risk factors, stroke history, antiplatelet 
-      medication use, and MRI features between NIID patients with and without CMBs. We 
-      further performed hematoxylin and eosin (H&E), Perl's, Congo red, and Thioflavin 
-      S staining, ubiquitin, p62 and uN2CpolyG immunostaining on brain tissue obtained 
+      medication use and MRI features between NIID patients with and without CMBs. We 
+      also performed haematoxylin and eosin, Perl's, Congo red and Thioflavin S 
+      staining, ubiquitin, p62 and uN2CpolyG immunostaining on brain tissue obtained 
       from four NIID patients. A total of 354 CMBs were detected among 41 patients with 
-      NIID, with nearly half located in the deep brain, one-third in the lobes, and 
-      approximately 20% in the infratentorial area. No significant differences in 
-      cerebrovascular disease risk factors or history of antiplatelet drug use were 
-      observed between patients with and without CMBs. However, patients with CMBs 
-      suffered a higher incidence of previous ischemic and hemorrhagic stroke events. 
-      This group also had a higher incidence of recent subcortical infarcts and a 
-      higher proportion of white matter lesions in the external capsule and temporal 
-      pole. Conversely, patients without CMBs showed higher detection of high signals 
-      at the corticomedullary junction on diffusion-weighted imaging and more 
-      pronounced brain atrophy. H&E staining showed blood vessel leakage and 
-      hemosiderin-laden macrophage clusters, and Prussian blue staining revealed brain 
-      tissue iron deposition. CMBs occurred more frequently in small vessels lacking 
-      intranuclear inclusions, and extensive degeneration of endothelial cells and 
-      smooth muscle fibres was observed mainly in vessels lacking inclusions. Congo 
+      NIID, with nearly half located in the deep brain, one-third in the lobes and  approximately 20% 
+      in the infratentorial area. No significant differences in cerebrovascular disease 
+      risk factors or history of antiplatelet drug use were observed between patients 
+      with and without CMBs. However, patients with CMBs had suffered a higher 
+      incidence of previous ischaemic and haemorrhagic stroke events. This group also 
+      had a higher incidence of recent subcortical infarcts and a higher proportion of 
+      white matter lesions in the external capsule and temporal pole. Conversely, 
+      patients without CMBs showed higher detection of high signals at the 
+      corticomedullary junction on diffusion-weighted imaging and more pronounced brain 
+      atrophy. Haematoxylin and eosin staining showed blood vessel leakage and 
+      haemosiderin-laden macrophage clusters, and Prussian blue staining revealed iron 
+      deposition in brain tissue. CMBs occurred more frequently in small vessels 
+      lacking intranuclear inclusions, and extensive degeneration of endothelial cells 
+      and smooth muscle fibres was observed mainly in vessels lacking inclusions. Congo 
       red-positive amyloid deposition was observed in the cerebral vessels of NIID 
       patients, with disordered filamentous fibres appearing under an electron 
-      microscope. Additionally, the co-localization of Thioflavin S-labeled amyloid and 
-      uN2CpolyG protein in the cerebral vascular walls of NIID patients further 
+      microscope. Additionally, the co-localization of Thioflavin S-labelled amyloid 
+      and uN2CpolyG protein in the cerebral vascular walls of NIID patients further 
       suggested that uN2CpolyG is the main pathogenic protein in this form of amyloid 
       angiopathy. In conclusion, we reviewed patients with GGC repeat expansion of 
-      NOTCH2NLC from a novel perspective, providing initial clinical, neuroimaging, and 
-      pathological evidence suggesting that uN2CpolyG may contribute to a distinct type 
-      of CAA.
+      NOTCH2NLC from a new perspective, providing initial clinical, neuroimaging and 
+      pathological evidence suggesting that uN2CpolyG might contribute to a distinct 
+      type of cerebral amyloid angiopathy.
 CI  - (c) The Author(s) 2024. Published by Oxford University Press on behalf of the 
       Guarantors of Brain. All rights reserved. For commercial re-use, please contact 
       reprints@oup.com for reprints and translation rights for reprints. All other 
@@ -716,66 +1020,85 @@ CI  - (c) The Author(s) 2024. Published by Oxford University Press on behalf of 
 FAU - Bao, Lei
 AU  - Bao L
 AD  - Department of Neurology, the Affiliated Hospital of Xuzhou Medical University, 
-      Xuzhou, 221004, China.
-AD  - Department of Neurology, Xuzhou Medical University, Xuzhou, 221004, China.
+      Xuzhou 221004, China.
+AD  - Department of Neurology, Xuzhou Medical University, Xuzhou 221004, China.
 FAU - Li, Xiaowen
 AU  - Li X
 AD  - Department of Neurology, the Affiliated Hospital of Xuzhou Medical University, 
-      Xuzhou, 221004, China.
-AD  - Department of Neurology, Xuzhou Medical University, Xuzhou, 221004, China.
+      Xuzhou 221004, China.
+AD  - Department of Neurology, Xuzhou Medical University, Xuzhou 221004, China.
 FAU - Tian, Jin
 AU  - Tian J
 AD  - Department of Neurology, the Affiliated Hospital of Xuzhou Medical University, 
-      Xuzhou, 221004, China.
-AD  - Department of Neurology, Xuzhou Medical University, Xuzhou, 221004, China.
+      Xuzhou 221004, China.
+AD  - Department of Neurology, Xuzhou Medical University, Xuzhou 221004, China.
 FAU - Wang, Lulu
 AU  - Wang L
 AD  - Department of Pathology, the Affiliated Hospital of Xuzhou Medical University, 
-      Xuzhou, 221004, China.
+      Xuzhou 221004, China.
 FAU - Ji, Ying
 AU  - Ji Y
 AD  - Department of Neurology, the Affiliated Hospital of Xuzhou Medical University, 
-      Xuzhou, 221004, China.
-AD  - Department of Neurology, Xuzhou Medical University, Xuzhou, 221004, China.
+      Xuzhou 221004, China.
+AD  - Department of Neurology, Xuzhou Medical University, Xuzhou 221004, China.
 FAU - Cui, Yingying
 AU  - Cui Y
 AD  - Department of Pathology, the Affiliated Hospital of Xuzhou Medical University, 
-      Xuzhou, 221004, China.
+      Xuzhou 221004, China.
 FAU - Sun, Wen
 AU  - Sun W
 AD  - Department of Neurology, the First Affiliated Hospital of USTC, Division of Life 
-      Sciences and Medicine, University of Science and Technology of China, Hefei, 
+      Sciences and Medicine, University of Science and Technology of China, Hefei 
       230000, China.
 FAU - Zhang, Jing
 AU  - Zhang J
-AD  - Department of Neurology, Xuanwu Hospital, Capital Medical University, Beijing, 
+AD  - Department of Neurology, Xuanwu Hospital, Capital Medical University, Beijing 
       100000, China.
 FAU - Xia, Man
 AU  - Xia M
-AD  - Department of Neurological Intensive Care, Yantai Yuhuangding Hospital, Yantai, 
+AD  - Department of Neurological Intensive Care, Yantai Yuhuangding Hospital, Yantai 
       264000, China.
 FAU - Zhu, Pinyi
 AU  - Zhu P
 AD  - Department of Geriatric Neurology, Nanjing Brain Hospital Affiliated to Nanjing 
-      Medical University, Nanjing, 210000, China.
+      Medical University, Nanjing 210000, China.
 FAU - Cui, Guiyun
 AU  - Cui G
 AUID- ORCID: 0000-0001-9675-8497
 AD  - Department of Neurology, the Affiliated Hospital of Xuzhou Medical University, 
-      Xuzhou, 221004, China.
-AD  - Department of Neurology, Xuzhou Medical University, Xuzhou, 221004, China.
+      Xuzhou 221004, China.
+AD  - Department of Neurology, Xuzhou Medical University, Xuzhou 221004, China.
 FAU - Chen, Hao
 AU  - Chen H
 AD  - Department of Neurology, the Affiliated Hospital of Xuzhou Medical University, 
-      Xuzhou, 221004, China.
+      Xuzhou 221004, China.
 LA  - eng
+GR  - Xuzhou Science/
+GR  - Research Foundation of Xuzhou Commission of Health/
+GR  - Xuzhou Medical University/
 PT  - Journal Article
-DEP - 20240821
 PL  - England
 TA  - Brain
 JT  - Brain : a journal of neurology
 JID - 0372537
+RN  - 0 (Receptor, Notch2)
+RN  - 0 (NOTCH2 protein, human)
+RN  - Neuronal intranuclear inclusion disease
 SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - *Cerebral Amyloid Angiopathy/genetics/pathology/diagnostic imaging
+MH  - Middle Aged
+MH  - Aged
+MH  - *Receptor, Notch2/genetics/metabolism
+MH  - Intranuclear Inclusion Bodies/pathology/metabolism
+MH  - Trinucleotide Repeat Expansion/genetics
+MH  - Cerebral Hemorrhage/pathology/genetics/diagnostic imaging/metabolism
+MH  - Brain/pathology/metabolism/diagnostic imaging
+MH  - Magnetic Resonance Imaging
+MH  - Adult
+MH  - Neurodegenerative Diseases
 OTO - NOTNLM
 OT  - NOTCH2NLC GGC repeat expansions
 OT  - cerebral amyloid angiopathy
@@ -783,18 +1106,18 @@ OT  - cerebral microbleeds
 OT  - neuronal intranuclear inclusion disease
 OT  - uN2CpolyG protein
 EDAT- 2024/08/21 18:41
-MHDA- 2024/08/21 18:41
+MHDA- 2025/02/03 06:20
 CRDT- 2024/08/21 12:53
 PHST- 2024/04/15 00:00 [received]
 PHST- 2024/07/24 00:00 [revised]
-PHST- 2024/08/19 00:00 [accepted]
-PHST- 2024/08/21 18:41 [medline]
+PHST- 2024/07/26 00:00 [accepted]
+PHST- 2025/02/03 06:20 [medline]
 PHST- 2024/08/21 18:41 [pubmed]
 PHST- 2024/08/21 12:53 [entrez]
 AID - 7738208 [pii]
 AID - 10.1093/brain/awae274 [doi]
-PST - aheadofprint
-SO  - Brain. 2024 Aug 21:awae274. doi: 10.1093/brain/awae274.
+PST - ppublish
+SO  - Brain. 2025 Feb 3;148(2):467-479. doi: 10.1093/brain/awae274.
 
 PMID- 39078482
 OWN - NLM
@@ -1763,7 +2086,7 @@ SO  - Neuropathology. 2024 Oct;44(5):351-365. doi: 10.1111/neup.12971. Epub 2024
 PMID- 38377026
 OWN - NLM
 STAT- Publisher
-LR  - 20250129
+LR  - 20250202
 IS  - 2152-5250 (Electronic)
 IS  - 2152-5250 (Linking)
 VI  - 16
@@ -1853,10 +2176,10 @@ PMCR- 2025/02/01
 CRDT- 2024/02/20 12:53
 PHST- 2023/10/23 00:00 [received]
 PHST- 2024/01/31 00:00 [accepted]
-PHST- 2025/02/01 00:00 [pmc-release]
 PHST- 2024/02/20 18:42 [medline]
 PHST- 2024/02/20 18:42 [pubmed]
 PHST- 2024/02/20 12:53 [entrez]
+PHST- 2025/02/01 00:00 [pmc-release]
 AID - AD.2024.0131-1 [pii]
 AID - ad-16-1-578 [pii]
 AID - 10.14336/AD.2024.0131-1 [doi]

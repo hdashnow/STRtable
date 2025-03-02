@@ -1,4 +1,105 @@
 
+PMID- 39998965
+OWN - NLM
+STAT- Publisher
+LR  - 20250225
+IS  - 1536-4798 (Electronic)
+IS  - 0277-3740 (Linking)
+DP  - 2025 Feb 25
+TI  - Transcriptional Profiling of Patients With Fuchs Endothelial Corneal Dystrophy 
+      With and Without Trinucleotide Repeat Expansion in TCF4.
+LID - 10.1097/ICO.0000000000003841 [doi]
+AB  - PURPOSE: To investigate transcriptomic differences between patients with Fuchs 
+      endothelial corneal dystrophy (FECD) with and without trinucleotide repeat (TNR) 
+      expansion in the transcription factor 4 gene, as the genetic basis for patients 
+      with FECD lacking TNR expansion remains unclear. METHODS: Bulk RNA sequencing was 
+      performed on corneal endothelial cells from 17 subjects: 10 patients with FECD [4 
+      with repeat expansion lengths <50 (RE-) and 6 with expansions of 50 or more 
+      (RE+)] and 7 controls. Differential gene expression analysis was conducted using 
+      DESeq2. Principal component analysis (PCA), correlation matrix analysis, and 
+      heatmap visualization were used to evaluate gene expression patterns. Gene 
+      Ontology enrichment analysis was performed on differentially expressed genes 
+      (DEGs). RESULTS: Analysis identified 509 DEGs (281 upregulated, 228 
+      downregulated) between RE- and controls, and 640 DEGs (292 upregulated, 348 
+      downregulated) between RE+ and controls. PCA revealed distinct gene expression 
+      patterns in both RE- and RE+ groups compared with controls. Between RE- and RE+ 
+      groups, only 10 DEGs were identified: ALDH3A1, ENSG00000286252, RNU6-645P, 
+      SNORD113-7, RNU6-429P, SNORA16A, COCH, EGFL6, SEMA3E, and ENSG00000228463. PCA, 
+      correlation matrix analysis, and heatmap visualization demonstrated high 
+      similarity in overall gene expression patterns between RE- and RE+ groups. 
+      CONCLUSIONS: Contrary to expectations, gene expression profiles showed remarkable 
+      similarity between patients with FECD with and without TNR expansion. Further 
+      investigation of the identified DEGs may provide insights into the role of TNR 
+      expansion in FECD pathophysiology.
+CI  - Copyright (c) 2025 Wolters Kluwer Health, Inc. All rights reserved.
+FAU - Nakagawa, Tatsuya
+AU  - Nakagawa T
+AD  - Department of Biomedical Engineering, Faculty of Life and Medical Sciences, 
+      Doshisha University, Kyotanabe, Japan.
+FAU - Tokuda, Yuichi
+AU  - Tokuda Y
+AD  - Department of Genomic Medical Sciences, Kyoto Prefectural University of Medicine, 
+      Kyoto, Japan; and.
+FAU - Nakano, Masakazu
+AU  - Nakano M
+AD  - Department of Genomic Medical Sciences, Kyoto Prefectural University of Medicine, 
+      Kyoto, Japan; and.
+FAU - Tateishi, Ayana
+AU  - Tateishi A
+AD  - Department of Biomedical Engineering, Faculty of Life and Medical Sciences, 
+      Doshisha University, Kyotanabe, Japan.
+FAU - Yasunaga, Mari
+AU  - Yasunaga M
+AD  - Department of Biomedical Engineering, Faculty of Life and Medical Sciences, 
+      Doshisha University, Kyotanabe, Japan.
+FAU - Tourtas, Theofilos
+AU  - Tourtas T
+AD  - Department of Ophthalmology, University of Erlangen-Nurnberg, Erlangen, Germany.
+FAU - Schlotzer-Schrehardt, Ursula
+AU  - Schlotzer-Schrehardt U
+AD  - Department of Ophthalmology, University of Erlangen-Nurnberg, Erlangen, Germany.
+FAU - Kruse, Friedrich
+AU  - Kruse F
+AD  - Department of Ophthalmology, University of Erlangen-Nurnberg, Erlangen, Germany.
+FAU - Tashiro, Kei
+AU  - Tashiro K
+AD  - Department of Genomic Medical Sciences, Kyoto Prefectural University of Medicine, 
+      Kyoto, Japan; and.
+FAU - Koizumi, Noriko
+AU  - Koizumi N
+AD  - Department of Biomedical Engineering, Faculty of Life and Medical Sciences, 
+      Doshisha University, Kyotanabe, Japan.
+FAU - Okumura, Naoki
+AU  - Okumura N
+AD  - Department of Biomedical Engineering, Faculty of Life and Medical Sciences, 
+      Doshisha University, Kyotanabe, Japan.
+LA  - eng
+GR  - KAKENHI Grant Numbers 18K09464/Japan Society for the Promotion of Science/
+GR  - JP22ek0109590/Japan Agency for Medical Research and Development/
+PT  - Journal Article
+DEP - 20250225
+PL  - United States
+TA  - Cornea
+JT  - Cornea
+JID - 8216186
+SB  - IM
+COIS- N. Okumura and N. Koizumi are cofounders of ActualEyes Inc, which is currently 
+      developing a pharmaceutical therapy for treating Fuchs endothelial corneal 
+      dystrophy. The remaining authors have no funding or conflicts of interest to 
+      disclose.
+EDAT- 2025/02/25 18:24
+MHDA- 2025/02/25 18:24
+CRDT- 2025/02/25 12:43
+PHST- 2024/11/10 00:00 [received]
+PHST- 2025/01/03 00:00 [accepted]
+PHST- 2025/02/25 18:24 [medline]
+PHST- 2025/02/25 18:24 [pubmed]
+PHST- 2025/02/25 12:43 [entrez]
+AID - 00003226-990000000-00826 [pii]
+AID - 10.1097/ICO.0000000000003841 [doi]
+PST - aheadofprint
+SO  - Cornea. 2025 Feb 25. doi: 10.1097/ICO.0000000000003841.
+
 PMID- 39669694
 OWN - NLM
 STAT- PubMed-not-MEDLINE

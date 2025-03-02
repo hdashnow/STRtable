@@ -1,4 +1,141 @@
 
+PMID- 39894140
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250215
+LR  - 20250215
+IS  - 1096-0309 (Electronic)
+IS  - 0003-2697 (Linking)
+VI  - 700
+DP  - 2025 May
+TI  - High-resolution repeat structure analysis in myotonic dystrophy type 2 
+      diagnostics using short-read whole genome sequencing.
+PG  - 115793
+LID - S0003-2697(25)00031-4 [pii]
+LID - 10.1016/j.ab.2025.115793 [doi]
+AB  - BACKGROUND/OBJECTIVES: Diagnostic possibilities for myotonic dystrophy type 2 
+      (DM2) are constantly evolving in order to achieve more accurate and faster 
+      diagnosis. Whole genome sequencing (WGS), together with specialized tandem repeat 
+      (TR) genotyping bioinformatic tools, represent a breakthrough technology in 
+      molecular diagnostics. We decided to characterize new opportunities and 
+      challenges in WGS-based DM2 molecular diagnostics. METHODS: WGS data were 
+      obtained from 50 individuals, including five DM2 patients, and one individual 
+      carrying a premutation range allele. TR characterization was performed using a 
+      modified version of the Dante tool, with results validated by conventional PCR 
+      and repeat-primed PCR. RESULTS: We used WGS to identify all of the 
+      expansion-range DM2 alleles, together with the premutation-range allele. Compared 
+      to conventional methods, WGS was more efficient for a detailed sequence structure 
+      characterization of the normal-range alleles, and phasing of the entire 
+      CNBP-complex motif. A 97 % genotyping concordance rate was achieved between the 
+      conventional methods and the WGS-derived results, with discrepancies mainly based 
+      on single-repeat differences in the genotypes. The stutter effect introduced some 
+      uncertainty in both methods. CONCLUSION: Short-read WGS offers significant 
+      potential for DM2 diagnostics by enabling precise repeat motif characterization 
+      and may also apply to other tandem repeat disorders (TRDs).
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Lojova, Ingrid
+AU  - Lojova I
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Comenius University Science Park, Ilkovicova 8, Karlova 
+      Ves, 841, 04 Bratislava, Slovakia; Department of Molecular Biology, Faculty of 
+      Natural Sciences, Comenius University, Ilkovicova 6, Karlova Ves, 841 04, 
+      Bratislava, Slovakia.
+FAU - Kucharik, Marcel
+AU  - Kucharik M
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Comenius University Science Park, Ilkovicova 8, Karlova 
+      Ves, 841, 04 Bratislava, Slovakia; Geneton Ltd., Ilkovicova 8, 841 04, 
+      Bratislava, Slovakia.
+FAU - Zatkova, Andrea
+AU  - Zatkova A
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia.
+FAU - Balaz, Andrej
+AU  - Balaz A
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Geneton Ltd., Ilkovicova 8, 841 04, Bratislava, Slovakia.
+FAU - Pos, Zuzana
+AU  - Pos Z
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Geneton Ltd., Ilkovicova 8, 841 04, Bratislava, Slovakia.
+FAU - Tarova, Eva Tothova
+AU  - Tarova ET
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia.
+FAU - Kadasi, Ludevit
+AU  - Kadasi L
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Department of Molecular Biology, Faculty of Natural 
+      Sciences, Comenius University, Ilkovicova 6, Karlova Ves, 841 04, Bratislava, 
+      Slovakia.
+FAU - Budis, Jaroslav
+AU  - Budis J
+AD  - Comenius University Science Park, Ilkovicova 8, Karlova Ves, 841, 04 Bratislava, 
+      Slovakia; Geneton Ltd., Ilkovicova 8, 841 04, Bratislava, Slovakia; Genovisio 
+      Ltd., Ilkovicova 8, Karlova Ves, 841 04, Bratislava, Slovakia.
+FAU - Szemes, Tomas
+AU  - Szemes T
+AD  - Comenius University Science Park, Ilkovicova 8, Karlova Ves, 841, 04 Bratislava, 
+      Slovakia; Department of Molecular Biology, Faculty of Natural Sciences, Comenius 
+      University, Ilkovicova 6, Karlova Ves, 841 04, Bratislava, Slovakia; Geneton 
+      Ltd., Ilkovicova 8, 841 04, Bratislava, Slovakia.
+FAU - Radvanszky, Jan
+AU  - Radvanszky J
+AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
+      the Slovak Academy of Sciences, Dubravska Cesta 9, Karlova Ves, 845 05, 
+      Bratislava, Slovakia; Comenius University Science Park, Ilkovicova 8, Karlova 
+      Ves, 841, 04 Bratislava, Slovakia; Department of Molecular Biology, Faculty of 
+      Natural Sciences, Comenius University, Ilkovicova 6, Karlova Ves, 841 04, 
+      Bratislava, Slovakia; G2 Consulting Slovakia Ltd., Slnecnicova 559/5, 
+      Hviezdoslavov, 930 41, Slovakia. Electronic address: jradvanszky@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250201
+PL  - United States
+TA  - Anal Biochem
+JT  - Analytical biochemistry
+JID - 0370535
+SB  - IM
+MH  - Humans
+MH  - *Myotonic Dystrophy/genetics/diagnosis
+MH  - *Whole Genome Sequencing/methods
+MH  - Alleles
+MH  - Tandem Repeat Sequences/genetics
+MH  - Genotype
+OTO - NOTNLM
+OT  - Massively parallel sequencing
+OT  - Myotonic dystrophy type 2
+OT  - Repeat expansion disorders
+OT  - Tandem repeats
+OT  - Whole genome sequencing
+COIS- Declaration of competing interest The authors declare the following financial 
+      interests/personal relationships which may be considered as potential competing 
+      interests:Tomas Szemes reports a relationship with Genovisio Ltd. That includes: 
+      equity or stocks. If there are other authors, they declare that they have no 
+      known competing financial interests or personal relationships that could have 
+      appeared to influence the work reported in this paper.
+EDAT- 2025/02/03 00:19
+MHDA- 2025/02/16 01:32
+CRDT- 2025/02/02 19:15
+PHST- 2024/10/02 00:00 [received]
+PHST- 2025/01/17 00:00 [revised]
+PHST- 2025/01/27 00:00 [accepted]
+PHST- 2025/02/16 01:32 [medline]
+PHST- 2025/02/03 00:19 [pubmed]
+PHST- 2025/02/02 19:15 [entrez]
+AID - S0003-2697(25)00031-4 [pii]
+AID - 10.1016/j.ab.2025.115793 [doi]
+PST - ppublish
+SO  - Anal Biochem. 2025 May;700:115793. doi: 10.1016/j.ab.2025.115793. Epub 2025 Feb 
+      1.
+
 PMID- 39703464
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -147,12 +284,16 @@ SO  - Neurol Genet. 2024 Dec 18;11(1):e200220. doi: 10.1212/NXG.0000000000200220
 
 PMID- 39240646
 OWN - NLM
-STAT- Publisher
-LR  - 20240906
+STAT- MEDLINE
+DCOM- 20250219
+LR  - 20250219
 IS  - 2214-3602 (Electronic)
 IS  - 2214-3599 (Linking)
-DP  - 2024 Aug 3
-TI  - Life Expectancy and Causes of Death in Patients with Myotonic Dystrophy Type 2.
+VI  - 11
+IP  - 6
+DP  - 2024 Nov
+TI  - Life expectancy and causes of death in patients with Myotonic Dystrophy Type 2.
+PG  - 1221-1228
 LID - 10.3233/JND-240089 [doi]
 AB  - BACKGROUND: Myotonic Dystrophy type 2 (DM2) is a dominantly inherited multisystem 
       disease caused by a CCTG repeat expansion in intron 1 of the CNBP gene. Although 
@@ -188,13 +329,13 @@ FAU - Muilwijk, Otto G
 AU  - Muilwijk OG
 AD  - Department of Neurology, Donders Institute for Brain, Cognition and Behavior, 
       Radboud University Medical Center, Nijmegen, The Netherlands.
-FAU - Olde Dubbelink, Tom B G
-AU  - Olde Dubbelink TBG
+FAU - Olde Dubbelink, Tom Bg
+AU  - Olde Dubbelink TB
 AD  - Department of Neurology, Donders Institute for Brain, Cognition and Behavior, 
       Radboud University Medical Center, Nijmegen, The Netherlands.
 AD  - Department of Neurology, Rijnstate Hospital, Arnhem, The Netherlands.
-FAU - van Engelen, Baziel G M
-AU  - van Engelen BGM
+FAU - van Engelen, Baziel Gm
+AU  - van Engelen BG
 AD  - Department of Neurology, Donders Institute for Brain, Cognition and Behavior, 
       Radboud University Medical Center, Nijmegen, The Netherlands.
 FAU - Voermans, Nicol C
@@ -207,12 +348,24 @@ AD  - Department of Neurology, Donders Institute for Brain, Cognition and Behavi
       Radboud University Medical Center, Nijmegen, The Netherlands.
 LA  - eng
 PT  - Journal Article
-DEP - 20240803
-PL  - Netherlands
+PT  - Observational Study
+PL  - United States
 TA  - J Neuromuscul Dis
 JT  - Journal of neuromuscular diseases
 JID - 101649948
 SB  - IM
+MH  - Humans
+MH  - *Life Expectancy
+MH  - *Myotonic Dystrophy/mortality
+MH  - Male
+MH  - Female
+MH  - *Cause of Death
+MH  - Aged
+MH  - Middle Aged
+MH  - Netherlands/epidemiology
+MH  - Adult
+MH  - Aged, 80 and over
+MH  - Cohort Studies
 OTO - NOTNLM
 OT  - Myotonic dystrophy type 2
 OT  - advanced care planning
@@ -223,15 +376,15 @@ OT  - life expectancy
 OT  - mortality
 OT  - pneumonia
 EDAT- 2024/09/06 12:44
-MHDA- 2024/09/06 12:44
+MHDA- 2025/02/19 06:21
 CRDT- 2024/09/06 11:43
-PHST- 2024/09/06 12:44 [medline]
+PHST- 2025/02/19 06:21 [medline]
 PHST- 2024/09/06 12:44 [pubmed]
 PHST- 2024/09/06 11:43 [entrez]
 AID - JND240089 [pii]
 AID - 10.3233/JND-240089 [doi]
-PST - aheadofprint
-SO  - J Neuromuscul Dis. 2024 Aug 3. doi: 10.3233/JND-240089.
+PST - ppublish
+SO  - J Neuromuscul Dis. 2024 Nov;11(6):1221-1228. doi: 10.3233/JND-240089.
 
 PMID- 39119544
 OWN - NLM
@@ -1521,7 +1674,7 @@ AD  - Department of Neurology, Neuromuscular Center Nijmegen, Radboud University
       Medical Center, Nijmegen, The Netherlands.
 LA  - eng
 PT  - Journal Article
-PL  - Netherlands
+PL  - United States
 TA  - J Neuromuscul Dis
 JT  - Journal of neuromuscular diseases
 JID - 101649948

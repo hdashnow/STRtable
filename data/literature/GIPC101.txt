@@ -1,14 +1,107 @@
 
-PMID- 39492694
+PMID- 39936620
 OWN - NLM
 STAT- Publisher
-LR  - 20241104
+LR  - 20250225
+IS  - 1554-8635 (Electronic)
+IS  - 1554-8627 (Linking)
+DP  - 2025 Feb 25
+TI  - Heat-shock chaperone HSPB1 mitigates poly-glycine-induced neurodegeneration via 
+      restoration of autophagic flux.
+PG  - 1-18
+LID - 10.1080/15548627.2025.2466144 [doi]
+AB  - The CGG repeat expansions in the 5'-UTR regions of certain genes have been 
+      implicated in various neurodegenerative and muscular disorders. However, the 
+      underlying pathogenic mechanisms are not well understood. In this study, we 
+      explore the role of the small molecular chaperone HSPB1 in counteracting 
+      neurodegeneration induced by poly-glycine (poly-G) aggregates. Employing a 
+      reporter system, we demonstrate that CGG repeat expansions within the 5'-UTR of 
+      the GIPC1 gene produce poly-G proteins, by repeat-associated non-AUG (RAN) 
+      translation. Through proximity labeling and subsequent mass spectrometry 
+      analysis, we characterize the composition of poly-G insoluble aggregates and 
+      reveal that these aggregates sequester key macroautophagy/autophagy receptors, 
+      SQSTM1/p62 and TOLLIP. This sequestration disrupts MAP1LC3/LC3 recruitment and 
+      impairs autophagosome formation, thereby compromising the autophagic pathway. 
+      Importantly, we show that HSPB1 facilitates the dissociation of these receptors 
+      from poly-G aggregates and consequently restores autophagic function. 
+      Overexpressing HSPB1 alleviates poly-G-induced neurodegeneration in mouse models. 
+      Taken together, these findings highlight a mechanistic basis for the 
+      neuroprotective effects of HSPB1 and suggest its potential as a therapeutic 
+      target in treating poly-G-associated neurodegenerative diseases.Abbreviations: 
+      AD: Alzheimer disease; AIF1/Iba1: allograft inflammatory factor 1; Baf A(1): 
+      bafilomycin A(1); BFP: blue fluorescent protein; CQ: chloroquine; EIF2A/eIF-2alpha: 
+      eukaryotic translation initiation factor 2A; FRAP: fluorescence recovery after 
+      photobleaching; GAPDH: glyceraldehyde-3-phosphate dehydrogenase; GFAP: glial 
+      fibrillary acidic protein; GFP: green fluorescent protein; HSPB1: heat shock 
+      protein family B (small) member 1; MAP1LC3B/LC3B: microtubule associated protein 
+      1 light chain 3 beta; NOTCH2NLC: notch 2 N-terminal like C; PD: Parkinson 
+      disease; PFA: paraformaldehyde; poly-A: poly-alanine; poly-G: poly-glycine; 
+      poly-R: poly-arginine; RAN translation: repeat-associated non-AUG translation; 
+      RBFOX3/NeuN: RNA binding fox-1 homolog 3; STED: stimulated emission depletion; 
+      TARDBP/TDP-43: TAR DNA binding protein; TG: thapsigargin; TOLLIP: toll 
+      interacting protein.
+FAU - Ding, Ning
+AU  - Ding N
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Song, Yijie
+AU  - Song Y
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Zhang, Yuhang
+AU  - Zhang Y
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Yu, Wei
+AU  - Yu W
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Li, Xinnan
+AU  - Li X
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+AD  - Lingang Laboratory, Shanghai, China.
+FAU - Li, Wei
+AU  - Li W
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+AD  - Shanghai Clinical Research and Trial Center, Shanghai, China.
+FAU - Li, Lei
+AU  - Li L
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+AD  - Shanghai Clinical Research and Trial Center, Shanghai, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250225
+PL  - United States
+TA  - Autophagy
+JT  - Autophagy
+JID - 101265188
+SB  - IM
+OTO - NOTNLM
+OT  - Autophagy receptors
+OT  - CGG repeat expansions
+OT  - HSPB1
+OT  - RAN translation
+OT  - p62
+OT  - poly-glycine
+EDAT- 2025/02/12 12:25
+MHDA- 2025/02/12 12:25
+CRDT- 2025/02/12 07:44
+PHST- 2025/02/12 12:25 [pubmed]
+PHST- 2025/02/12 12:25 [medline]
+PHST- 2025/02/12 07:44 [entrez]
+AID - 10.1080/15548627.2025.2466144 [doi]
+PST - aheadofprint
+SO  - Autophagy. 2025 Feb 25:1-18. doi: 10.1080/15548627.2025.2466144.
+
+PMID- 39492694
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250203
+LR  - 20250203
 IS  - 1530-8561 (Electronic)
 IS  - 0009-9147 (Linking)
-DP  - 2024 Nov 4
+VI  - 71
+IP  - 2
+DP  - 2025 Feb 3
 TI  - dmTGS: Precise Targeted Enrichment Long-Read Sequencing Panel for Tandem Repeat 
       Detection.
-LID - hvae164 [pii]
+PG  - 319-331
 LID - 10.1093/clinchem/hvae164 [doi]
 AB  - BACKGROUND: Tandem repeats (TRs) are abundant in the human genome and associated 
       with repeat expansion disorders. Our study aimed to develop a tandem repeat panel 
@@ -104,24 +197,35 @@ AD  - Department of Neurology and Institute of Neurology of First Affiliated Hos
       Fujian Medical University, Fuzhou, China.
 LA  - eng
 PT  - Journal Article
-DEP - 20241104
 PL  - England
 TA  - Clin Chem
 JT  - Clinical chemistry
 JID - 9421549
+RN  - 139135-51-6 (Fragile X Mental Retardation Protein)
+RN  - 0 (FMR1 protein, human)
+RN  - 0 (DMPK protein, human)
+RN  - EC 2.7.11.1 (Myotonin-Protein Kinase)
 SB  - IM
+MH  - Humans
+MH  - *Tandem Repeat Sequences/genetics
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Mutation
+MH  - Fragile X Mental Retardation Protein/genetics
+MH  - Sequence Analysis, DNA/methods
+MH  - Myotonic Dystrophy/genetics/diagnosis
+MH  - Myotonin-Protein Kinase/genetics
 EDAT- 2024/11/04 06:22
-MHDA- 2024/11/04 06:22
+MHDA- 2025/02/03 18:20
 CRDT- 2024/11/04 03:53
 PHST- 2024/04/03 00:00 [received]
 PHST- 2024/09/17 00:00 [accepted]
-PHST- 2024/11/04 06:22 [medline]
+PHST- 2025/02/03 18:20 [medline]
 PHST- 2024/11/04 06:22 [pubmed]
 PHST- 2024/11/04 03:53 [entrez]
 AID - 7874402 [pii]
 AID - 10.1093/clinchem/hvae164 [doi]
-PST - aheadofprint
-SO  - Clin Chem. 2024 Nov 4:hvae164. doi: 10.1093/clinchem/hvae164.
+PST - ppublish
+SO  - Clin Chem. 2025 Feb 3;71(2):319-331. doi: 10.1093/clinchem/hvae164.
 
 PMID- 39418922
 OWN - NLM
@@ -408,7 +512,7 @@ SO  - J Neurol Neurosurg Psychiatry. 2025 Jan 16;96(2):140-149. doi:
 PMID- 38871700
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20250116
+LR  - 20250204
 IS  - 2054-345X (Print)
 IS  - 2054-345X (Electronic)
 IS  - 2054-345X (Linking)

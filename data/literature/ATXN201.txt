@@ -1,4 +1,479 @@
 
+PMID- 40004498
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250226
+LR  - 20250228
+IS  - 2073-4425 (Electronic)
+IS  - 2073-4425 (Linking)
+VI  - 16
+IP  - 2
+DP  - 2025 Jan 28
+TI  - Analysis of Short Tandem Repeat Expansions in a Cohort of 12,496 Exomes from 
+      Patients with Neurological Diseases Reveals Variable Genotyping Rate Dependent on 
+      Exome Capture Kits.
+LID - 10.3390/genes16020169 [doi]
+LID - 169
+AB  - BACKGROUND/OBJECTIVES: Short tandem repeat expansions are the most common cause 
+      of inherited neurological diseases. These disorders are clinically and 
+      genetically heterogeneous, such as in myotonic dystrophy and spinocerebellar 
+      ataxia, and they are caused by different repeat motifs in different genomic 
+      locations. Major advances in bioinformatic tools used to detect repeat expansions 
+      from short read sequencing data in the last few years have led to the 
+      implementation of these workflows into next generation sequencing pipelines in 
+      healthcare. Here, we aimed to evaluate the clinical utility of analysing repeat 
+      expansions through exome sequencing in a large cohort of genetically undiagnosed 
+      patients with neurological disorders. METHODS: We here analyse 27 disease-causing 
+      DNA repeats found in the coding, intronic and untranslated regions in 12,496 
+      exomes in patients with a range of neurogenetic conditions. RESULTS: We 
+      identified-and validated by polymerase chain reaction-29 repeat expansions across 
+      a range of loci, 48% (n = 14) of which were diagnostic. We then analysed the 
+      genotyping performance across all repeat loci and found that, despite high 
+      coverage in most repeats in coding regions, some loci had low genotyping rates, 
+      such as those that cause spinocerebellar ataxia 2 (ATXN2, 0.1-8.4%) and 
+      Huntington disease (HTT, 0.2-58.2%), depending on the capture kit. Conversely, 
+      while most intronic repeats were not genotyped, we found a high genotyping rate 
+      in the intronic locus that causes spinocerebellar ataxia 36 (NOP56, 30.1-98.3%) 
+      and in the one that causes myotonic dystrophy type 1 (DMPK, myotonic dystrophy 
+      type 1). CONCLUSIONS: We show that the key factors that influence the genotyping 
+      rate of repeat expansion loci analysis are the sequencing read length and exome 
+      capture kit. These results provide important information about the performance of 
+      exome sequencing as a genetic test for repeat expansion disorders.
+FAU - Rocca, Clarissa
+AU  - Rocca C
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Murphy, David
+AU  - Murphy D
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Clarkson, Chris
+AU  - Clarkson C
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+FAU - Zanovello, Matteo
+AU  - Zanovello M
+AUID- ORCID: 0000-0003-3343-1547
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Gagliardi, Delia
+AU  - Gagliardi D
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+AD  - Department of Pathophysiology and Transplantation (DEPT), University of Milan, 
+      20122 Milan, Italy.
+FAU - Genomics, Queen Square
+AU  - Genomics QS
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Kaiyrzhanov, Rauan
+AU  - Kaiyrzhanov R
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Alvi, Javeria
+AU  - Alvi J
+AD  - Department of Paediatric Neurology, The Children's Hospital and the University of 
+      Child Health Sciences, Lahore 54000, Punjab, Pakistan.
+FAU - Maroofian, Reza
+AU  - Maroofian R
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Efthymiou, Stephanie
+AU  - Efthymiou S
+AUID- ORCID: 0000-0003-4900-9877
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Sultan, Tipu
+AU  - Sultan T
+AD  - Department of Paediatric Neurology, The Children's Hospital and the University of 
+      Child Health Sciences, Lahore 54000, Punjab, Pakistan.
+FAU - Vandrovcova, Jana
+AU  - Vandrovcova J
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Polke, James
+AU  - Polke J
+AD  - Neurogenetics Unit, National Hospital for Neurology and Neurosurgery, London WC1N 
+      3BG, UK.
+FAU - Labrum, Robyn
+AU  - Labrum R
+AD  - Neurogenetics Unit, National Hospital for Neurology and Neurosurgery, London WC1N 
+      3BG, UK.
+FAU - Houlden, Henry
+AU  - Houlden H
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Tucci, Arianna
+AU  - Tucci A
+AUID- ORCID: 0000-0001-5644-0070
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+AD  - Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, 
+      University College London, London WC1E 6BT, UK.
+LA  - eng
+GR  - MR/S006753/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+DEP - 20250128
+PL  - Switzerland
+TA  - Genes (Basel)
+JT  - Genes
+JID - 101551097
+SB  - IM
+MH  - Humans
+MH  - *Nervous System Diseases/genetics
+MH  - *Microsatellite Repeats/genetics
+MH  - *Exome/genetics
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Exome Sequencing/methods
+MH  - Cohort Studies
+MH  - Male
+MH  - Genotype
+MH  - Female
+MH  - DNA Repeat Expansion/genetics
+MH  - Genotyping Techniques/methods
+MH  - Myotonic Dystrophy/genetics
+MH  - Spinocerebellar Ataxias/genetics
+PMC - PMC11855749
+OTO - NOTNLM
+OT  - ExpansionHunter
+OT  - Huntington disease
+OT  - exome sequencing
+OT  - myotonic dystrophy
+OT  - repeat expansion disease
+OT  - repeat expansion diseases
+OT  - short read sequencing
+OT  - short tandem repeat
+OT  - spinocerebellar ataxia
+COIS- The authors declare no conflicts of interest.
+EDAT- 2025/02/26 06:28
+MHDA- 2025/02/26 06:29
+PMCR- 2025/01/28
+CRDT- 2025/02/26 01:17
+PHST- 2024/12/15 00:00 [received]
+PHST- 2025/01/17 00:00 [revised]
+PHST- 2025/01/20 00:00 [accepted]
+PHST- 2025/02/26 06:29 [medline]
+PHST- 2025/02/26 06:28 [pubmed]
+PHST- 2025/02/26 01:17 [entrez]
+PHST- 2025/01/28 00:00 [pmc-release]
+AID - genes16020169 [pii]
+AID - genes-16-00169 [pii]
+AID - 10.3390/genes16020169 [doi]
+PST - epublish
+SO  - Genes (Basel). 2025 Jan 28;16(2):169. doi: 10.3390/genes16020169.
+
+PMID- 39956874
+OWN - NLM
+STAT- Publisher
+LR  - 20250216
+IS  - 1476-5438 (Electronic)
+IS  - 1018-4813 (Linking)
+DP  - 2025 Feb 16
+TI  - An observational study of pleiotropy and penetrance of amyotrophic lateral 
+      sclerosis associated with CAG-repeat expansion of ATXN2.
+LID - 10.1038/s41431-025-01811-2 [doi]
+AB  - Spinocerebellar ataxia type 2 (SCA2) and amyotrophic lateral sclerosis (ALS) are 
+      both associated with a CAG-repeat expansion in ATXN2 and with TDP-43-positive 
+      neuronal cytoplasmic inclusions. The two disorders have been viewed as distinct 
+      entities, where an intermediate length expansion of 31-33 CAG-repeats is 
+      associated with sporadic ALS and a full length expansion of >/=34 CAG-repeats is 
+      associated with SCA2. We report the clinical phenotype of ATXN2-positive patients 
+      and their relatives, identified in three specialist ALS clinics, which force a 
+      reconsideration of this dichotomy. We also report the frequency of ATXN2 
+      expansions in two large cohorts of ALS patients and in a population-matched 
+      cohort of controls. We report ten cases of familial ALS in which disease is 
+      associated with either an intermediate or a full-length ATXN2 CAG-repeat 
+      expansion. Pedigrees and patients feature additional phenotypes including 
+      parkinsonism, dementia and essential tremor (ET). We conclude that CAG-repeat 
+      expansions in ATXN2 exhibit pleiotropy and are associated with a disease spectrum 
+      that includes ALS, SCA2, and parkinsonism; to recognise this complexity we 
+      propose the new term 'ATXN2-related neurodegeneration'. We also observed sporadic 
+      ALS associated with full-length expansions. We conclude that ATXN2 CAG-repeat 
+      expansions, irrespective of length, should be considered a risk factor for ALS. 
+      Interrupted CAG-repeats were associated with an ALS phenotype in our data but we 
+      also identified ALS cases with uninterrupted expansions. Our findings have 
+      relevance for researchers, patients and families linked to CAG-repeat expansions 
+      in ATXN2.
+CI  - (c) 2025. The Author(s).
+FAU - Demaegd, Koen C
+AU  - Demaegd KC
+AUID- ORCID: 0000-0001-9606-0531
+AD  - Department of Neurology, Utrecht University, Utrecht, The Netherlands.
+FAU - Kernan, Aoife
+AU  - Kernan A
+AUID- ORCID: 0009-0001-3168-1262
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK.
+FAU - Cooper-Knock, Johnathan
+AU  - Cooper-Knock J
+AUID- ORCID: 0000-0002-0873-8689
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK. j.cooper-knock@sheffield.ac.uk.
+AD  - Department of Radiology and Nuclear Medicine, Utrecht University, Utrecht, The 
+      Netherlands. j.cooper-knock@sheffield.ac.uk.
+AD  - Department of Genetics, Utrecht University, Utrecht, The Netherlands. 
+      j.cooper-knock@sheffield.ac.uk.
+FAU - van Vugt, Joke J F A
+AU  - van Vugt JJFA
+AD  - Department of Neurology, Utrecht University, Utrecht, The Netherlands.
+FAU - Harvey, Calum
+AU  - Harvey C
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK.
+FAU - Moll, Tobias
+AU  - Moll T
+AUID- ORCID: 0000-0001-5928-2514
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK.
+FAU - O'Brien, David
+AU  - O'Brien D
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK.
+FAU - Gornall, Sarah
+AU  - Gornall S
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK.
+FAU - Drury, Luke
+AU  - Drury L
+AD  - PreventionGenetics, Part of Exact Sciences, Marshfield, WI, USA.
+FAU - Farhan, Sali M K
+AU  - Farhan SMK
+AD  - PreventionGenetics, Part of Exact Sciences, Marshfield, WI, USA.
+AD  - Montreal Neurological Institute-Hospital, McGill University, Montreal, QC, 
+      Canada.
+FAU - Dion, Patrick A
+AU  - Dion PA
+AD  - Montreal Neurological Institute-Hospital, McGill University, Montreal, QC, 
+      Canada.
+FAU - Rouleau, Guy A
+AU  - Rouleau GA
+AUID- ORCID: 0000-0001-8403-1418
+AD  - Montreal Neurological Institute-Hospital, McGill University, Montreal, QC, 
+      Canada.
+FAU - Western, Andrea
+AU  - Western A
+AD  - Sheffield Children's NHS Foundation Trust, Sheffield, UK.
+FAU - Parsons, Paul J
+AU  - Parsons PJ
+AD  - Sheffield Children's NHS Foundation Trust, Sheffield, UK.
+FAU - Mclean, Benjamin
+AU  - Mclean B
+AD  - University of North Carolina, Chapel Hill, NC, USA.
+FAU - Benatar, Michael
+AU  - Benatar M
+AD  - University of Miami, Miller School of Medicine, Coral Gables, FL, USA.
+FAU - van den Berg, Leonard H
+AU  - van den Berg LH
+AUID- ORCID: 0000-0002-6559-3965
+AD  - Department of Neurology, Utrecht University, Utrecht, The Netherlands.
+FAU - Van Damme, Philip
+AU  - Van Damme P
+AUID- ORCID: 0000-0002-4010-2357
+AD  - Neurology Department, University of Leuven (KU Leuven), Leuven, Belgium.
+FAU - Willem Dankbaar, Jan
+AU  - Willem Dankbaar J
+AD  - Department of Radiology and Nuclear Medicine, Utrecht University, Utrecht, The 
+      Netherlands.
+FAU - Hendrikse, Jeroen
+AU  - Hendrikse J
+AD  - Department of Radiology and Nuclear Medicine, Utrecht University, Utrecht, The 
+      Netherlands.
+FAU - Koole, Wouter
+AU  - Koole W
+AD  - Department of Genetics, Utrecht University, Utrecht, The Netherlands.
+FAU - de Bie, Charlotte
+AU  - de Bie C
+AD  - Department of Genetics, Utrecht University, Utrecht, The Netherlands.
+FAU - Hobson, Esther
+AU  - Hobson E
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK.
+AD  - Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK.
+AD  - NIHR Sheffield Biomedical Research Centre, Sheffield, UK.
+FAU - Veldink, Jan H
+AU  - Veldink JH
+AUID- ORCID: 0000-0001-5572-9657
+AD  - Department of Neurology, Utrecht University, Utrecht, The Netherlands.
+FAU - van de Warrenburg, Bart
+AU  - van de Warrenburg B
+AD  - Department of Neurology, Radboud University, Nijmegen, the Netherlands.
+FAU - Pasterkamp, R Jeroen
+AU  - Pasterkamp RJ
+AD  - Department of Translational Neuroscience, Utrecht University, Utrecht, The 
+      Netherlands.
+FAU - van Rheenen, Wouter
+AU  - van Rheenen W
+AUID- ORCID: 0000-0002-5860-1533
+AD  - Department of Neurology, Utrecht University, Utrecht, The Netherlands.
+FAU - Kirby, Janine
+AU  - Kirby J
+AUID- ORCID: 0000-0002-7468-5917
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK.
+AD  - NIHR Sheffield Biomedical Research Centre, Sheffield, UK.
+AD  - Neuroscience Institute, University of Sheffield, Sheffield, UK.
+FAU - Shaw, Pamela J
+AU  - Shaw PJ
+AD  - Sheffield Institute for Translational Neuroscience, University of Sheffield, 
+      Sheffield, UK.
+AD  - Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK.
+AD  - NIHR Sheffield Biomedical Research Centre, Sheffield, UK.
+AD  - Neuroscience Institute, University of Sheffield, Sheffield, UK.
+FAU - van Es, Michael A
+AU  - van Es MA
+AUID- ORCID: 0000-0002-7709-5883
+AD  - Department of Neurology, Utrecht University, Utrecht, The Netherlands. 
+      M.A.vanEs@umcutrecht.nl.
+LA  - eng
+GR  - 216596/Z/19/Z/Wellcome Trust (Wellcome)/
+GR  - 899-792/Motor Neurone Disease Association (MNDA)/
+GR  - 974-797/Motor Neurone Disease Association (MNDA)/
+GR  - 972-797/Motor Neurone Disease Association (MNDA)/
+GR  - U54 NS092091/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+DEP - 20250216
+PL  - England
+TA  - Eur J Hum Genet
+JT  - European journal of human genetics : EJHG
+JID - 9302235
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests. Ethical 
+      approval: The study was approved by the South Sheffield Research Ethics 
+      Committee. Also, this study followed study protocols approved by Medical Ethical 
+      Committees for each of the participating institutions. Written informed consent 
+      was obtained from all participating individuals. All methods were performed in 
+      accordance with relevant national and international guidelines and regulations.
+EDAT- 2025/02/17 00:21
+MHDA- 2025/02/17 00:21
+CRDT- 2025/02/16 23:17
+PHST- 2024/11/08 00:00 [received]
+PHST- 2025/02/04 00:00 [accepted]
+PHST- 2025/02/01 00:00 [revised]
+PHST- 2025/02/17 00:21 [medline]
+PHST- 2025/02/17 00:21 [pubmed]
+PHST- 2025/02/16 23:17 [entrez]
+AID - 10.1038/s41431-025-01811-2 [pii]
+AID - 10.1038/s41431-025-01811-2 [doi]
+PST - aheadofprint
+SO  - Eur J Hum Genet. 2025 Feb 16. doi: 10.1038/s41431-025-01811-2.
+
+PMID- 39940702
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250213
+LR  - 20250215
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 26
+IP  - 3
+DP  - 2025 Jan 23
+TI  - Localization of Potential Energy in Hydrogen Bonds of the ATXN2 Gene.
+LID - 10.3390/ijms26030933 [doi]
+LID - 933
+AB  - It is known that a number of neurodegenerative diseases, also called diseases of 
+      waiting, are associated with the expansion of the polyQ tract in the first exon 
+      of the ATXN2 gene. In the expanded polyQ tract, the probability of occurrence of 
+      non-canonical configurations (hairpins, G-quadruplexes, etc.) is significantly 
+      higher than in the normal one. Obviously, for their formation, the occurrence of 
+      open states (OSs) is necessary. Calculations were made for these processes using 
+      the angular mechanical model of DNA. It has been established that the probability 
+      of the large OS zones genesis in a DNA segment depends not only on the "strength" 
+      of the nucleotide sequence but also on the factors determining the dynamics of 
+      DNA; localization of the energy in the DNA molecule and the potential energy of 
+      interaction between pairs of nitrogenous bases also depend on environmental 
+      parameters. The potential energy of hydrogen bonds does not remain constant, and 
+      oscillatory movements lead to its redistribution and localization. In this case, 
+      OSs effectively dissipate the energy of oscillations. Thus, mathematical modeling 
+      makes it possible to calculate the localization of mechanical energy, which is 
+      necessary for the OSs formation, and to predict the places of their origin, 
+      taking into account the mechanical oscillations of the DNA molecule.
+FAU - Drobotenko, Mikhail
+AU  - Drobotenko M
+AD  - Research Department, Kuban State University, 350040 Krasnodar, Russia.
+FAU - Lyasota, Oksana
+AU  - Lyasota O
+AD  - Research Department, Kuban State University, 350040 Krasnodar, Russia.
+AD  - Laboratory of Problems of Stable Isotope Spreading in Living Systems, Southern 
+      Scientific Center of the Russian Academy of Sciences, 344006 Rostov-on-Don, 
+      Russia.
+FAU - Dzhimak, Stepan
+AU  - Dzhimak S
+AUID- ORCID: 0000-0003-2618-5376
+AD  - Research Department, Kuban State University, 350040 Krasnodar, Russia.
+AD  - Laboratory of Problems of Stable Isotope Spreading in Living Systems, Southern 
+      Scientific Center of the Russian Academy of Sciences, 344006 Rostov-on-Don, 
+      Russia.
+FAU - Svidlov, Alexandr
+AU  - Svidlov A
+AUID- ORCID: 0000-0001-7797-8005
+AD  - Laboratory of Problems of Stable Isotope Spreading in Living Systems, Southern 
+      Scientific Center of the Russian Academy of Sciences, 344006 Rostov-on-Don, 
+      Russia.
+FAU - Baryshev, Mikhail
+AU  - Baryshev M
+AD  - Laboratory of Problems of Stable Isotope Spreading in Living Systems, Southern 
+      Scientific Center of the Russian Academy of Sciences, 344006 Rostov-on-Don, 
+      Russia.
+FAU - Leontyeva, Olga
+AU  - Leontyeva O
+AD  - Research Department, Kuban State University, 350040 Krasnodar, Russia.
+FAU - Dorohova, Anna
+AU  - Dorohova A
+AUID- ORCID: 0000-0002-9452-0132
+AD  - Research Department, Kuban State University, 350040 Krasnodar, Russia.
+AD  - Laboratory of Problems of Stable Isotope Spreading in Living Systems, Southern 
+      Scientific Center of the Russian Academy of Sciences, 344006 Rostov-on-Don, 
+      Russia.
+LA  - eng
+GR  - 24-14-20014/the Russian Science Foundation and the Kuban Science Foundation/
+PT  - Journal Article
+DEP - 20250123
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Ataxin-2)
+RN  - 0 (ATXN2 protein, human)
+RN  - 9007-49-2 (DNA)
+RN  - 26700-71-0 (polyglutamine)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - *Hydrogen Bonding
+MH  - *Ataxin-2/genetics/metabolism
+MH  - Humans
+MH  - *DNA/metabolism/chemistry/genetics
+MH  - Nucleic Acid Conformation
+MH  - G-Quadruplexes
+MH  - Peptides/chemistry/metabolism/genetics
+PMC - PMC11816898
+OTO - NOTNLM
+OT  - ATXN2 gene
+OT  - CAG tract
+OT  - DNA model
+OT  - diseases of trinucleotide repeat expansion
+OT  - energy localization
+OT  - torque
+OT  - viscosity
+COIS- The authors declare no conflicts of interest.
+EDAT- 2025/02/13 11:01
+MHDA- 2025/02/13 11:02
+PMCR- 2025/01/23
+CRDT- 2025/02/13 01:03
+PHST- 2024/12/07 00:00 [received]
+PHST- 2025/01/20 00:00 [revised]
+PHST- 2025/01/21 00:00 [accepted]
+PHST- 2025/02/13 11:02 [medline]
+PHST- 2025/02/13 11:01 [pubmed]
+PHST- 2025/02/13 01:03 [entrez]
+PHST- 2025/01/23 00:00 [pmc-release]
+AID - ijms26030933 [pii]
+AID - ijms-26-00933 [pii]
+AID - 10.3390/ijms26030933 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2025 Jan 23;26(3):933. doi: 10.3390/ijms26030933.
+
 PMID- 39820777
 OWN - NLM
 STAT- MEDLINE
@@ -138,7 +613,7 @@ PMID- 39812846
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20250115
-LR  - 20250115
+LR  - 20250215
 IS  - 1432-1459 (Electronic)
 IS  - 0340-5354 (Linking)
 VI  - 272
@@ -762,7 +1237,7 @@ SO  - Stem Cell Res Ther. 2024 Nov 9;15(1):411. doi: 10.1186/s13287-024-04020-8.
 PMID- 39512795
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20241114
+LR  - 20250210
 IS  - 2376-7839 (Print)
 IS  - 2376-7839 (Electronic)
 IS  - 2376-7839 (Linking)
@@ -872,6 +1347,8 @@ AD  - From the Neurology (A.M.B., L.M.J., R.G., J.M.M.-T., K.A.J., H.B.); Speech
       Pathology (G.M., J.S., J.R.D., H.C., R.L.U.); Psychology (M.M.M.); and Radiology 
       (J.L.W.), Mayo Clinic, Rochester, MN.
 LA  - eng
+GR  - R01 DC012519/DC/NIDCD NIH HHS/United States
+GR  - R01 DC014942/DC/NIDCD NIH HHS/United States
 PT  - Journal Article
 DEP - 20241101
 PL  - United States
@@ -2209,7 +2686,7 @@ SO  - Brain Commun. 2024 Jun 29;6(4):fcae217. doi: 10.1093/braincomms/fcae217.
 PMID- 38715656
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20240509
+LR  - 20250301
 IS  - 2376-7839 (Print)
 IS  - 2376-7839 (Electronic)
 IS  - 2376-7839 (Linking)
@@ -2270,6 +2747,7 @@ FAU - Pulst, Stefan M
 AU  - Pulst SM
 AD  - From the Department of Neurology, University of Utah.
 LA  - eng
+GR  - R35 NS127253/NS/NINDS NIH HHS/United States
 PT  - Journal Article
 DEP - 20240328
 PL  - United States
@@ -3412,7 +3890,7 @@ PMID- 38227102
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240117
-LR  - 20240117
+LR  - 20250204
 IS  - 1573-4978 (Electronic)
 IS  - 0301-4851 (Linking)
 VI  - 51

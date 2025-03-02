@@ -1,12 +1,13 @@
 
 PMID- 39755011
 OWN - NLM
-STAT- Publisher
-LR  - 20250104
+STAT- MEDLINE
+DCOM- 20250220
+LR  - 20250220
 IS  - 1876-7753 (Electronic)
 IS  - 1873-5061 (Linking)
 VI  - 83
-DP  - 2024 Dec 30
+DP  - 2025 Mar
 TI  - Generation of an induced pluripotent stem cell line from a Kennedy Disease 
       patient with AR mutation.
 PG  - 103649
@@ -19,7 +20,7 @@ AB  - A human induced pluripotent stem cell (iPSC) line was generated from patie
       expresses pluripotency markers, displays a normal karyotype, and is capable of 
       differentiate into three germ layers in vitro. This iPSC line represents a 
       valuable cell model for studing KD in humans.
-CI  - Copyright (c) 2024. Published by Elsevier B.V.
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier B.V. All rights reserved.
 FAU - Zhang, Meng
 AU  - Zhang M
 AD  - Emergency and Critical Care Department, University of Health and Rehabilitation 
@@ -53,22 +54,33 @@ TA  - Stem Cell Res
 JT  - Stem cell research
 JID - 101316957
 SB  - IM
+MH  - Humans
+MH  - *Induced Pluripotent Stem Cells/metabolism
+MH  - *Mutation
+MH  - *Bulbo-Spinal Atrophy, X-Linked/genetics/pathology/metabolism
+MH  - Cell Line
+MH  - Cell Differentiation
+MH  - Male
+MH  - Cellular Reprogramming
+MH  - Karyotype
+MH  - Leukocytes, Mononuclear/metabolism/cytology
 COIS- Declaration of competing interest The authors declare that they have no known 
       competing financial interests or personal relationships that could have appeared 
       to influence the work reported in this paper.
 EDAT- 2025/01/05 06:13
-MHDA- 2025/01/05 06:13
+MHDA- 2025/02/21 00:21
 CRDT- 2025/01/04 18:09
 PHST- 2024/08/26 00:00 [received]
 PHST- 2024/12/27 00:00 [revised]
 PHST- 2024/12/29 00:00 [accepted]
-PHST- 2025/01/05 06:13 [medline]
+PHST- 2025/02/21 00:21 [medline]
 PHST- 2025/01/05 06:13 [pubmed]
 PHST- 2025/01/04 18:09 [entrez]
 AID - S1873-5061(24)00347-7 [pii]
 AID - 10.1016/j.scr.2024.103649 [doi]
-PST - aheadofprint
-SO  - Stem Cell Res. 2024 Dec 30;83:103649. doi: 10.1016/j.scr.2024.103649.
+PST - ppublish
+SO  - Stem Cell Res. 2025 Mar;83:103649. doi: 10.1016/j.scr.2024.103649. Epub 2024 Dec 
+      30.
 
 PMID- 39729861
 OWN - NLM
@@ -789,7 +801,7 @@ PMID- 38860410
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240902
-LR  - 20240902
+LR  - 20250228
 IS  - 1399-0004 (Electronic)
 IS  - 0009-9163 (Linking)
 VI  - 106
@@ -855,18 +867,14 @@ JID - 0253664
 RN  - 0 (Formins)
 SB  - IM
 MH  - Humans
-MH  - *Nephrotic Syndrome/genetics/pathology
-MH  - *Phenotype
-MH  - Male
-MH  - *Siblings
-MH  - Female
-MH  - India
 MH  - *Exome Sequencing
-MH  - Pedigree
-MH  - Child
 MH  - Formins/genetics
-MH  - Child, Preschool
+MH  - India
 MH  - Mutation
+MH  - *Nephrotic Syndrome/genetics/pathology
+MH  - Pedigree
+MH  - *Phenotype
+MH  - *Siblings
 OTO - NOTNLM
 OT  - Asian Indian
 OT  - DAAM2
@@ -1437,7 +1445,7 @@ PMID- 38171945
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240206
-LR  - 20240404
+LR  - 20250202
 IS  - 1938-0666 (Electronic)
 IS  - 1526-8209 (Print)
 IS  - 1526-8209 (Linking)
@@ -1537,10 +1545,10 @@ CRDT- 2024/01/03 21:53
 PHST- 2023/05/22 00:00 [received]
 PHST- 2023/09/26 00:00 [revised]
 PHST- 2023/11/20 00:00 [accepted]
-PHST- 2025/02/01 00:00 [pmc-release]
 PHST- 2024/02/06 06:42 [medline]
 PHST- 2024/01/04 11:43 [pubmed]
 PHST- 2024/01/03 21:53 [entrez]
+PHST- 2025/02/01 00:00 [pmc-release]
 AID - S1526-8209(23)00301-4 [pii]
 AID - 10.1016/j.clbc.2023.11.006 [doi]
 PST - ppublish
@@ -15516,7 +15524,7 @@ LA  - eng
 PT  - Comparative Study
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-PL  - Netherlands
+PL  - United States
 TA  - Cancer Biomark
 JT  - Cancer biomarkers : section A of Disease markers
 JID - 101256509
@@ -17578,7 +17586,7 @@ LA  - eng
 PT  - Journal Article
 PT  - Retracted Publication
 DEP - 20140914
-PL  - Netherlands
+PL  - United States
 TA  - Tumour Biol
 JT  - Tumour biology : the journal of the International Society for Oncodevelopmental 
       Biology and Medicine
@@ -40169,7 +40177,7 @@ PMID- 10419869
 OWN - NLM
 STAT- MEDLINE
 DCOM- 19990917
-LR  - 20190503
+LR  - 20250214
 IS  - 0003-4967 (Print)
 IS  - 1468-2060 (Electronic)
 IS  - 0003-4967 (Linking)
@@ -40242,6 +40250,7 @@ PHST- 1999/07/27 00:00 [pubmed]
 PHST- 1999/07/27 00:01 [medline]
 PHST- 1999/07/27 00:00 [entrez]
 PHST- 2002/08/01 00:00 [pmc-release]
+AID - S0003-4967(24)43600-5 [pii]
 AID - 10.1136/ard.58.8.500 [doi]
 PST - ppublish
 SO  - Ann Rheum Dis. 1999 Aug;58(8):500-2. doi: 10.1136/ard.58.8.500.

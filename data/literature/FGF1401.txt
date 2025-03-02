@@ -1,4 +1,509 @@
 
+PMID- 40017559
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250301
+IS  - 2376-7839 (Print)
+IS  - 2376-7839 (Electronic)
+IS  - 2376-7839 (Linking)
+VI  - 11
+IP  - 2
+DP  - 2025 Apr
+TI  - High Prevalence of the Intronic GAA-FGF14 Repeat Expansion in Dutch Patients With 
+      Late-Onset Ataxia.
+PG  - e200244
+LID - 10.1212/NXG.0000000000200244 [doi]
+LID - e200244
+AB  - BACKGROUND AND OBJECTIVES: A pathogenic GAA repeat expansion in the first intron 
+      of the fibroblast growth factor 14 (FGF14) gene was recently identified as a 
+      common cause of late-onset spinocerebellar ataxia in various populations. In our 
+      hospital, approximately 85% of adult-onset ataxia cases remain genetically 
+      unsolved and the prevalence of the GAA-FGF14 repeat expansion is unknown. We, 
+      therefore, screened 248 Dutch individuals with adult-onset spinocerebellar ataxia 
+      for GAA-FGF14 repeat expansions using a combination of long-range PCR (LR-PCR) 
+      and repeat-primed PCR (RP-PCR) and assessed their clinical presentation. METHODS: 
+      Genomic DNA samples from 248 genetically unsolved patients with adult-onset 
+      ataxia were first tested by LR-PCR spanning the intronic FGF14 repeat locus to 
+      detect expanded alleles. The correct repeat motif was verified by RP-PCR of the 
+      GAA and another prevalent repeat, GAAGGA. GAA-positive repeats were accurately 
+      sized with fluorescent LR-PCR and fragment length analysis. Three samples were 
+      validated using Oxford Nanopore Technologies long-read sequencing. Clinical data 
+      of the patients with GAA(>/=250)-FGF14 were collected retrospectively. RESULTS: The 
+      (likely) pathogenic GAA(>/=250)-FGF14 repeat expansion was identified in 28 
+      patients, resulting in a total diagnostic yield of 11%. These patients commonly 
+      presented with late-onset gait ataxia, vertigo, and nystagmus. Nine individuals 
+      had a GAAGGA expansion that is considered nonpathogenic. DISCUSSION: We conclude 
+      that GAA-FGF14 repeat expansions are one of the most common known genetic causes 
+      of late-onset spinocerebellar ataxia in patients referred to our hospital, which 
+      is comparable with studies in other populations. The inclusion of GAA-FGF14 
+      genetic testing will significantly improve the diagnostic yield.
+CI  - Copyright (c) 2025 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+      behalf of the American Academy of Neurology.
+FAU - Ignjatijevic, Ana
+AU  - Ignjatijevic A
+AUID- ORCID: 0009-0009-8102-0743
+AD  - Department of Genetics, University Medical Center Groningen, University of 
+      Groningen, The Netherlands; and.
+FAU - Boorsma, Femke
+AU  - Boorsma F
+AUID- ORCID: 0009-0004-6454-5533
+AD  - Department of Genetics, University Medical Center Groningen, University of 
+      Groningen, The Netherlands; and.
+FAU - Wierenga, Elles
+AU  - Wierenga E
+AD  - Department of Genetics, University Medical Center Groningen, University of 
+      Groningen, The Netherlands; and.
+FAU - Vansenne, Fleur
+AU  - Vansenne F
+AUID- ORCID: 0000-0002-0156-3417
+AD  - Department of Genetics, University Medical Center Groningen, University of 
+      Groningen, The Netherlands; and.
+FAU - Verschuuren-Bemelmans, Corien C
+AU  - Verschuuren-Bemelmans CC
+AUID- ORCID: 0009-0001-5083-6530
+AD  - Department of Genetics, University Medical Center Groningen, University of 
+      Groningen, The Netherlands; and.
+FAU - de Vries, Jeroen
+AU  - de Vries J
+AUID- ORCID: 0000-0002-7534-4161
+AD  - Department of Neurology, University Medical Center Groningen, University of 
+      Groningen, The Netherlands.
+FAU - Verbeek, Dineke S
+AU  - Verbeek DS
+AUID- ORCID: 0000-0002-4759-7006
+AD  - Department of Genetics, University Medical Center Groningen, University of 
+      Groningen, The Netherlands; and.
+FAU - Westers, Helga
+AU  - Westers H
+AUID- ORCID: 0000-0001-8291-5949
+AD  - Department of Genetics, University Medical Center Groningen, University of 
+      Groningen, The Netherlands; and.
+FAU - van Diemen, Cleo C
+AU  - van Diemen CC
+AUID- ORCID: 0000-0001-9283-2207
+AD  - Department of Genetics, University Medical Center Groningen, University of 
+      Groningen, The Netherlands; and.
+LA  - eng
+PT  - Journal Article
+DEP - 20250225
+PL  - United States
+TA  - Neurol Genet
+JT  - Neurology. Genetics
+JID - 101671068
+PMC - PMC11867191
+COIS- The authors report no relevant disclosures. Go to Neurology.org/NG for full 
+      disclosures.
+EDAT- 2025/02/28 06:22
+MHDA- 2025/02/28 06:23
+PMCR- 2025/02/25
+CRDT- 2025/02/28 04:55
+PHST- 2024/09/30 00:00 [received]
+PHST- 2025/01/06 00:00 [accepted]
+PHST- 2025/02/28 06:23 [medline]
+PHST- 2025/02/28 06:22 [pubmed]
+PHST- 2025/02/28 04:55 [entrez]
+PHST- 2025/02/25 00:00 [pmc-release]
+AID - NXG-2024-100271 [pii]
+AID - 10.1212/NXG.0000000000200244 [doi]
+PST - epublish
+SO  - Neurol Genet. 2025 Feb 25;11(2):e200244. doi: 10.1212/NXG.0000000000200244. 
+      eCollection 2025 Apr.
+
+PMID- 40007153
+OWN - NLM
+STAT- Publisher
+LR  - 20250226
+IS  - 2328-9503 (Electronic)
+IS  - 2328-9503 (Linking)
+DP  - 2025 Feb 25
+TI  - Targeted Long-Read Sequencing as a Single Assay Improves the Diagnosis of 
+      Spastic-Ataxia Disorders.
+LID - 10.1002/acn3.70008 [doi]
+AB  - OBJECTIVE: The hereditary spastic-ataxia spectrum disorders are a group of 
+      disabling neurological diseases. The traditional genetic testing pathway is 
+      complex, multistep and leaves many cases unsolved. We aim to streamline and 
+      improve this process using long-read sequencing. METHODS: We developed a targeted 
+      long-read sequencing strategy with the capacity to characterise the genetic 
+      variation of all types and sizes within 469 disease-associated genes, in a single 
+      assay. We applied this to a cohort of 34 individuals with unsolved 
+      spastic-ataxia. An additional five individuals with a known genetic diagnosis 
+      were included as positive controls. RESULTS: We identified causative pathogenic 
+      variants that would be sufficient for genetic diagnosis in 14/34 (41%) unsolved 
+      participants. The success rate was 5/11 (45%) in those who were naive to genetic 
+      testing and 9/23 (39%) in those who were undiagnosed after prior genetic testing, 
+      completed on a clinical basis. Short tandem repeat expansions in FGF14 were the 
+      most common (7/34, 21%). Two individuals (2/34, 6%) had biallelic pathogenic 
+      expansions in RFC1 and one individual had a monoallelic pathogenic expansion in 
+      ATXN8OS/ATXN8. Causative pathogenic sequence variants other than short tandem 
+      repeat expansions were found in four individuals, including in VCP, STUB1, ANO10 
+      and SPG7. Furthermore, all five positive controls were identified. 
+      INTERPRETATION: Our results demonstrate the utility of targeted long-read 
+      sequencing in the genetic evaluation of patients with spastic-ataxia spectrum 
+      disorders, highlighting both the capacity to increase overall diagnostic yield 
+      and to streamline the testing pathway by capturing all known genetic causes in a 
+      single assay.
+CI  - (c) 2025 The Author(s). Annals of Clinical and Translational Neurology published by 
+      Wiley Periodicals LLC on behalf of American Neurological Association.
+FAU - Rudaks, Laura Ivete
+AU  - Rudaks LI
+AUID- ORCID: 0000-0002-1100-319X
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Clinical Genetics Unit, Royal North Shore Hospital, St Leonards, New South Wales, 
+      Australia.
+FAU - Stevanovski, Igor
+AU  - Stevanovski I
+AUID- ORCID: 0000-0002-7713-1979
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Centre for Population Genomics, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+FAU - Yeow, Dennis
+AU  - Yeow D
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Neurodegenerative Service, Prince of Wales Hospital, Randwick, New South Wales, 
+      Australia.
+AD  - Neuroscience Research Australia, Randwick, New South Wales, Australia.
+FAU - Reis, Andre L M
+AU  - Reis ALM
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Centre for Population Genomics, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Faculty of Medicine, University of New South Wales, Kensington, New South Wales, 
+      Australia.
+FAU - Chintalaphani, Sanjog R
+AU  - Chintalaphani SR
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+FAU - Cheong, Pak Leng
+AU  - Cheong PL
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+FAU - Gamaarachchi, Hasindu
+AU  - Gamaarachchi H
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Centre for Population Genomics, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - School of Computer Science and Engineering, University of New South Wales, 
+      Kensington, New South Wales, Australia.
+FAU - Worgan, Lisa
+AU  - Worgan L
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Clinical Genetics Service, Royal Prince Alfred Hospital, Camperdown, New South 
+      Wales, Australia.
+FAU - Ahmad, Kate
+AU  - Ahmad K
+AD  - Neurology Department, Royal North Shore Hospital, St Leonards, New South Wales, 
+      Australia.
+FAU - Hayes, Michael
+AU  - Hayes M
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+FAU - Hannaford, Andrew
+AU  - Hannaford A
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+FAU - Kim, Samuel
+AU  - Kim S
+AD  - Movement Disorders Unit, Neurology Department, Westmead Hospital, Westmead, New 
+      South Wales, Australia.
+FAU - Fung, Victor S C
+AU  - Fung VSC
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Movement Disorders Unit, Neurology Department, Westmead Hospital, Westmead, New 
+      South Wales, Australia.
+FAU - Halmagyi, Gabor M
+AU  - Halmagyi GM
+AD  - Neurology Department, Royal Prince Alfred Hospital, Camperdown, New South Wales, 
+      Australia.
+FAU - Martin, Andrew
+AU  - Martin A
+AD  - Movement Disorders Unit, Neurology Department, Westmead Hospital, Westmead, New 
+      South Wales, Australia.
+FAU - Manser, David
+AU  - Manser D
+AD  - Department of Genetic Medicine, Westmead Hospital, Westmead, New South Wales, 
+      Australia.
+FAU - Tchan, Michel
+AU  - Tchan M
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Department of Genetic Medicine, Westmead Hospital, Westmead, New South Wales, 
+      Australia.
+FAU - Ng, Karl
+AU  - Ng K
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Neurology Department, Royal North Shore Hospital, St Leonards, New South Wales, 
+      Australia.
+FAU - Kennerson, Marina L
+AU  - Kennerson ML
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - The Northcott Neuroscience Laboratory, ANZAC Research Institute, Sydney Local 
+      Health District, Concord, New South Wales, Australia.
+FAU - Deveson, Ira W
+AU  - Deveson IW
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - Faculty of Medicine, University of New South Wales, Kensington, New South Wales, 
+      Australia.
+AD  - School of Clinical Medicine, Faculty of Medicine and Health, St Vincent's 
+      Healthcare Clinical Campus, University of New South Wales, Darlinghurst, New 
+      South Wales, Australia.
+FAU - Kumar, Kishore Raj
+AU  - Kumar KR
+AUID- ORCID: 0000-0003-3482-6962
+AD  - Molecular Medicine Laboratory and Neurology Department, Concord Repatriation 
+      General Hospital, Concord, New South Wales, Australia.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, New South 
+      Wales, Australia.
+AD  - Genomic and Inherited Disease Program, The Garvan Institute of Medical Research, 
+      Darlinghurst, New South Wales, Australia.
+AD  - School of Clinical Medicine, Faculty of Medicine and Health, St Vincent's 
+      Healthcare Clinical Campus, University of New South Wales, Darlinghurst, New 
+      South Wales, Australia.
+LA  - eng
+GR  - MRF2023126/Medical Research Future Fund/
+GR  - MRF2025138/Medical Research Future Fund/
+PT  - Journal Article
+DEP - 20250225
+PL  - United States
+TA  - Ann Clin Transl Neurol
+JT  - Annals of clinical and translational neurology
+JID - 101623278
+SB  - IM
+OTO - NOTNLM
+OT  - hereditary cerebellar ataxia
+OT  - hereditary spastic paraplegia
+OT  - nanopore sequencing
+OT  - spinocerebellar ataxia
+EDAT- 2025/02/26 06:29
+MHDA- 2025/02/26 06:29
+CRDT- 2025/02/26 01:53
+PHST- 2024/12/26 00:00 [received]
+PHST- 2025/01/19 00:00 [accepted]
+PHST- 2025/02/26 06:29 [medline]
+PHST- 2025/02/26 06:29 [pubmed]
+PHST- 2025/02/26 01:53 [entrez]
+AID - 10.1002/acn3.70008 [doi]
+PST - aheadofprint
+SO  - Ann Clin Transl Neurol. 2025 Feb 25. doi: 10.1002/acn3.70008.
+
+PMID- 39996128
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250226
+IS  - 2376-7839 (Print)
+IS  - 2376-7839 (Electronic)
+IS  - 2376-7839 (Linking)
+VI  - 11
+IP  - 2
+DP  - 2025 Apr
+TI  - Involvement of the Superior Cerebellar Peduncles in GAA-FGF14 Ataxia.
+PG  - e200253
+LID - 10.1212/NXG.0000000000200253 [doi]
+LID - e200253
+AB  - OBJECTIVES: GAA-FGF14 ataxia (SCA27B) is a recently reported late-onset ataxia 
+      caused by a GAA repeat expansion in intron 1 of the FGF14 gene. After the 
+      clinical observation of superior cerebellar peduncle (SCP) involvement in some 
+      affected patients, we sought to verify the prevalence of this finding in our 
+      cohort and 4 additional independent cohorts of patients with SCA27B. METHODS: We 
+      performed a retrospective review of the brain MRI scans of a total of 87 patients 
+      (median age at MRI 69 years; range 28-88 years) from different independent 
+      cohorts to assess the presence of SCP involvement, defined as abnormally high T2 
+      signal along the SCP tract. RESULTS: We observed SCP involvement in 52 patients 
+      (52/87; 59.8%) from all the cohorts combined. The finding was replicated at rates 
+      ranging from 50% to 62.8% in the cohorts taken separately. DISCUSSION: SCP 
+      involvement in SCA27B is frequent. Its detection may facilitate the diagnostic 
+      process of patients with SCA27B.
+CI  - Copyright (c) 2025 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+      behalf of the American Academy of Neurology.
+FAU - Chen, Shihan
+AU  - Chen S
+AUID- ORCID: 0009-0006-2898-9975
+AD  - Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill 
+      University, Quebec, Canada.
+FAU - Ashton, Catherine
+AU  - Ashton C
+AUID- ORCID: 0000-0001-8042-6180
+AD  - Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill 
+      University, Quebec, Canada.
+AD  - Department of Neurology, Royal Perth Hospital, Perth, Western Australia.
+FAU - Sakalla, Rawan
+AU  - Sakalla R
+AUID- ORCID: 0000-0002-8469-3291
+AD  - Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill 
+      University, Quebec, Canada.
+FAU - Clement, Guillemette
+AU  - Clement G
+AUID- ORCID: 0000-0001-8412-2651
+AD  - Service de Neurologie, CHRU de Nancy, France.
+FAU - Planel, Sophie
+AU  - Planel S
+AUID- ORCID: 0000-0001-5913-2268
+AD  - Service de Neurologie, CHRU de Nancy, France.
+FAU - Bonnet, Celine
+AU  - Bonnet C
+AUID- ORCID: 0000-0002-6799-0438
+AD  - Service de Neurologie, CHRU de Nancy, France.
+FAU - Lamont, Phillipa J
+AU  - Lamont PJ
+AUID- ORCID: 0000-0002-4209-5015
+AD  - Department of Neurology, Royal Perth Hospital, Perth, Western Australia.
+FAU - Kulanthaivelu, Karthik
+AU  - Kulanthaivelu K
+AUID- ORCID: 0000-0002-1585-8769
+AD  - Department of Neuro Imaging and Interventional Radiology, National Institute of 
+      Mental Health and Neurosciences, Bengaluru, India.
+FAU - Nalini, Atchayaram
+AU  - Nalini A
+AUID- ORCID: 0000-0001-9791-3639
+AD  - Department of Neurology, National Institute of Mental Health and Neurosciences, 
+      Bengaluru, India.
+FAU - Houlden, Henry
+AU  - Houlden H
+AUID- ORCID: 0000-0002-2866-7777
+AD  - Department of Neuromuscular Disease, UCL Queen Square Institute of Neurology and 
+      The National Hospital for Neurology and Neurosurgery, University College London, 
+      United Kingdom.
+FAU - Duquette, Antoine
+AU  - Duquette A
+AUID- ORCID: 0000-0002-8313-4068
+AD  - Department of Neurosciences, Faculty of Medicine, Universite de Montreal; Centre 
+      de Recherche du Centre Hospitalier de l'Universite de Montreal (CRCHUM), Quebec, 
+      Canada.
+FAU - Dicaire, Marie-Josee
+AU  - Dicaire MJ
+AUID- ORCID: 0009-0003-0938-1268
+AD  - Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill 
+      University, Quebec, Canada.
+FAU - Iruzubieta Agudo, Pablo
+AU  - Iruzubieta Agudo P
+AUID- ORCID: 0000-0003-0331-6222
+AD  - Department of Neurology, University Hospital of Donostia, Biogipuzkoa Health 
+      Research Institute, San Sebastian, Spain.
+FAU - Ruiz-Martinez, Javier
+AU  - Ruiz-Martinez J
+AUID- ORCID: 0000-0001-7326-6270
+AD  - Department of Neurology, University Hospital of Donostia, Biogipuzkoa Health 
+      Research Institute, San Sebastian, Spain.
+FAU - Marco De Lucas, Enrique
+AU  - Marco De Lucas E
+AUID- ORCID: 0009-0005-6811-6776
+AD  - Department of Radiology, University of Cantabria, Spain.
+FAU - Sutil Berjon, Rodrigo
+AU  - Sutil Berjon R
+AUID- ORCID: 0009-0002-1364-4561
+AD  - Department of Radiology, University of Cantabria, Spain.
+FAU - Infante Ceberio, Jon
+AU  - Infante Ceberio J
+AUID- ORCID: 0000-0003-4025-4606
+AD  - Department of Medicine and Psychiatry, University of Cantabria, Spain.
+FAU - Indelicato, Elisabetta
+AU  - Indelicato E
+AUID- ORCID: 0000-0003-0217-8630
+AD  - Department of Neurology, Medical University of Innsbruck, Austria.
+FAU - Boesch, Sylvia M
+AU  - Boesch SM
+AUID- ORCID: 0000-0003-1657-7368
+AD  - Department of Neurology, Medical University of Innsbruck, Austria.
+FAU - Synofzik, Matthis
+AU  - Synofzik M
+AUID- ORCID: 0000-0002-2280-7273
+AD  - Division Translational Genomics of Neurodegenerative Diseases, Center for 
+      Neurology and Hertie-Institute for Clinical Brain Research, University of 
+      Tubingen, Germany.
+AD  - German Center for Neurodegenerative Diseases (DZNE), Tubingen, Germany.
+FAU - Bender, Benjamin
+AU  - Bender B
+AUID- ORCID: 0000-0002-3205-4631
+AD  - Department of Diagnostic and Interventional Neuroradiology, University of 
+      Tubingen, Germany.
+FAU - Danzi, Matt C
+AU  - Danzi MC
+AUID- ORCID: 0000-0003-1568-5965
+AD  - Department of Human Genetics, University of Miami Miller School of Medicine, 
+      Miami, FL.
+FAU - Zuchner, Stephan
+AU  - Zuchner S
+AUID- ORCID: 0000-0002-8498-5235
+AD  - Department of Human Genetics, University of Miami Miller School of Medicine, 
+      Miami, FL.
+FAU - Pellerin, David
+AU  - Pellerin D
+AUID- ORCID: 0000-0002-5807-995X
+AD  - Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill 
+      University, Quebec, Canada.
+AD  - Department of Neuromuscular Disease, UCL Queen Square Institute of Neurology and 
+      The National Hospital for Neurology and Neurosurgery, University College London, 
+      United Kingdom.
+FAU - Brais, Bernard
+AU  - Brais B
+AUID- ORCID: 0000-0003-1394-3561
+AD  - Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill 
+      University, Quebec, Canada.
+AD  - The Neuro (Montreal Neurological Institute-Hospital), McGill University; and.
+FAU - Renaud, Mathilde
+AU  - Renaud M
+AUID- ORCID: 0000-0002-0061-9378
+AD  - Service de Neurologie, CHRU de Nancy, France.
+FAU - La Piana, Roberta
+AU  - La Piana R
+AUID- ORCID: 0000-0002-4207-5065
+AD  - Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill 
+      University, Quebec, Canada.
+AD  - The Neuro (Montreal Neurological Institute-Hospital), McGill University; and.
+AD  - Department of Diagnostic Radiology, McGill University, Montreal, Quebec, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20250221
+PL  - United States
+TA  - Neurol Genet
+JT  - Neurology. Genetics
+JID - 101671068
+PMC - PMC11849524
+COIS- A. Duquette has received consultancy honoraria from AavantiBio, Novartis, Pfizer 
+      Canada, PTC Therapeutics, and Reata Pharmaceuticals, all unrelated to the present 
+      manuscript. M. Synofzik has received consultancy honoraria from Ionis, UCB, 
+      Prevail, Orphazyme, Servier, Reata, GenOrph, AviadoBio, Biohaven, Zevra, Lilly, 
+      and Solaxa, all unrelated to the present manuscript. B. Bender is the cofounder, 
+      shareholder and CTO of AIRAmed GmbH. R. La Piana has received speaking honoraria 
+      from Novartis unrelated to the present manuscript. Go to Neurology.org/NG for 
+      full disclosures.
+EDAT- 2025/02/25 06:21
+MHDA- 2025/02/25 06:22
+PMCR- 2025/02/21
+CRDT- 2025/02/25 04:45
+PHST- 2024/10/24 00:00 [received]
+PHST- 2025/01/21 00:00 [accepted]
+PHST- 2025/02/25 06:22 [medline]
+PHST- 2025/02/25 06:21 [pubmed]
+PHST- 2025/02/25 04:45 [entrez]
+PHST- 2025/02/21 00:00 [pmc-release]
+AID - NXG-2024-100299 [pii]
+AID - 10.1212/NXG.0000000000200253 [doi]
+PST - epublish
+SO  - Neurol Genet. 2025 Feb 21;11(2):e200253. doi: 10.1212/NXG.0000000000200253. 
+      eCollection 2025 Apr.
+
 PMID- 39821862
 OWN - NLM
 STAT- MEDLINE
@@ -1552,7 +2057,7 @@ PMID- 39263992
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241114
-LR  - 20241122
+LR  - 20250213
 IS  - 1531-8249 (Electronic)
 IS  - 0364-5134 (Print)
 IS  - 0364-5134 (Linking)
@@ -1731,6 +2236,7 @@ LA  - eng
 GR  - R35 NS116868/NS/NINDS NIH HHS/United States
 GR  - National Ataxia Foundation/
 GR  - NINDS R35NS116868/
+GR  - R35 NS122302/NS/NINDS NIH HHS/United States
 GR  - Raynor Cerebellum project/
 GR  - R01 NS078560/NS/NINDS NIH HHS/United States
 GR  - CAPMC/CIHR/Canada
@@ -2294,7 +2800,7 @@ PMID- 38976084
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241104
-LR  - 20241104
+LR  - 20250206
 IS  - 1364-6753 (Electronic)
 IS  - 1364-6745 (Linking)
 VI  - 25

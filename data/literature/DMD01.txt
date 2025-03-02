@@ -2,7 +2,7 @@
 PMID- 39874107
 OWN - NLM
 STAT- Publisher
-LR  - 20250130
+LR  - 20250204
 IS  - 2379-3708 (Electronic)
 IS  - 2379-3708 (Linking)
 DP  - 2025 Jan 28
@@ -49,6 +49,8 @@ TA  - JCI Insight
 JT  - JCI insight
 JID - 101676073
 SB  - IM
+UOF - bioRxiv. 2025 Jan 02:2024.10.06.616900. doi: 10.1101/2024.10.06.616900. PMID: 
+      39803454
 OTO - NOTNLM
 OT  - Cell biology
 OT  - Muscle biology
@@ -70,7 +72,7 @@ SO  - JCI Insight. 2025 Jan 28:e187825. doi: 10.1172/jci.insight.187825.
 PMID- 39803454
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20250117
+LR  - 20250205
 IS  - 2692-8205 (Electronic)
 IS  - 2692-8205 (Linking)
 DP  - 2025 Jan 2
@@ -124,6 +126,7 @@ PL  - United States
 TA  - bioRxiv
 JT  - bioRxiv : the preprint server for biology
 JID - 101680187
+UIN - JCI Insight. 2025 Jan 28:e187825. doi: 10.1172/jci.insight.187825. PMID: 39874107
 PMC - PMC11722277
 OTO - NOTNLM
 OT  - Muscle regeneration
@@ -359,8 +362,9 @@ PMID- 38290145
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240201
-LR  - 20240201
+LR  - 20250222
 IS  - 1531-5487 (Electronic)
+IS  - 1044-3983 (Print)
 IS  - 1044-3983 (Linking)
 VI  - 35
 IP  - 2
@@ -418,6 +422,8 @@ AU  - Basu S
 AD  - Center for Primary Care, Harvard Medical School, Boston, MA.
 AD  - Research and Development, Waymark, San Francisco, CA.
 LA  - eng
+GR  - K01 MD014163/MD/NIMHD NIH HHS/United States
+GR  - P2C HD041022/HD/NICHD NIH HHS/United States
 PT  - Journal Article
 DEP - 20230130
 PL  - United States
@@ -439,13 +445,17 @@ MH  - Black or African American
 MH  - *Health Status Disparities
 MH  - Racial Groups
 MH  - Sex Factors
+PMC - PMC11839283
+MID - NIHMS2055570
 COIS- The authors report no conflicts of interest.
 EDAT- 2024/01/30 18:42
 MHDA- 2024/02/01 06:42
+PMCR- 2025/02/19
 CRDT- 2024/01/30 17:25
 PHST- 2024/02/01 06:42 [medline]
 PHST- 2024/01/30 18:42 [pubmed]
 PHST- 2024/01/30 17:25 [entrez]
+PHST- 2025/02/19 00:00 [pmc-release]
 AID - 00001648-202403000-00016 [pii]
 AID - 10.1097/EDE.0000000000001691 [doi]
 PST - ppublish

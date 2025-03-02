@@ -1,12 +1,260 @@
 
-PMID- 39710066
+PMID- 40004498
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250226
+LR  - 20250228
+IS  - 2073-4425 (Electronic)
+IS  - 2073-4425 (Linking)
+VI  - 16
+IP  - 2
+DP  - 2025 Jan 28
+TI  - Analysis of Short Tandem Repeat Expansions in a Cohort of 12,496 Exomes from 
+      Patients with Neurological Diseases Reveals Variable Genotyping Rate Dependent on 
+      Exome Capture Kits.
+LID - 10.3390/genes16020169 [doi]
+LID - 169
+AB  - BACKGROUND/OBJECTIVES: Short tandem repeat expansions are the most common cause 
+      of inherited neurological diseases. These disorders are clinically and 
+      genetically heterogeneous, such as in myotonic dystrophy and spinocerebellar 
+      ataxia, and they are caused by different repeat motifs in different genomic 
+      locations. Major advances in bioinformatic tools used to detect repeat expansions 
+      from short read sequencing data in the last few years have led to the 
+      implementation of these workflows into next generation sequencing pipelines in 
+      healthcare. Here, we aimed to evaluate the clinical utility of analysing repeat 
+      expansions through exome sequencing in a large cohort of genetically undiagnosed 
+      patients with neurological disorders. METHODS: We here analyse 27 disease-causing 
+      DNA repeats found in the coding, intronic and untranslated regions in 12,496 
+      exomes in patients with a range of neurogenetic conditions. RESULTS: We 
+      identified-and validated by polymerase chain reaction-29 repeat expansions across 
+      a range of loci, 48% (n = 14) of which were diagnostic. We then analysed the 
+      genotyping performance across all repeat loci and found that, despite high 
+      coverage in most repeats in coding regions, some loci had low genotyping rates, 
+      such as those that cause spinocerebellar ataxia 2 (ATXN2, 0.1-8.4%) and 
+      Huntington disease (HTT, 0.2-58.2%), depending on the capture kit. Conversely, 
+      while most intronic repeats were not genotyped, we found a high genotyping rate 
+      in the intronic locus that causes spinocerebellar ataxia 36 (NOP56, 30.1-98.3%) 
+      and in the one that causes myotonic dystrophy type 1 (DMPK, myotonic dystrophy 
+      type 1). CONCLUSIONS: We show that the key factors that influence the genotyping 
+      rate of repeat expansion loci analysis are the sequencing read length and exome 
+      capture kit. These results provide important information about the performance of 
+      exome sequencing as a genetic test for repeat expansion disorders.
+FAU - Rocca, Clarissa
+AU  - Rocca C
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Murphy, David
+AU  - Murphy D
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Clarkson, Chris
+AU  - Clarkson C
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+FAU - Zanovello, Matteo
+AU  - Zanovello M
+AUID- ORCID: 0000-0003-3343-1547
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Gagliardi, Delia
+AU  - Gagliardi D
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+AD  - Department of Pathophysiology and Transplantation (DEPT), University of Milan, 
+      20122 Milan, Italy.
+FAU - Genomics, Queen Square
+AU  - Genomics QS
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Kaiyrzhanov, Rauan
+AU  - Kaiyrzhanov R
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Alvi, Javeria
+AU  - Alvi J
+AD  - Department of Paediatric Neurology, The Children's Hospital and the University of 
+      Child Health Sciences, Lahore 54000, Punjab, Pakistan.
+FAU - Maroofian, Reza
+AU  - Maroofian R
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Efthymiou, Stephanie
+AU  - Efthymiou S
+AUID- ORCID: 0000-0003-4900-9877
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Sultan, Tipu
+AU  - Sultan T
+AD  - Department of Paediatric Neurology, The Children's Hospital and the University of 
+      Child Health Sciences, Lahore 54000, Punjab, Pakistan.
+FAU - Vandrovcova, Jana
+AU  - Vandrovcova J
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Polke, James
+AU  - Polke J
+AD  - Neurogenetics Unit, National Hospital for Neurology and Neurosurgery, London WC1N 
+      3BG, UK.
+FAU - Labrum, Robyn
+AU  - Labrum R
+AD  - Neurogenetics Unit, National Hospital for Neurology and Neurosurgery, London WC1N 
+      3BG, UK.
+FAU - Houlden, Henry
+AU  - Houlden H
+AD  - Department of Neuromuscular Diseases, UCL Institute of Neurology, London WC1N 
+      3BG, UK.
+FAU - Tucci, Arianna
+AU  - Tucci A
+AUID- ORCID: 0000-0001-5644-0070
+AD  - William Harvey Research Institute, Queen Mary University of London, London EC1M 
+      6BQ, UK.
+AD  - Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, 
+      University College London, London WC1E 6BT, UK.
+LA  - eng
+GR  - MR/S006753/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+DEP - 20250128
+PL  - Switzerland
+TA  - Genes (Basel)
+JT  - Genes
+JID - 101551097
+SB  - IM
+MH  - Humans
+MH  - *Nervous System Diseases/genetics
+MH  - *Microsatellite Repeats/genetics
+MH  - *Exome/genetics
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Exome Sequencing/methods
+MH  - Cohort Studies
+MH  - Male
+MH  - Genotype
+MH  - Female
+MH  - DNA Repeat Expansion/genetics
+MH  - Genotyping Techniques/methods
+MH  - Myotonic Dystrophy/genetics
+MH  - Spinocerebellar Ataxias/genetics
+PMC - PMC11855749
+OTO - NOTNLM
+OT  - ExpansionHunter
+OT  - Huntington disease
+OT  - exome sequencing
+OT  - myotonic dystrophy
+OT  - repeat expansion disease
+OT  - repeat expansion diseases
+OT  - short read sequencing
+OT  - short tandem repeat
+OT  - spinocerebellar ataxia
+COIS- The authors declare no conflicts of interest.
+EDAT- 2025/02/26 06:28
+MHDA- 2025/02/26 06:29
+PMCR- 2025/01/28
+CRDT- 2025/02/26 01:17
+PHST- 2024/12/15 00:00 [received]
+PHST- 2025/01/17 00:00 [revised]
+PHST- 2025/01/20 00:00 [accepted]
+PHST- 2025/02/26 06:29 [medline]
+PHST- 2025/02/26 06:28 [pubmed]
+PHST- 2025/02/26 01:17 [entrez]
+PHST- 2025/01/28 00:00 [pmc-release]
+AID - genes16020169 [pii]
+AID - genes-16-00169 [pii]
+AID - 10.3390/genes16020169 [doi]
+PST - epublish
+SO  - Genes (Basel). 2025 Jan 28;16(2):169. doi: 10.3390/genes16020169.
+
+PMID- 39932794
 OWN - NLM
 STAT- Publisher
-LR  - 20241230
+LR  - 20250211
+IS  - 1558-8238 (Electronic)
+IS  - 0021-9738 (Linking)
+DP  - 2025 Feb 11
+TI  - MBNL overexpression rescues cardiac phenotypes in a myotonic dystrophy type 1 
+      heart mouse model.
+LID - e186416 [pii]
+LID - 10.1172/JCI186416 [doi]
+AB  - Myotonic Dystrophy Type 1 (DM1) is an autosomal dominant disease caused by a CTG 
+      repeat expansion in the DMPK gene. The expanded CUG repeat RNA (CUGexp RNA) 
+      transcribed from the mutant allele sequesters the muscleblind-like (MBNL) family 
+      of RNA-binding proteins, causing their loss of function and disrupting regulated 
+      pre-mRNA processing. We used a DM1 heart mouse model that inducibly expresses 
+      CUGexp RNA to test the contribution of MBNL loss to DM1 cardiac abnormalities and 
+      explore MBNL restoration as a potential therapy. AAV9-mediated overexpression of 
+      MBNL1 and/or MBNL2 significantly rescued DM1 cardiac phenotypes including 
+      conduction delays, contractile dysfunction, hypertrophy, and mis-regulated 
+      alternative splicing and gene expression. While robust, rescue was partial 
+      compared to reduced CUGexp RNA and plateaued with increased exogenous MBNL 
+      expression. These findings demonstrate that MBNL loss is a major contributor to 
+      DM1 cardiac manifestations, and suggest that additional mechanisms play a role, 
+      highlighting the complex nature of DM1 pathogenesis.
+FAU - Hu, Rong-Chi
+AU  - Hu RC
+AD  - Department of Pathology & Immunology, Baylor College of Medicine, Houston, United 
+      States of America.
+FAU - Zhang, Yi
+AU  - Zhang Y
+AD  - Department of Biomedical Engineering, Oregon Health & Science University, 
+      Portland, United States of America.
+FAU - Nitschke, Larissa
+AU  - Nitschke L
+AD  - Department of Pathology & Immunology, Baylor College of Medicine, Houston, United 
+      States of America.
+FAU - Johnson, Sara J
+AU  - Johnson SJ
+AD  - Department of Pathology & Immunology, Baylor College of Medicine, Houston, United 
+      States of America.
+FAU - Hurley, Ayrea E
+AU  - Hurley AE
+AD  - Department of Integrative Physiology, Baylor College of Medicine, Houston, United 
+      States of America.
+FAU - Lagor, William R
+AU  - Lagor WR
+AD  - Department of Integrative Physiology, Baylor College of Medicine, Houston, United 
+      States of America.
+FAU - Xia, Zheng
+AU  - Xia Z
+AD  - Department of Biomedical Engineering, Oregon Health & Science University, 
+      Portland, United States of America.
+FAU - Cooper, Thomas A
+AU  - Cooper TA
+AD  - Department of Pathology & Immunology, Baylor College of Medicine, Houston, United 
+      States of America.
+LA  - eng
+PT  - Journal Article
+DEP - 20250211
+PL  - United States
+TA  - J Clin Invest
+JT  - The Journal of clinical investigation
+JID - 7802877
+SB  - IM
+OTO - NOTNLM
+OT  - Arrhythmias
+OT  - Cardiovascular disease
+OT  - Genetic diseases
+OT  - Genetics
+OT  - Therapeutics
+EDAT- 2025/02/11 18:21
+MHDA- 2025/02/11 18:21
+CRDT- 2025/02/11 12:03
+PHST- 2025/02/11 18:21 [medline]
+PHST- 2025/02/11 18:21 [pubmed]
+PHST- 2025/02/11 12:03 [entrez]
+AID - 186416 [pii]
+AID - 10.1172/JCI186416 [doi]
+PST - aheadofprint
+SO  - J Clin Invest. 2025 Feb 11:e186416. doi: 10.1172/JCI186416.
+
+PMID- 39710066
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250216
+LR  - 20250216
 IS  - 1096-1194 (Electronic)
 IS  - 0890-8508 (Linking)
 VI  - 79
-DP  - 2024 Dec 29
+DP  - 2025 Feb
 TI  - Advancing molecular diagnostics of myotonic dystrophy type 1 using short-read 
       whole genome sequencing.
 PG  - 102005
@@ -36,7 +284,7 @@ AB  - Myotonic dystrophy type 1 (DM1) is a serious multisystem disorder caused b
       genetic modifiers in other genes and the detection of alternative diagnoses in 
       DM1-negative patients by extension of the bioinformatic evaluation of the 
       generated data.
-CI  - Copyright (c) 2024. Published by Elsevier Ltd.
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
 FAU - Lojova, Ingrid
 AU  - Lojova I
 AD  - Institute of Clinical and Translational Research, Biomedical Research Center of 
@@ -96,7 +344,18 @@ PL  - England
 TA  - Mol Cell Probes
 JT  - Molecular and cellular probes
 JID - 8709751
+RN  - EC 2.7.11.1 (Myotonin-Protein Kinase)
+RN  - 0 (DMPK protein, human)
 SB  - IM
+MH  - *Myotonic Dystrophy/genetics/diagnosis
+MH  - Humans
+MH  - *Whole Genome Sequencing/methods
+MH  - *Alleles
+MH  - Myotonin-Protein Kinase/genetics
+MH  - Molecular Diagnostic Techniques/methods
+MH  - Female
+MH  - Male
+MH  - Trinucleotide Repeat Expansion/genetics
 OTO - NOTNLM
 OT  - Massively parallel sequencing
 OT  - Myotonic dystrophy type 1
@@ -110,29 +369,33 @@ COIS- Declaration of competing interest The authors declare the following financ
       known competing financial interests or personal relationships that could have 
       appeared to influence the work reported in this paper.
 EDAT- 2024/12/23 00:19
-MHDA- 2024/12/23 00:19
+MHDA- 2025/02/17 00:21
 CRDT- 2024/12/22 19:14
 PHST- 2024/12/05 00:00 [received]
 PHST- 2024/12/20 00:00 [revised]
 PHST- 2024/12/20 00:00 [accepted]
+PHST- 2025/02/17 00:21 [medline]
 PHST- 2024/12/23 00:19 [pubmed]
-PHST- 2024/12/23 00:19 [medline]
 PHST- 2024/12/22 19:14 [entrez]
 AID - S0890-8508(24)00057-4 [pii]
 AID - 10.1016/j.mcp.2024.102005 [doi]
-PST - aheadofprint
-SO  - Mol Cell Probes. 2024 Dec 29;79:102005. doi: 10.1016/j.mcp.2024.102005.
+PST - ppublish
+SO  - Mol Cell Probes. 2025 Feb;79:102005. doi: 10.1016/j.mcp.2024.102005. Epub 2024 
+      Dec 29.
 
 PMID- 39679849
 OWN - NLM
-STAT- Publisher
-LR  - 20241216
+STAT- MEDLINE
+DCOM- 20250211
+LR  - 20250211
 IS  - 1460-2083 (Electronic)
 IS  - 0964-6906 (Linking)
-DP  - 2024 Dec 16
+VI  - 34
+IP  - 4
+DP  - 2025 Feb 8
 TI  - Identification of ZNF850 as a novel CTG repeat expansion-related gene in myotonic 
       dystrophy type 1 patient-derived iPSCs.
-LID - ddae186 [pii]
+PG  - 327-337
 LID - 10.1093/hmg/ddae186 [doi]
 AB  - Myotonic dystrophy type 1 (DM1) is a dominantly inherited multi-system disease 
       caused by expanded CTG repeats in the 3' untranslated region of the dystrophia 
@@ -194,41 +457,56 @@ LA  - eng
 GR  - JSPS KAKENHI/
 GR  - Japan Agency for Medical Research and Development/
 PT  - Journal Article
-DEP - 20241216
 PL  - England
 TA  - Hum Mol Genet
 JT  - Human molecular genetics
 JID - 9208958
+RN  - EC 2.7.11.1 (Myotonin-Protein Kinase)
+RN  - 0 (DMPK protein, human)
+RN  - 0 (DNA-Binding Proteins)
 SB  - IM
+MH  - Humans
+MH  - *Myotonic Dystrophy/genetics/pathology/metabolism
+MH  - *Trinucleotide Repeat Expansion/genetics
+MH  - *Induced Pluripotent Stem Cells/metabolism
+MH  - Myotonin-Protein Kinase/genetics/metabolism
+MH  - Adult
+MH  - Muscle, Skeletal/metabolism/pathology
+MH  - DNA-Binding Proteins/genetics/metabolism
+MH  - Female
+MH  - Male
 OTO - NOTNLM
 OT  - induced pluripotent stem cells
 OT  - mismatch repair
 OT  - myotonic dystrophy type 1
 OT  - triplet repeat
 EDAT- 2024/12/16 12:27
-MHDA- 2024/12/16 12:27
+MHDA- 2025/02/11 06:22
 CRDT- 2024/12/16 09:36
 PHST- 2024/08/01 00:00 [received]
 PHST- 2024/10/25 00:00 [revised]
 PHST- 2024/12/08 00:00 [accepted]
-PHST- 2024/12/16 12:27 [medline]
+PHST- 2025/02/11 06:22 [medline]
 PHST- 2024/12/16 12:27 [pubmed]
 PHST- 2024/12/16 09:36 [entrez]
 AID - 7925495 [pii]
 AID - 10.1093/hmg/ddae186 [doi]
-PST - aheadofprint
-SO  - Hum Mol Genet. 2024 Dec 16:ddae186. doi: 10.1093/hmg/ddae186.
+PST - ppublish
+SO  - Hum Mol Genet. 2025 Feb 8;34(4):327-337. doi: 10.1093/hmg/ddae186.
 
 PMID- 39492694
 OWN - NLM
-STAT- Publisher
-LR  - 20241104
+STAT- MEDLINE
+DCOM- 20250203
+LR  - 20250203
 IS  - 1530-8561 (Electronic)
 IS  - 0009-9147 (Linking)
-DP  - 2024 Nov 4
+VI  - 71
+IP  - 2
+DP  - 2025 Feb 3
 TI  - dmTGS: Precise Targeted Enrichment Long-Read Sequencing Panel for Tandem Repeat 
       Detection.
-LID - hvae164 [pii]
+PG  - 319-331
 LID - 10.1093/clinchem/hvae164 [doi]
 AB  - BACKGROUND: Tandem repeats (TRs) are abundant in the human genome and associated 
       with repeat expansion disorders. Our study aimed to develop a tandem repeat panel 
@@ -324,24 +602,35 @@ AD  - Department of Neurology and Institute of Neurology of First Affiliated Hos
       Fujian Medical University, Fuzhou, China.
 LA  - eng
 PT  - Journal Article
-DEP - 20241104
 PL  - England
 TA  - Clin Chem
 JT  - Clinical chemistry
 JID - 9421549
+RN  - 139135-51-6 (Fragile X Mental Retardation Protein)
+RN  - 0 (FMR1 protein, human)
+RN  - 0 (DMPK protein, human)
+RN  - EC 2.7.11.1 (Myotonin-Protein Kinase)
 SB  - IM
+MH  - Humans
+MH  - *Tandem Repeat Sequences/genetics
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Mutation
+MH  - Fragile X Mental Retardation Protein/genetics
+MH  - Sequence Analysis, DNA/methods
+MH  - Myotonic Dystrophy/genetics/diagnosis
+MH  - Myotonin-Protein Kinase/genetics
 EDAT- 2024/11/04 06:22
-MHDA- 2024/11/04 06:22
+MHDA- 2025/02/03 18:20
 CRDT- 2024/11/04 03:53
 PHST- 2024/04/03 00:00 [received]
 PHST- 2024/09/17 00:00 [accepted]
-PHST- 2024/11/04 06:22 [medline]
+PHST- 2025/02/03 18:20 [medline]
 PHST- 2024/11/04 06:22 [pubmed]
 PHST- 2024/11/04 03:53 [entrez]
 AID - 7874402 [pii]
 AID - 10.1093/clinchem/hvae164 [doi]
-PST - aheadofprint
-SO  - Clin Chem. 2024 Nov 4:hvae164. doi: 10.1093/clinchem/hvae164.
+PST - ppublish
+SO  - Clin Chem. 2025 Feb 3;71(2):319-331. doi: 10.1093/clinchem/hvae164.
 
 PMID- 39433769
 OWN - NLM
@@ -2503,7 +2792,7 @@ AD  - NIHR Newcastle Biomedical Research Centre, Newcastle upon Tyne Hospitals N
 LA  - eng
 GR  - WT_/Wellcome Trust/United Kingdom
 PT  - Journal Article
-PL  - Netherlands
+PL  - United States
 TA  - J Neuromuscul Dis
 JT  - Journal of neuromuscular diseases
 JID - 101649948
@@ -7389,7 +7678,7 @@ AD  - Childrens Hospital of Eastern Ontario Research Institute, University of Ot
       Ottawa, ON, Canada.
 LA  - eng
 PT  - Journal Article
-PL  - Netherlands
+PL  - United States
 TA  - J Neuromuscul Dis
 JT  - Journal of neuromuscular diseases
 JID - 101649948
@@ -11162,7 +11451,7 @@ AD  - Pediatric Neurology, CHU Sainte-Justine, Universite de Montreal, Montreal,
       Canada.
 LA  - eng
 PT  - Journal Article
-PL  - Netherlands
+PL  - United States
 TA  - J Neuromuscul Dis
 JT  - Journal of neuromuscular diseases
 JID - 101649948
@@ -14678,7 +14967,7 @@ AU  - Campbell C
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-PL  - Netherlands
+PL  - United States
 TA  - J Neuromuscul Dis
 JT  - Journal of neuromuscular diseases
 JID - 101649948
